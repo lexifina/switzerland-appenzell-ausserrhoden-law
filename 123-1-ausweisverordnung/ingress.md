@@ -1,4 +1,4 @@
-# Verordnung über die Ausstellung von Ausweisen für Schweizer Staatsangehörige und von Reisedokumenten für Ausländer
+# Verordnung über die Ausstellung von Ausweisen für Schweizer Staatsangehörige
 (Ausweisverordnung)
 vom 12.01.2010
 Der Regierungsrat von Appenzell Ausserrhoden,
