@@ -1,0 +1,4 @@
+# Art. 7b Massnahmen zum Schutz der öffentlichen Ordnung
+1 Halter, deren Hunde die öffentliche Ordnung bedrohen oder stören, werden vom Gemeinderat schriftlich aufgefordert, für Abhilfe zu sorgen. Bei Nichtbefolgen verfügt der Gemeinderat die notwendigen Massnahmen. Er kann insbesondere auf Kosten des Hundehalters eine Begutachtung des Tieres durch einen Sachverständigen anordnen und den Hundehalter zum Besuch eines Kurses über Erziehung und Haltung des Tieres verpflichten. Kann der Bedrohung oder Störung nicht anders begegnet werden, verfügt er die entschädigungslose Fremdplatzierung oder Beseitigung des Tieres.
+2 Im Rahmen der unmittelbaren Gefahrenabwehr sind auch sämtliche Polizeiorgane befugt, Hunde entschädigungslos zu beseitigen.
+3 Verstösst ein Hundehalter wiederholt in erheblicher Weise gegen Vorschriften über die Hundehaltung und bietet er keine Aussicht auf Besserung, kann ihm der Gemeinderat das Halten von Hunden verbieten.
