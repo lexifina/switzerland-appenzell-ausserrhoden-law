@@ -9,7 +9,7 @@
 ### (6.1.) 6.1 Stimmrecht
 ### (6.2.) 6.2 Volksinitiative
 ### (6.3.) 6.3 Mitwirkungsrechte
-## (7.) Die Landsgemeinde
+## (7.) Die Stimmberechtigten
 ## (8.) 8. Behörden
 ### (8.1.) 8.1 Allgemeines
 ### (8.2.) 8.2 Der Kantonsrat
