@@ -1,0 +1,4 @@
+# Art. 6a Verwendung der Strassenverkehrssteuern
+1 25 % des Ertrages der kantonalen Strassenverkehrssteuern des vorangegangenen Rechnungsjahres wird an die Gemeinden für den Bau und Unterhalt der dem allgemeinen Verkehr geöffneten Strassen mit ihren Nebenanlagen ausgerichtet. Die Bestimmung der Anteile der Gemeinden richtet sich nach den gewichteten Längen und Flächen der Strassen und Nebenanlagen.
+2 45 % des Ertrages der kantonalen Strassenverkehrssteuern des vorangegangenen Rechnungsjahres wird der Staatsstrassenrechnung zugewiesen.
+3 Der nach der Verwendung gemäss Abs. 1 und Abs. 2 verbleibende Ertrag der kantonalen Strassenverkehrssteuern verbleibt in der laufenden Rechnung des Kantons zugunsten der verkehrsbezogenen Aufwendungen der Kantonspolizei und der übrigen verkehrsbezogenen kantonalen Aufgaben.
