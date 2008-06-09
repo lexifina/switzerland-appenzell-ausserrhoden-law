@@ -1,0 +1,3 @@
+# Art. 13a Anspruch auf und Verpflichtung zur Leistung an den Soziallastenausgleich
+1 Überschreiten die Nettoaufwendungen aus den Geldleistungen für die wirtschaftliche Sozialhilfe pro Einwohnerin und Einwohner einer Gemeinde das Mittel aller Gemeinden, hat die Gemeinde Anspruch auf Leistungen aus dem Finanzausgleich gemäss Art. 13b. Das Mittel aller Gemeinden entspricht dem Faktor 1.00.
+2 Unterschreiten die Nettoaufwendungen aus den Geldleistungen für die wirtschaftliche Sozialhilfe einer Gemeinde das Mittel aller Gemeinden, leistet die Gemeinde einen Beitrag an den Finanzausgleich gemäss Art. 13b.
