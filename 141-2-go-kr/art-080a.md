@@ -1,0 +1,4 @@
+# Art. 80a Bei interkantonalen Vereinbarungen
+1 Der Regierungsrat informiert das Büro jeweils über die Aufnahme von Vertragsverhandlungen zum Abschluss oder zur Änderung von interkantonalen Vereinbarungen, sofern sie durch den Kantonsrat oder die Stimmberechtigten zu genehmigen sind. Die Information erfolgt schriftlich und wird durch das Büro dem erweiterten Büro zur Kenntnis gebracht.
+2 Der Regierungsrat lädt das Büro im Rahmen der Vertragsverhandlungen zur Stellungnahme ein, sobald ein Vereinbarungsentwurf vorliegt. Das Büro kann zur Ausarbeitung der Stellungnahme das erweiterte Büro, ständige oder bestehende besondere Kommissionen sowie Drittpersonen beiziehen. Die Stellungnahme wird den Mitgliedern des Kantonsrates zur Kenntnis gebracht.
+3 Der Regierungsrat informiert den Kantonsrat anlässlich der Genehmigung schriftlich über die Verwendung der Stellungnahme sowie über die Ergebnisse.
