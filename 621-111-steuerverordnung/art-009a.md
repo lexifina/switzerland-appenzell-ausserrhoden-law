@@ -1,0 +1,3 @@
+# Art. 9a Veräusserung infolge Überführung (Art. 21 Abs. 2 StG)
+1 Bei der Überführung von Geschäftsvermögen in das Privatvermögen gilt die Differenz zwischen Verkehrswert und Einkommenssteuerwert als steuerbarer Kapitalgewinn.
+2 Kann der Verkehrswert nicht bestimmt werden, gilt als Überführungswert der Einkommenssteuerwert, mindestens jedoch der amtliche Verkehrswert.
