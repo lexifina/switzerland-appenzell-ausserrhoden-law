@@ -1,0 +1,5 @@
+# Gebührentarif zum Strassengesetz
+vom 19.01.2010
+Der Regierungsrat von Appenzell Ausserrhoden,
+gestützt auf Art. 87 des Strassengesetzes vom 26. Oktober 2009,
+beschliesst:
