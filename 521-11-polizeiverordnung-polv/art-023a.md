@@ -1,0 +1,3 @@
+# Art. 23a Erkennungsdienstliche Behandlung
+1 Die Polizeiangehörigen werden bei Ihrem Eintreten in die Kantonspolizei zum Zweck allfälliger Spurenausscheidungen daktyloskopisch und fotografisch erfasst. Im Bedarfsfall können ihnen im Rahmen des Bundesrechts nachträglich auch Proben zur DNA-Analyse abgenommen werden. Bei Korpsangehörigen, welche bereits eingetreten sind, jedoch zu diesem Zeitpunkt noch nicht erkennungsdienstlich behandelt worden sind, wird dies nachgeholt.
+2 Von den Mitarbeiterinnen und Mitarbeitern des Kriminaltechnischen Dienstes werden neben der daktyloskopischen und fotografischen Erfassung gleichzeitig Proben zur DNA-Analyse genommen.
