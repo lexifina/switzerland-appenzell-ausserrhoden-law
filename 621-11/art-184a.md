@@ -1,0 +1,2 @@
+# Art. 184a 3a. Verfahrenspflichten bei Wegfall der Ermässigung der Erbschafts- oder Schenkungssteuer bei der Unternehmensnachfolge
+1 Wem eine Ermässigung der Erbschafts- oder Schenkungssteuer im Sinne von Art. 147a gewährt wurde, muss innerhalb von 30 Tagen nach Eintritt des nachträglichen Wegfalls der Ermässigung gemäss Art. 147b bei der zuständigen Gemeindekanzlei oder der Kantonalen Steuerverwaltung Meldung machen.

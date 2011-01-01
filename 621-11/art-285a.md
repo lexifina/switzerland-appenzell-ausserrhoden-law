@@ -1,0 +1,3 @@
+# Art. 285a 9. Gewinnsteuer, Steuerberechnung bei Kapitalgesellschaften und Genossenschaften
+1 Für Kapitalgesellschaften und Genossenschaften, welchen vor dem 1. Januar 2008 Steuererleichterungen nach Art. 67 gewährt worden sind, beträgt während der Dauer der laufenden Steuererleichterung die einfache Steuer vom gesamten steuerbaren Gewinn 1,850 Prozent. Die Höhe der Gewinnsteuer bestimmt sich nach dem Steuerfuss. Es wird ein fester Zuschlag des Vierfachen der einfachen Steuer erhoben.
+2 Falls die Anwendung des Tarifs gemäss Art. 77 zu einer tieferen Steuerbelastung führt als die Gewährung der Steuererleichterung, erfolgt die Besteuerung für die jeweilige Steuerperiode zum ordentlichen Tarif, aber ohne Gewährung der Steuererleichterung.
