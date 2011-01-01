@@ -1,0 +1,5 @@
+# Art. 45c Durchführung
+1 Zur Feststellung des Sachverhaltes bedient sich das Untersuchungsorgan der Beweismittel nach dem Gesetz über die Verwaltungsrechtspflege. Ausgenommen ist die Zeugeneinvernahme.
+2 Das Untersuchungsorgan weist die Personen, die befragt werden sollen, darauf hin, dass sie die Aussage verweigern können, wenn sie sich mit dieser im Hinblick auf ein Disziplinar- oder Strafverfahren selbst belasten würden. Es weist Personen ausserhalb der kantonalen Verwaltung, die befragt werden sollen, darauf hin, dass ihre Auskunftserteilung freiwillig erfolgt.
+3 Die in die Administrativuntersuchung einbezogenen Personen haben Gelegenheit, alle Akten, die sie betreffen, einzusehen und dazu Stellung zu nehmen. Sie haben Anspruch auf rechtliches Gehör und können sich vertreten und verbeiständen lassen.
+4 Zeigt sich im Verlauf der Administrativuntersuchung, dass Informationen, die unter die Schweigepflicht fallen, aus anderen Departementen oder den Stabsstellen des Regierungsrates notwendig sind, so hat das Untersuchungsorgan vorgängig das Einverständnis der Vorsteherin oder des Vorstehers des Departements oder des Landammanns einzuholen.
