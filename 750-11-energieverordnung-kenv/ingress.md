@@ -1,6 +1,6 @@
 # Verordnung zum Energiegesetz
-(Energieverordnung)
+(Energieverordnung; kEnV)
 vom 18.12.2001
-Der Regierungsrat des Kantons Appenzell A.Rh.,
+Der Regierungsrat von Appenzell Ausserrhoden,
 gestützt auf Art. 24 des Energiegesetzes vom 24. September 2001,
-verordnet:
+beschliesst:
