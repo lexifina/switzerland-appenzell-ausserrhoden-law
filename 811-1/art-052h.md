@@ -1,0 +1,4 @@
+# Art. 52h Weitere Anforderungen a) Offenlegungspflicht
+1 Die verantwortlichen kantonalen Organe und, soweit nötig, die Versicherer haben Einsicht in die Daten, insbesondere medizinische Leistungsdaten, Qualitätsdaten, Daten des Rechnungswesens und der Kostenrechnung, die für die Erteilung eines Leistungsauftrags und die Kontrolle der Auftragserfüllung relevant sind.
+2 Die Leistungserbringer der Spitalliste und der Pflegeheimliste des Kantons sind verpflichtet, zeitgerecht und vollständig die Daten der medizinischen Statistik und der Krankenhausstatistik bzw. der Statistik der sozialmedizinischen Institutionen dem Bundesamt für Statistik und dem Departement Gesundheit zu liefern.
+3 Der Kanton und die Versicherer wahren die Geschäftsgeheimnisse der Leistungserbringer sowie den Persönlichkeitsschutz der Patientinnen und Patienten.

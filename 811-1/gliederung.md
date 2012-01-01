@@ -7,10 +7,11 @@
 ## (7.) VII. Gesundheitsfachpersonen
 ## (8.) VIII. Rechte und Pflichten der Gesundheitsfachpersonen
 ## (9.) IX. Die Institutionen des Gesundheitswesens
-## (10.) X. Öffentliche Spitäler
+## (10.) X. Versorgung durch Spitäler und Pflegeheime
 ## (11.) XI. Heilmittel
 ## (12.) XII. Gesundheitspolizei
 ## (13.) XIII. Rettungswesen
 ## (14.) XIV. Bestattungswesen
 ## (15.) XV. Verwaltungsmassnahmen
+## (15a.) XVa. Rechtspflege
 ## (16.) XVI. Schluss- und Übergangsbestimmungen

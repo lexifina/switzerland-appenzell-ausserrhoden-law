@@ -1,0 +1,6 @@
+# Art. 52b b) Spitalplanung und Pflegeheimplanung
+1 Der Kanton erstellt nach dem Bundesgesetz über die Krankenversicherung eine mittel- und langfristige, jährlich fortgeschriebene Planung der stationären medizinischen und pflegerischen Versorgung der Einwohnerinnen und Einwohner. Er koordiniert nach dem Bundesgesetz über die Krankenversicherung die Planung mit den anderen Kantonen.
+2 Die Planung umfasst insbesondere die Bereiche Untersuchung, Behandlung und Pflege von Kranken einschliesslich medizinische Prävention und Rehabilitation.
+3 Als Planungsgrundlage dienen insbesondere der aktuelle Stand der Versorgung, der absehbare Bedarf, die voraussichtlichen Angebote und die Entwicklungsziele.
+4 Für die Planung werden die Leistungsanbieter evaluiert, wobei namentlich die Standards und die Qualität der medizinischen Versorgung, die Wirtschaftlichkeit und Zweckmässigkeit des Angebots, der Zugänglichkeit der Leistungen für die Bevölkerung sowie die langfristige Sicherung der Leistungen berücksichtigt werden.
+5 In Bereichen, wo Bedarf oder Kapazitäten innerhalb des Kantons gering oder nicht vorhanden sind, kann auf spezifische kantonale Planungsaussagen verzichtet und auf ausserkantonale Angebote und die Koordination mit diesen verwiesen werden.
