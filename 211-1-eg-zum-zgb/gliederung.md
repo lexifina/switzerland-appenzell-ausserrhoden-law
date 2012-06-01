@@ -50,5 +50,6 @@
 ### (3.2.) B. Grundpfandrechte
 ### (3.3.) C. Grundbuchrecht
 ### (3.4.) D. Zivilprozessordnung
+### (3.41) Dbis. Kindes- und Erwachsenenschutzrecht
 ### (3.5.) E. Aufhebung kantonalen Rechtes
 ### (3.6.) F. Schlussbestimmung

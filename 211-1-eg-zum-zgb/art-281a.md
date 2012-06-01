@@ -1,0 +1,2 @@
+# Art. 281a
+1 Bereits vor dem Inkrafttreten der Änderung der Art. 37–70 vom 20. Februar 2012 können die Mitglieder der neuen Kindes- und Erwachsenenschutzbehörde, die Personen der Fachdienste sowie der Berufsbeistandschaften angestellt werden. Sie können Einsicht in die Akten der bestehenden Massnahmen wie auch der hängigen Verfahren im Bereich des neuen Kindes- und Erwachsenenschutzrechts nehmen.
