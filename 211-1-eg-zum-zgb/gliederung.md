@@ -13,8 +13,9 @@
 #### (2.2.4.) D. Stiftungen und Vorsorgeeinrichtungen
 ### (2.3.) Dritter Teil: Familienrecht
 #### (2.3.1.) A. Güterrechtsregister
-#### (2.3.2.) B. Eltern- und Kindesrecht
-#### (2.3.3.) C. Vormundschaftsordnung
+#### (2.3.2.) B. Adoptionsrecht
+#### (2.3.3) C. Kindes- und Erwachsenenschutzrecht
+#### (2.3.3.) …
 ### (2.4.) Vierter Teil: Erbrecht
 #### (2.4.1.) A. Erbrecht des Gemeinwesens
 #### (2.4.2.) B. Aufbewahrung letztwilliger Verfügungen
