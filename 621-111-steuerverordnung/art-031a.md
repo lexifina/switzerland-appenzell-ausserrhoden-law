@@ -1,2 +1,3 @@
-# Art. 31a Amtlicher Verkehrswert (Art. 47 StG)
-1 Für die Bestimmung des amtlichen Verkehrswertes von Grundstücken ist das Datum der Schätzung massgebend.
+# Art. 31a Bewertung von Mitarbeiterbeteiligungen (Art. 46a StG)
+1 Bei gesperrten Mitarbeiteraktien ist die Sperrfrist analog der Einkommenssteuer zu berücksichtigen.
+2 Mitarbeiteraktien mit Rückgabepflicht sind bis zur Rückgabe bzw. zum Wegfall der Rückgabepflicht zum Rückgabepreis zu versteuern.
