@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Richtzeiten
+Anhang 1 : Richtzeiten
