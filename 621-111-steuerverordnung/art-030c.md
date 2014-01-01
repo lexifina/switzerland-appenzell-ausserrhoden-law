@@ -1,4 +1,4 @@
-# Art. 30c Vereinfachtes Abrechnungsverfahren (Art. 39a StG)
+# Art. 30c Vereinfachtes Abrechnungsverfahren (Art. 39b StG)
 1 Sofern sich aus Art. 39a StG und aus den Bestimmungen dieses Artikels nichts anderes ergibt, gelten die Bestimmungen des StG und dieser Verordnung über die Quellensteuer sinngemäss auch im vereinfachten Abrechnungsverfahren.
 2 Die Steuer wird auf der Grundlage des vom Arbeitgeber der AHV-Ausgleichskasse gemeldeten Bruttolohns erhoben.
 3 Für die Abrechnung und die Ablieferung der Quellensteuer an die zuständige AHV-Ausgleichskasse gelten die Bestimmungen der Verordnung über die Alters- und Hinterlassenenversicherung über das vereinfachte Abrechnungsverfahren sinngemäss.

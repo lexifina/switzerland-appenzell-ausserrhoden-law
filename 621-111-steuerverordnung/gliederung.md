@@ -8,8 +8,9 @@
 #### (1.2.1.) A. Steuerpflicht
 #### (1.2.2.) B. Gewinnsteuer
 ### (1.3.) 3. Quellensteuer
-#### (1.3.1.) A. Natürliche Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt im Kanton
-#### (1.3.2.) B. Gemeinsame Bestimmungen
+#### (1.3.1.) A. Arbeitnehmerinnen und Arbeitnehmer
+#### (1.3.1a.) B. Natürliche Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt im Kanton
+#### (1.3.2.) C. Gemeinsame Bestimmungen
 ### (1.4.) 4. Grundstückgewinnsteuer
 ### (1.5.) 5. Erbschafts- und Schenkungssteuer
 ### (1.6.) 6. Verfahrensrecht
