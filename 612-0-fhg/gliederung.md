@@ -1,6 +1,6 @@
-## (1.) I. Geltungsbereich und Grundsätze
-## (2.) II. Aufbau des Rechnungswesens
-## (3.) III. Vollzugsbestimmungen zum Haushaltsablauf
+## (1.) I. Zweck, Geltungsbereich und Grundsätze
+## (2.) II. Haushaltsteuerung und Kredite
+## (3.) III. Rechnungslegung
 ## (4.) IV. Finanzkontrolle
-## (5.) V. Finanzaufsicht des Kantons über die Gemeinden
-## (6.) VI. Übergangsbestimmungen
+## (5.) V. Kantonale Finanzaufsicht über die Gemeinden
+## (6.) VI. Übergangs- und Schlussbestimmungen

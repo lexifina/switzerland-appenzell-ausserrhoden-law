@@ -1,5 +1,6 @@
 # Finanzhaushaltsgesetz
-vom 30.04.1995
-Die Landsgemeinde des Kantons Appenzell A.Rh.,
-gestützt auf Art. 96 der Kantonsverfassung,
+(FHG)
+vom 04.06.2012
+Der Kantonsrat von Appenzell Ausserrhoden,
+gestützt auf Art. 96 der Verfassung des Kantons Appenzell A.Rh. vom 30. April 1995,
 beschliesst:
