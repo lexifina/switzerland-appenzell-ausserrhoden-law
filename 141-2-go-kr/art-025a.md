@@ -7,7 +7,7 @@ b) Staatswirtschaftliche Kommission:
 1. Präsidentin / Präsident Fr. 4 000.–
 2. Mitglieder Fr. 3 000.–
 c) Finanzkommission:
-1. Präsidentin / Präsident Fr. 2 000.–
+1. Präsidentin / Präsident Fr. 4 000.–
 2. Ständige Mitglieder Fr. 1 000.–
 d) Justizkommission: Präsidentin / Präsident Fr. 1 000.–
 2 Bei einem Rücktritt oder einer Ersatzwahl während eines Amtsjahres wird die Zulage pro rata ausgerichtet.
