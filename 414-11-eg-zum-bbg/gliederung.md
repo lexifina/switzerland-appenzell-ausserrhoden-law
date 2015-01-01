@@ -1,5 +1,6 @@
 ## (1.) I. Allgemeine Bestimmungen
 ## (2.) II. Trägerschaften
+## (2.1) II.a Lehrende
 ## (3.) III. Organe
 ## (4.) IV. Bildungsangebot
 ## (5.) V. Bildung in der beruflichen Praxis
