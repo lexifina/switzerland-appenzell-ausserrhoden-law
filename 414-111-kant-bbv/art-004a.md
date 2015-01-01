@@ -1,0 +1,6 @@
+# Art. 4a Inhalt des Berufsauftrags für Lehrende der Berufsfachschule
+1 Die Berufsauftragsbereiche umfassen insbesondere:
+a) Lehren und Unterricht: Durchführung des Unterrichts; Durchführung von Lernkontrollen und Abschlussprüfungen.
+b) Vor- und Nachbereitung des Unterrichts: Planung, Vorbereitung und Auswertung des Unterrichts, Beratung und Beurteilung der Lernenden, Zusammenarbeit mit Eltern, Koordination von Unterrichtseinheiten mit andern Lehrenden; Administrative und organisatorischer Aufgaben im Zusammenhang mit den zugeteilten Lernenden.
+c) Gemeinschaftsarbeit Schule: Zusammenarbeit mit anderen Lehrenden, Schulleitungen, Behörden und Kommissionen; Mitwirkung an der Gestaltung und Entwicklung der eigenen Schule;
+d) Fort- und Weiterbildung: Persönliche Weiterbildung; Gegenseitiger Unterrichtsbesuch mit Besprechung.
