@@ -1,3 +1,1 @@
 # Art. 30b Teilsatzverfahren (Art. 39 Abs. 4 StG)
-1 Das Teilsatzverfahren ist auf verdeckte Gewinnausschüttungen oder Gewinnvorwegnahmen nicht anwendbar.
-2 …
