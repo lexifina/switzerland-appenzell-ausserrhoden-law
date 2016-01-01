@@ -1,4 +1,8 @@
 # Art. 41a Taggelder und Spesen
-1 Mitglieder von ständigen beratenden und von besonderen Kommissionen haben Anspruch auf Taggelder und Spesen. Davon ausgenommen sind die Mitglieder des Regierungsrates sowie kantonale Angestellte, letztere, soweit die Mitgliedschaft im Rahmen der amtlichen Tätigkeit erfolgt; vorbehalten bleibt das REIS (Reglement über die Entschädigung von Inkonvenienzen, Spesen, Pikettdienst und ausserordentliche Arbeitszeit).
-2 Die Taggelder richten sich nach Art. 25c Abs. 2 der Geschäftsordnung des Kantonsrates und die Spesen nach Art. 25d–25f der Geschäftsordnung des Kantonsrates.
+1 Kommissionsmitglieder haben Anspruch auf Taggelder. Davon ausgenommen sind die Mitglieder des Regierungsrates sowie Angestellte des Kantons und seiner selbständigen und unselbständigen Anstalten, welche im Rahmen ihrer dienstlichen Tätigkeit Einsitz in eine Kommission nehmen.
+2 Es werden folgende Taggelder ausgerichtet:
+a) ganzer Tag Fr. 250.–
+b) halber Tag Fr. 125.–
+2bis Ist der Einsitz externer Fachpersonen in einer Kommission notwendig, kann der Regierungsrat für diese Personen höhere Taggelder bewilligen.
 3 Wer ein Präsidium bekleidet und Anspruch auf Taggelder hat, erhält pro Sitzung eine Zulage von Fr. 50.–.
+4 Die Entschädigung von Spesen richtet sich nach dem Reglement über die Entschädigung von Inkonvenienzen, Spesen, Pikettdienst und ausserordentliche Arbeitszeit.
