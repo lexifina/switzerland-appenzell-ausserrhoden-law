@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Bussenkatalog
+Anhang 1 : Bussenkatalog

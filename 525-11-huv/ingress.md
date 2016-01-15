@@ -1,5 +1,6 @@
-# Verordnung zum Hundegesetz vom 27. April 1969
-vom 24.11.1969
-Der Regierungsrat des Kantons Appenzell A.Rh.,
-gestützt auf Art. 17 des Hundegesetzes vom 27. April 1969,
+# Hundeverordnung
+(HuV)
+vom 12.01.2016
+Der Regierungsrat von Appenzell Ausserrhoden,
+gestützt auf Art. 24 des Hundegesetzes vom 23. März 2015,
 verordnet:
