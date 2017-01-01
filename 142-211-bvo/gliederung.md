@@ -5,8 +5,8 @@
 ### (1.4.) IV. Weitere Leistungen
 ## (2.) 2. Abschnitt: Besondere Bestimmungen
 ### (2.1.) I. Besondere Funktionen
-#### (2.2.) II. Spitalverbund
+#### (2.2.) …
 ### (2.3.) III. Kantonale Lehr- und Fachpersonen
 ### (2.4.) IV. Kantonspolizei
-## (3.) 3. Abschnitt: Besondere Funktionärinnen oder Funktionäre
+## (3.) …
 ## (4.) 4. Abschnitt: Schlussbestimmungen
