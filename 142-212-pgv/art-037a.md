@@ -1,0 +1,4 @@
+# Art. 37a Personaldossier
+1 Das Personaldossier enthält alle Informationen, die im Zusammenhang mit dem Arbeitsverhältnis wesentlich sind. Es kann besonders schützenswerte Personendaten enthalten, namentlich Bewerbungsunterlagen, Leistungsbeurteilungen, Persönlichkeitsprofile, öffentliche Ämter und Nebenbeschäftigungen, Arztzeugnisse, sozialversicherungsrechtliche Meldungen und Bescheide, Lohnpfändungen, Arbeitszeugnisse.
+2 Zugriff auf das Personaldossier haben nur die Anstellungsbehörden und das Personalamt. Andere Verwaltungsstellen haben Zugang zu Dokumenten des Personaldossiers, soweit es für die Erfüllung ihrer Aufgaben notwendig ist. Vorbehalten bleiben die Bestimmungen des Archivgesetzes.
+3 Das Personaldossier kann zum Zweck der Personal-, Lohn- und Versicherungsbewirtschaftung im Personalinformationssystem bearbeitet werden. Es ist vor unberechtigtem Zugriff zu schützen.
