@@ -1,5 +1,6 @@
-# Gesetz über die Förderung des Tourismus
-(Tourismusgesetz)
-vom 25.04.1976
-Die Landsgemeinde des Kantons Appenzell A.Rh.
+# Tourismusgesetz
+(TG)
+vom 13.06.2016
+Der Kantonsrat von Appenzell Ausserrhoden,
+gestützt auf Art. 43 der Verfassung des Kantons Appenzell Ausserrhoden vom 30. April 1995,
 beschliesst:
