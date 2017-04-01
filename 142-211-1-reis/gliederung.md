@@ -1,4 +1,4 @@
-## (1.) I. Allgemeine Bestimmungen
-## (2.) II. Besondere Bestimmungen
-## (3.) III. Spesen
-## (4.) IV. Schlussbestimmung
+## (I.) I. Allgemeine Bestimmungen
+## (II.) II. Abgeltungen
+## (III.) III. Spesen
+## (IV.) IV. Zusätzliche Bestimmungen Kantonspolizei
