@@ -1,5 +1,6 @@
-# Verordnung über die Führung des Grundbuchs mit elektronischer Datenverarbeitung
-vom 03.12.1996
-Der Regierungsrat des Kantons Appenzell A.Rh.,
-gestützt auf Art. 279 Abs. 1 des Einführungsgesetzes vom 30. April 1911 zum ZGB,
+# Kantonale Grundbuchverordnung
+(kGBV)
+vom 12.12.2017
+Der Regierungsrat von Appenzell Ausserrhoden,
+gestützt auf Art. 247 ff. des Gesetzes vom 27. April 1969 über die Einführung des Schweizerischen Zivilgesetzbuches,
 verordnet:
