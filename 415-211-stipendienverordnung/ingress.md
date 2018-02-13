@@ -1,5 +1,6 @@
-# Verordnung zum Stipendiengesetz vom 24. April 1988
-vom 24.10.1988
-Der Kantonsrat des Kantons Appenzell A.Rh.,
-gestützt auf Art. 14 Abs. 1 des Stipendiengesetzes vom 24. April 1988,
+# Verordnung über Ausbildungsbeiträge
+(Stipendienverordnung)
+vom 13.02.2018
+Der Regierungsrat von Appenzell Ausserrhoden,
+gestützt auf Art. 25 des Gesetzes über Ausbildungsbeiträge vom 20. März 2017,
 verordnet:

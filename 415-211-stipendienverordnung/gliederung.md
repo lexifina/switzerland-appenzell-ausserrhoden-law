@@ -1,5 +1,9 @@
-## (1.) A. Allgemeine Bestimmungen
-## (2.) B. Verfahrensbestimmungen
-## (3.) C. Darlehen
-## (4.) D. Fachstelle für Ausbildungs- und Studienbeiträge
-## (5.) E. Schluss- und Übergangsbestimmungen
+## (1.) 1. Abschnitt: Beitragsberechtigung
+## (2.) 2. Abschnitt: Finanzieller Bedarf
+### (I.) I. Grundlagen
+### (II.) II. Ausbildungskosten
+### (III.) III. Lebenshaltungskosten
+### (IV.) IV. Finanzielle Verhältnisse der Eltern
+### (V.) V. Zumutbare Eigenleistung
+### (3.) 3. Abschnitt: Ausbildungsbeiträge
+### (4.) 4. Abschnitt: Verfahren
