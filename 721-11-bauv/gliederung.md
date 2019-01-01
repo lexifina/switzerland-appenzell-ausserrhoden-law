@@ -1,6 +1,7 @@
 ## (1.) 1. Kapitel: Materielles Bauordnungsrecht
 ### (1.1.) 1. Abschnitt: Begriffsdefinitionen
 ### (1.2.) 2. Abschnitt: Grenzabstände von Tiefbauten
+### (1.3.) 3. Abschnitt: Weilerzonen
 ## (2.) 2. Kapitel: Landumlegung und Grenzbereinigung
 ## (3.) 3. Kapitel: Natur-, Landschafts-, Kulturobjekt- und Ortsbildschutz
 ### (3.1.) 1. Abschnitt: Schutzinstrumente
