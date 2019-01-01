@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Anhang 1 - Distanztabelle
+Anhang 1 : Anhang 1 - Distanzentabelle
