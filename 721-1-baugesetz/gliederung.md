@@ -16,6 +16,7 @@
 ## (3.) 3. Kapitel: Weitere raumwirksame Instrumente
 ### (3.1.) 1. Abschnitt: Vorsorgliche planerische Massnahmen
 ### (3.2.) 2. Abschnitt: Förderung der Überbauung (Baulandbeschaffung)
+### (3.2a.) 2a. Abschnitt: Mehrwertausgleich
 ### (3.3.) 3. Abschnitt: Erschliessung
 ### (3.4.) 4. Abschnitt: Landumlegung und Grenzbereinigung
 ### (3.5.) 5. Abschnitt: Enteignung

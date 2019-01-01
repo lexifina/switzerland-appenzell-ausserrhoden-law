@@ -1,0 +1,4 @@
+# Art. 56j Kantonaler Mehrwertabgabefonds
+1 Die Mehrwertabgabe fliesst in einen kantonalen Fonds, aus dem zweckgebundene Beiträge an die Gemeinden ausgerichtet werden. Der Fonds ist Bestandteil der Staatsrechnung.
+2 Beitragsberechtigt sind Gemeinden, die nach den Vorgaben des kantonalen Richtplans zur Zuweisung eines Grundstücks aus einer Bauzone in eine Nichtbauzone (Auszonung) verpflichtet sind und dafür aufgrund eines rechtskräftigen Urteils oder einer vom Departement Bau und Volkswirtschaft genehmigten Vereinbarung eine Entschädigung nach Art. 76 Abs. 2 zu leisten haben.
+3 Nach Massgabe der zur Verfügung stehenden Fondsmittel können weitere Massnahmen im Sinne von Art. 5 Abs. 1ter RPG unterstützt werden, sofern sie im kantonalen Richtplan vorgesehen sind. Das Nähere regelt der Regierungsrat.
