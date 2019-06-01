@@ -1,5 +1,6 @@
 # Geschäftsordnung des Kantonsrates
-vom 24.03.2003
-Der Kantonsrat des Kantons Appenzell A.Rh.,
-gestützt auf Art. 78 Abs. 1 der Verfassung vom 30. April 1995 des Kantons Appenzell A.Rh.
-verordnet:
+(GO KR)
+vom 24.09.2018
+Der Kantonsrat von Appenzell Ausserrhoden,
+gestützt auf Art. 3 des Kantonsratsgesetzes vom 24. September 2018,
+erlässt:

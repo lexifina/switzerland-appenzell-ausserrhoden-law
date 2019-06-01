@@ -1,18 +1,23 @@
-## (1.) 1. Abschnitt: Organisation
-### (1.1.) I. Allgemein
-### (1.2.) II. Das Büro
-### (1.3.) III. Die Kommissionen
-### (1.4.) IV. Die Fraktionen
-### (1.5.) V. Zulagen, Taggelder und Spesen
-## (2.) 2. Abschnitt: Konstituierung
-## (3.) 3. Abschnitt: Verhandlungen des Kantonsrates
-### (3.1.) I. Sitzungen
-### (3.2.) II. Öffentlichkeit und Information
-### (3.3.) III. Beratung
-### (3.4.) IV. Abstimmungen und Wahlen
-### (3.5.) V. Protokollführung
-### (3.6.) VI. Inkrafttreten und Volksabstimmung
-## (4.) 4. Abschnitt: Parlamentarische Vorstösse
-## (5.) 5. Abschnitt: Volksdiskussion
-## (6.) 6. Abschnitt: Mitwirkung im Bund
-## (7.) 7. Abschnitt: Schlussbestimmungen
+## (1.) A. Organisation
+### (1.1) 1. Büro
+### (1.2) 2. Kommissionen
+### (1.3) 3. Stabsstellen
+### (1.4) 4. Konstituierung
+### (1.5) 5. Öffentlichkeit und Information
+### (1.6) 6. Protokollierung
+### (1.7) 7. Finanzen
+## (2.) B. Ratsmitglieder
+### (2.1) 1. Rechte und Pflichten
+### (2.2) 2. Fraktionen
+### (2.3) 3. Entschädigungen
+## (3.) C. Verfahren des Kantonsrates
+### (3.1) 1. Ratssitzungen
+### (3.2) 2. Allgemeine Verfahrensbestimmungen
+### (3.3) 3. Anträge
+### (3.4) 4. Abstimmungen
+## (4.) D. Beratungsgegenstände
+### (4.1) 1. Wahlen
+### (4.2) 2. Sachvorlagen und besondere Beratungsgegenstände
+### (4.3) 3. Parlamentarische Vorstösse
+## (5.) E. Geschäftsverkehr mit anderen Behörden
+### (6.) F. Übergangsbestimmungen
