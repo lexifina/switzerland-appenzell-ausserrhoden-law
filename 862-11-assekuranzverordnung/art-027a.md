@@ -1,3 +1,0 @@
-# Art. 27a Beiträge
-1 Zum Beitrag berechtigen bauliche Präventionsmassnahmen am Gebäude oder dessen unmittelbarer Umgebung.
-2 Der Beitrag beträgt 30 bis 50 Prozent im Rahmen der verfügbaren Mittel.
