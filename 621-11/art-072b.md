@@ -1,3 +1,3 @@
 # Art. 72b Besteuerung stiller Reserven am Ende der Steuerpflicht
-1 Endet die Steuerpflicht, so werden die in diesem Zeitpunkt vorhandenen, nicht versteuerten stillen Reserven besteuert.
-2 Als Ende der Steuerpflicht gelten die Verlegung von Vermögenswerten oder Funktionen in einen ausländischen Geschäftsbetrieb oder in eine ausländische Betriebsstätte, der Abschluss der Liquidation, der Übergang zu einer Steuerbefreiung nach Art. 66, der Wechsel von einer ordentlich besteuerten Gesellschaft in eine privilegiert besteuerte Gesellschaft sowie die Verlegung des Sitzes oder der tatsächlichen Verwaltung ins Ausland.
+1 Endet die Steuerpflicht, so werden die in diesem Zeitpunkt vorhandenen, nicht versteuerten stillen Reserven einschliesslich des selbst geschaffenen Mehrwerts besteuert.
+2 Als Ende der Steuerpflicht gelten die Verlegung von Vermögenswerten, Betrieben, Teilbetrieben oder Funktionen aus dem Inland in einen ausländischen Geschäftsbetrieb oder in eine ausländische Betriebsstätte, der Abschluss der Liquidation, der Übergang zu einer Steuerbefreiung nach Art. 66 Abs. 1 sowie die Verlegung des Sitzes oder der tatsächlichen Verwaltung ins Ausland.
