@@ -1,0 +1,3 @@
+# Art. 48a Härtefälle
+1 Auf Gesuch von quellensteuerpflichtigen Personen, die Unterhaltsbeiträge nach Art. 35 Abs. 1 lit. c StG leisten und bei denen der Tarifcode A, B, C oder H angewendet wird, können zur Milderung von Härtefällen bei der Berechnung der Quellensteuer Kinderabzüge bis höchstens zur Höhe der Unterhaltsbeiträge berücksichtigt werden.
+2 Wurden Unterhaltsbeiträge bei der Anwendung eines dieser Tarifcodes berücksichtigt, so wird die nachträgliche ordentliche Veranlagung nur auf Antrag der quellensteuerpflichtigen Person (Art. 104 StG) durchgeführt. Wird die nachträgliche ordentliche Veranlagung beantragt, wird diese bis zum Ende der Quellensteuerpflicht durchgeführt.

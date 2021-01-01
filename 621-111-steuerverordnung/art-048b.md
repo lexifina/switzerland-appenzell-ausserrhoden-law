@@ -1,0 +1,5 @@
+# Art. 48b Wechsel von der Quellenbesteuerung zur ordentlichen Besteuerung (Art. 105 StG)
+1 Eine bisher an der Quelle besteuerte Person wird für die ganze Steuerperiode im ordentlichen Verfahren veranlagt, wenn sie:
+a) die Niederlassungsbewilligung erhält;
+b) eine Person mit Schweizer Bürgerrecht oder mit Niederlassungsbewilligung heiratet.
+2 Die Quellensteuer ist ab dem Folgemonat nach der Erteilung der Niederlassungsbewilligung oder der Heirat nicht mehr geschuldet. Die an der Quelle abgezogene Steuer wird zinslos angerechnet.
