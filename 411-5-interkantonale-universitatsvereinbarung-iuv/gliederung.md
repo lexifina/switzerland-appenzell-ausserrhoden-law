@@ -1,7 +1,6 @@
 ## (1.) I. Allgemeine Bestimmungen
-## (2.) II. Studierende
-## (3.) III. Hochschulzugang und Gleichbehandlung
-## (4.) IV. Beiträge
+## (2.) II. Beitragsberechtigung
+## (3.) III. Beitragsbemessung und Zahlungspflicht
+## (4.) IV. Hochschulzugang und Gleichbehandlung
 ## (5.) V. Vollzug
-## (6.) VI. Rechtspflege
-## (7.) VII. Schlussbestimmungen
+## (6.) VI. Schlussbestimmungen
