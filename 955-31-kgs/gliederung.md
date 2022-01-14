@@ -1,6 +1,7 @@
-## (1.) I. Allgemeine Bestimmungen
-## (2.) II. Tombolas
-## (3.) III. Lotterien zu gemeinnützigen oder wohltätigen Zwecken
-## (4.) IV. Der gewerbsmässige Handel mit Prämienlosen
-## (5.) V. Strafbestimmungen
-## (6.) VI. Schlussbestimmungen
+## (1.) I. Allgemeines
+## (2.) II. Kleinspiele
+### (2.1) A. Kleinlotterien
+### (2.2) B. Lokale Sportwetten
+### (2.3) C. Kleine Pokerturniere
+## (3.) III. Gebühren
+## (4.) IV. Strafbestimmungen
