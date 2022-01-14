@@ -1,6 +1,6 @@
-# Gesetz über die Kantonsbeiträge an Institutionen zur Förderung der Eingliederung von invaliden Personen
-(KFEG)
-vom 24.09.2007
+# Gesetz zur Finanzierung von Leistungsangeboten für Menschen mit Behinderung
+(Behindertenfinanzierungsgesetz; BeFiG)
+vom 01.11.2021
 Der Kantonsrat von Appenzell Ausserrhoden,
-gestützt auf die Verfassung des Kantons Appenzell A.Rh. vom 30. April 1995,
-beschliesst:
+gestützt auf das Bundesgesetz über die Institutionen zur Förderung der Eingliederung von invaliden Personen vom 6. Oktober 2006 und Art. 42 der Verfassung des Kantons Appenzell A.Rh.,
+erlässt:
