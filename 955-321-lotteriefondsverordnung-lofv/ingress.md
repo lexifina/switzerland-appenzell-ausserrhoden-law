@@ -1,5 +1,6 @@
-# Verordnung über die Bewilligung von Lotterien und gewerbsmässigen Wetten
-vom 09.05.1939
-Der Regierungsrat des Kantons Appenzell A.Rh.,
-gestützt auf den Landsgemeindebeschluss vom 30. April 1939,
+# Verordnung über die Zuweisung und Verwendung der Reingewinne aus Grossspielen
+(Lotteriefondsverordnung; LoFV)
+vom 11.01.2022
+Der Regierungsrat von Appenzell Ausserrhoden,
+gestützt auf Art. 127 des Bundesgesetzes über Geldspiele, die Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen, das Gesamtschweizerische Geldspielkonkordat sowie Art. 87 Abs. 5 der Verfassung des Kantons Appenzell A.Rh,
 verordnet:
