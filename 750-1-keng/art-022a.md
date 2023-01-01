@@ -1,0 +1,3 @@
+# Art. 22a Übergangsbestimmungen zur Teilrevision vom 28. März 2022
+1 Bestehende ortsfeste elektrische Widerstandsheizungen sind innerhalb von 15 Jahren nach Inkrafttreten der Teilrevision durch Heizungen zu ersetzen, die den Anforderungen dieses Gesetzes entsprechen. Der Regierungsrat kann Ausnahmen vorsehen, insbesondere bei Bauten mit einer geringen elektrisch beheizten Fläche.
+2 Bestehende zentrale, ausschliesslich direkt-elektrische Wassererwärmer in Wohnbauten sind innerhalb von 15 Jahren nach Inkrafttreten der Teilrevision zu ersetzen. Der Regierungsrat kann Ausnahmen vorsehen, insbesondere wenn für die Warmwasseraufbereitung zusätzlich erneuerbare Energie genutzt wird.

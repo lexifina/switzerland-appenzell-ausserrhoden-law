@@ -1,2 +1,2 @@
 # Art. 12g Gebäudeenergieausweis
-1 Der Kanton führt einen freiwilligen Gebäudeenergieausweis ein.
+1 Der Kanton führt den «Gebäudeenergieausweis der Kantone (GEAK)» ein.
