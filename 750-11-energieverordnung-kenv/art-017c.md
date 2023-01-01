@@ -1,0 +1,4 @@
+# Art. 17c Anforderungen
+1 Der gewichtete Energiebedarf pro Jahr für Heizung, Warmwasser, Lüftung und Klimatisierung in Neubauten darf den Wert gemäss Tabelle 3 «Grenzwerte des gewichteten Energiebedarfs für die Gebäudekategorien I bis XII» der EnFK Vollzugshilfe EN-101 «Anforderungen an die Deckung des Wärmebedarfes von Neubauten», Ausgabe 2018, nicht überschreiten.
+2 Bei den Gebäudekategorien VI und XI gilt die Anforderung ohne Berücksichtigung des Bedarfs für Warmwasser. Bei Vorhaben der Gebäudekategorien VI, XI und XII sind mindestens 20 Prozent der Energie für die Wassererwärmung aus erneuerbaren Energien zu decken. Bei Vorhaben der Gebäudekategorien XII sind die Nutzung der Abwärme aus Fortluft, Bade- und Duschwasser zu optimieren.
+3 Die Anforderungen müssen mit Massnahmen am Standort erfüllt werden.

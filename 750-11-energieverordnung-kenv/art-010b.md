@@ -1,3 +1,3 @@
 # Art. 10b Klimadaten
-1 Beim Systemnachweis sind die Daten der Klimastation St. Gallen nach dem Merkblatt SIA 2028 «Klimadaten für Bauphysik, Energie- und Gebäudetechnik», Ausgabe 2008, zu verwenden. Es gilt der für eine Jahresmitteltemperatur von 8.5 °C errechnete Grenzwert gemäss Anhang 6c. Pro Kelvin höherer oder tieferer Jahresmitteltemperatur der Klimastation ist der Grenzwert um 8 Prozent zu reduzieren bzw. zu erhöhen.
+1 Beim Systemnachweis sind die Daten der Klimastation St. Gallen zu verwenden. Das Verfahren zur Anpassung der Grenzwerte ist in der Norm SIA 380/1 «Heizwärmebedarf», Ausgabe 2016, geregelt. Die Anpassung des Grenzwerts pH,li erfolgt entsprechend der Abweichung der Auslegungstemperatur zu -8 °C.
 2 Beim Einzelbauteilnachweis wird auf eine Klimakorrektur der Grenzwerte bei den Einzelanforderungen verzichtet.

@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Minimale Dämmstärken bei Wassererwärmern Anhang 2: Minimale Dämmstärken bei Verteilleitungen Anhang 3: Minimale UR-Werte für erdverlegte Leitungen Anhang 4 : Nachweis mittels Standardlösung Anhang 5: Abkürzungsverzeichnis Anhang 6 : Grenzwerte winterlicher Wärmeschutz Anhang 7 : Wärmedämmung von lüftungstechnischen Anlagen
+Anhang 1 : Ausser Kraft Anhang 2 : Ausser Kraft Anhang 3 : Ausser Kraft Anhang 4 : Nachweis «Anforderungen an die Deckung des Energiebedarfs» mittels Standardlösungskombinationen Anhang 5 : Abkürzungsverzeichnis Anhang 6 : Ausser Kraft Anhang 7 : Ausser Kraft Anhang 8 : Nachweis «Anteil erneuerbare Wärme beim Ersatz des Wärmeerzeugers» mittels Standardlösungen Anhang 9 : Nachweis «Eigenstromerzeugung»

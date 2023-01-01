@@ -1,6 +1,2 @@
 # Art. 24d b) Vereinbarungen
-1 In Vereinbarungen mit Grossverbrauchern werden mindestens festgelegt:
-a) Ausgangslage und Verbrauchsziele;
-b) Kontrolle der Einhaltung;
-c) Berichterstattung;
-d) Gültigkeitsdauer.
+1 Die zuständige Behörde kann im Rahmen der vorgegebenen Ziele im Sinne von Art. 12f Abs. 1 des Gesetzes mit einzelnen oder mit Gruppen von Grossverbrauchern mittel- und langfristige Verbrauchsziele vereinbaren. Dabei werden die Effizienz des Energieeinsatzes zum Zeitpunkt der Zielfestlegung und die absehbare technische und wirtschaftliche Entwicklung der Verbraucher mitberücksichtigt. Die zuständige Behörde kann die Vereinbarung aufheben, wenn die Verbrauchsziele nicht eingehalten werden.

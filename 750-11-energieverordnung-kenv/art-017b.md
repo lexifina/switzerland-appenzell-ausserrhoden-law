@@ -1,7 +1,5 @@
 # Art. 17b c) Anlagen zur Kühlung, Befeuchtung und Entfeuchtung
-1 Neue sowie der Ersatz bestehender Anlagen zur Kühlung, Befeuchtung und Entfeuchtung entsprechen dem Stand der Technik.
-2 Ihr elektrischer Leistungsbedarf für Medienförderung und -aufbereitung inklusive Kühlung, Befeuchtung, Entfeuchtung und Wasseraufbereitung beträgt:
-a) in Neubauten höchstens 7 W/m²;
-b) in bestehenden Bauten höchstens 12 W/m².
-3 Bei Anlagen für die Komfortkühlung, die die Anforderungen nach Abs. 2 nicht einhalten, sind die Kaltwassertemperaturen und die Leistungszahlen für die Kälteerzeugung nach dem Stand der Technik auszulegen und zu betreiben.
-4 Bei Anlagen für die Befeuchtung, die die Anforderungen nach Abs. 2 nicht einhalten, ist die Befeuchtung nach dem Stand der Technik auszulegen und zu betreiben.
+1 Klimaanlagen für die Aufrechterhaltung des Komforts sind in bestehenden Bauten so zu erstellen, dass:
+a) der elektrische Leistungsbedarf für die Medienförderung und die Medienaufbereitung inklusive allfälliger Kühlung, Befeuchtung, Entfeuchtung und Wasseraufbereitung 12 W/m² nicht überschreitet; oder
+b) die Kaltwassertemperaturen und die Leistungszahlen für die Kälteerzeugung nach dem Stand der Technik ausgelegt sind, sowie die Planung und der Betrieb einer allfälligen Befeuchtung nach dem Stand der Technik erfolgt.
+2–4 …

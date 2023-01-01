@@ -3,8 +3,8 @@
 ## (3.) 3. Abschnitt: Energiesparmassnahmen
 ### (3.1.) I. Wärme- und Kälteschutz von Bauten
 ### (3.1a.) Ia. Haustechnische Anlagen
-### (3.1b.) Ib. Höchstanteil an nicht erneuerbaren Energien
-### (3.1c.) Ic. Elektrizitätsbedarf für Beleuchtung und Belüftung
+### (3.1b.) Ib. Deckung des Energiebedarfs
+### (3.1c.) Ic. Verwendung von elektrischer Energie
 ## (3.2.) II. Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung
 ### (3.3.) III. Anlagen zur Kühlung oder Befeuchtung
 ### (3.4.) IV. Thermische Elektrizitätserzeugungsanlagen
