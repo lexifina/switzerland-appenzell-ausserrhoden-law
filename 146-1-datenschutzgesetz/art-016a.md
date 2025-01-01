@@ -1,0 +1,5 @@
+# Art. 16a Meldung von Verletzungen der Datensicherheit
+1 Wenn eine Verletzung der Datensicherheit dazu führt, dass Daten verlorengehen, vernichtet oder verändert oder Unbefugten zugänglich gemacht werden, meldet das verantwortliche Organ dies unverzüglich dem Datenschutz-Kontrollorgan und orientiert mitbetroffene Datenempfänger. Besteht kein Risiko für eine Beeinträchtigung von Grundrechten, entfällt die Meldepflicht.
+2 Das verantwortliche Organ informiert in Absprache mit dem Datenschutz-Kontrollorgan die betroffene Person, wenn es zu ihrem Schutz erforderlich ist oder anderweitig zur Wahrung der Grundrechte angezeigt erscheint.
+3 Es kann die Information an die betroffene Person einschränken oder darauf verzichten, wenn öffentliche oder private Geheimhaltungsinteressen überwiegen.
+4 Geschieht die Verletzung der Datensicherheit bei einer Bearbeitung durch eine Drittperson, hat diese unverzüglich das auftraggebende Organ zu benachrichtigen. Dieses hat sodann gemäss Abs. 1 bis 3 vorzugehen.
