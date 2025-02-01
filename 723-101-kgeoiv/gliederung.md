@@ -10,3 +10,4 @@
 ## (7.) 7. Abschnitt: Geodienste
 ## (8.) 8. Abschnitt: Datenaustausch unter Behörden
 ## (9.) 9. Abschnitt: Digitaler Leitungskataster
+## (10.) 10. Abschnitt: Gebühren
