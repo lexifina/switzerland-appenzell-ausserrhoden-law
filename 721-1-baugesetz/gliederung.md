@@ -33,7 +33,7 @@
 #### (4.2.4.) IV. Rechtsschutz
 ### (4.3.) 3. Abschnitt: Materielle Bauvorschriften
 #### (4.3.1.) I. Lage, Gestaltung und Dimensionierung der Bauten
-#### (4.3.2.) II. Technische Ausgestaltung
+#### (4.3.2.) II. Schutz vor Naturereignissen und technische Ausgestaltung
 #### (4.3.3.) III. Ausnahmen von der Einhaltung der materiellen Bauvorschriften
 #### (4.3.4.) IV. Ausnahmen ausserhalb der Bauzonen
 ## (5.) 5. Kapitel: Schluss- und Übergangsbestimmungen
