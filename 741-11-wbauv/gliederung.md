@@ -1,5 +1,6 @@
 ## (1.) I. Allgemeine Bestimmungen
-## (2.) II. Wasserbau
-## (3.) III. Konzessionierungsverfahren
-## (4.) IV. Bewilligungsverfahren
+## (2.) II. Gewässerunterhalt und Wasserbauprojekte
+## (2a) III. Wasserbaupolizei
+## (3.) IV. Gewässernutzung
+## (4.) …
 ## (5.) V. Inkrafttreten
