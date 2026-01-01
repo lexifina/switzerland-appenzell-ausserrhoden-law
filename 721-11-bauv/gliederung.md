@@ -15,6 +15,6 @@
 #### (4.2.3.) III. Allgemeiner Verfahrensablauf
 #### (4.2.4.) IV. Besonderer Verfahrensablauf
 #### (4.2.5.) V. Einspracheverfahren
-#### (4.2.6.) VI. Eröffnung der Entscheide durch den Baukoordinationsdienst
+#### (4.2.6.) VI. Eröffnung von Entscheiden
 #### (4.2.7.) VII. Ordnungsfristen
 ## (5.) 5. Kapitel: Schlussbestimmungen
