@@ -46,6 +46,7 @@
 #### (2.6.1.) A. Versteigerungen
 #### (2.6.2.) B. Hinterlegung
 #### (2.6.3.) C. Verantwortlichkeit für den von Beamten und Angestellten des Gemeinwesens verursachten Schaden
+#### (2.6.4) D. Normalarbeitsvertrag
 ## (3.) III. Titel: Übergangsbestimmungen
 ### (3.1.) A. Eheliches Güterrecht
 ### (3.2.) B. Grundpfandrechte
