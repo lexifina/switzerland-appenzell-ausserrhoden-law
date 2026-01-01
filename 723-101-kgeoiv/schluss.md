@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1 : Anhang 1 kGeoIV Anhang 2 : Anhang 2 kGeoIV
+Anhang 1 : Katalog der Geobasisdaten des Bundesrechts in der Zuständigkeit des Kantons Anhang 2 : Katalog der Geobasisdaten des kantonalen Rechts
