@@ -1,0 +1,11 @@
+{
+  "path": "ch-ar",
+  "code": "CH-AR",
+  "name": "Appenzell Ausserrhoden",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-appenzell-ausserrhoden-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (231 acts, 620 versions) from the bGS",
+  "language": "de",
+  "sources": 1
+}

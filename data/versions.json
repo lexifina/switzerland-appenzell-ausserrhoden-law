@@ -1,0 +1,5573 @@
+{
+ "country": "CH-AR",
+ "acts": [
+  {
+   "slug": "111-1",
+   "short": "bGS 111.1",
+   "title": "Verfassung des Kantons Appenzell A.Rh.",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/111.1",
+   "versions": [
+    {
+     "from": "1996-05-01",
+     "units": 121,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/111.1/versions/566",
+     "sha256": "6b23ec18e9a61bae130d77ad8d0b72ff6dbdf5a2ed25fe9c23b1a8d2d6aa4f30"
+    },
+    {
+     "from": "1997-04-27",
+     "units": 122,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/111.1/versions/567",
+     "sha256": "83c5198c3feee9faf0430cfd8dda2e5b63167f5e669d592051a7d745944d1284"
+    },
+    {
+     "from": "1997-09-28",
+     "units": 121,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/111.1/versions/568",
+     "sha256": "a6cbfc3dbffb56d03733ca6e8acb0a4741a584cd8e0f35292781c845e786d0b2"
+    },
+    {
+     "from": "1998-11-01",
+     "units": 120,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/111.1/versions/569",
+     "sha256": "6a3c0c5ab7cc904f14d04b082a57c33be7bfc78af4061fa6c7a67930d5226ba1"
+    },
+    {
+     "from": "2000-06-01",
+     "units": 121,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/111.1/versions/570",
+     "sha256": "22d3fa4f187aa35ba986e6a9b4474a973392706368c578606891186ac68bf029"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 122,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/111.1/versions/574",
+     "sha256": "a81bda8bc239457940c868e78ac71e1b5195a4c5bdd8cc99fe08b45f9e86436c"
+    },
+    {
+     "from": "2015-06-01",
+     "units": 126,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/111.1/versions/1314",
+     "sha256": "262e67498a4546eedb72fb39924564a04b2bd941c70e21e0ffa4ae78caef1963"
+    },
+    {
+     "from": "2023-11-26",
+     "units": 127,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/111.1",
+     "sha256": "bde19decadf8ef950bd2a3c2f1a1ba267a8569c85c0cb9b9c77098f6226eae86"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 139,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/111.1/versions/1618",
+     "sha256": "e1fbea9c97656dcfd97c0320dc3e47e1ec2cdd2f62db57730b85894c012081c7"
+    }
+   ]
+  },
+  {
+   "slug": "111-3",
+   "short": "bGS 111.3",
+   "title": "Gesetz über den Eidschwur",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/111.3",
+   "versions": [
+    {
+     "from": "1997-09-28",
+     "units": 4,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/111.3",
+     "sha256": "46a5887b51cfce89facb9fbeb3bdd940d10b3beb3030944bc47185683f49e6ae"
+    }
+   ]
+  },
+  {
+   "slug": "121-1",
+   "short": "bGS 121.1",
+   "title": "Gesetz über das Landrecht und das Gemeindebürgerrecht",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/121.1",
+   "versions": [
+    {
+     "from": "2005-09-01",
+     "units": 27,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/121.1/versions/145",
+     "sha256": "acca627182407b8e7ddfd32091629c9e844909dffe044e2dacbf78c3848bd7fc"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 27,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/121.1",
+     "sha256": "e91345d4655ed8677c4d7b6ee927e8c4e0500ce907713c1d9818565ea864c4db"
+    }
+   ]
+  },
+  {
+   "slug": "122-1",
+   "short": "bGS 122.1",
+   "title": "Registergesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/122.1",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 21,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.1",
+     "sha256": "06f2248e3a327a9b93ba5e7a8e19fb12ad5614e098ca5fb55cf908beacdd2080"
+    }
+   ]
+  },
+  {
+   "slug": "131-12",
+   "short": "bGS 131.12",
+   "title": "Gesetz über die politischen Rechte",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/131.12",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 85,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/131.12/versions/589",
+     "sha256": "b480ff73c3e3cd03b975f3d656b700ce8fb6a115e47cc7f472b734c033cc40e8"
+    },
+    {
+     "from": "2014-12-12",
+     "units": 85,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/131.12/versions/966",
+     "sha256": "2abaae1085974725d709d0fe1802a01930066bc6f2052bf5ae06a3f3e67240d8"
+    },
+    {
+     "from": "2019-06-01",
+     "units": 85,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/131.12",
+     "sha256": "2af0761314a71f39e630a956f192262f6d19f429d807e762205941c74c386d1f"
+    }
+   ]
+  },
+  {
+   "slug": "133-1-informationsgesetz",
+   "short": "Informationsgesetz",
+   "title": "Gesetz über Information und Akteneinsicht",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/133.1",
+   "versions": [
+    {
+     "from": "1996-05-01",
+     "units": 21,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/133.1/versions/1106",
+     "sha256": "75d51448be8b62b7258794c9b98fc36381ae6a7d2682c0ac20a903fb5aeef8c9"
+    },
+    {
+     "from": "2019-06-01",
+     "units": 19,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/133.1",
+     "sha256": "5190201fb2503d7b48d52c8431bfad848ebe4b3a32ddf4729d9606e9cc86d85c"
+    }
+   ]
+  },
+  {
+   "slug": "141-1-krg",
+   "short": "KRG",
+   "title": "Kantonsratsgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/141.1",
+   "versions": [
+    {
+     "from": "2019-06-01",
+     "units": 73,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/141.1",
+     "sha256": "40403182edf777597d6de1017b381014838c294e2ac147b1a1a902f86475a03c"
+    }
+   ]
+  },
+  {
+   "slug": "142-3-egovg",
+   "short": "eGovG",
+   "title": "Gesetz über eGovernment und Informatik",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/142.3",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.3/versions/744",
+     "sha256": "917dae58683e3fa8f4b3e01f46dcbcd6dbd2163470d57f0dd4f61aa0a80a6a11"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 26,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.3/versions/1553",
+     "sha256": "b537e1bece4c8c774819728ec21e6eceb5a565f2721a2168328b3e841dfca3e5"
+    },
+    {
+     "from": "2019-06-14",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.3",
+     "sha256": "12e9ec775a038bc23b9e341c9b2920cc03253fa6a20fbbfd6645a489196c711b"
+    }
+   ]
+  },
+  {
+   "slug": "142-12-organisationsgesetz-org",
+   "short": "Organisationsgesetz; OrG",
+   "title": "Regierungs- und Verwaltungsorganisationsgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/142.12",
+   "versions": [
+    {
+     "from": "2005-06-01",
+     "units": 57,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.12/versions/159",
+     "sha256": "caf94fcbf2bf3e56dcdb51f530318333ab14f016661ce16f474dc1377a1ea71c"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 57,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.12/versions/839",
+     "sha256": "e7eff3732e4970590e9409b1ad24aa7650c5c749913fb238539aa4bffdb29da0"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 59,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.12",
+     "sha256": "a01011c225ee6b34d2c131c0b3651e2e0ad6eef745e9fc5ab70e612c610c696e"
+    }
+   ]
+  },
+  {
+   "slug": "142-21-pg",
+   "short": "PG",
+   "title": "Personalgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/142.21",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 80,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.21/versions/422",
+     "sha256": "68ffbcf062e51ed17074b63f8579e3d056ba3fb397e9c7832808036cd5d50b41"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 80,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.21/versions/766",
+     "sha256": "ee991434a796be8e366ee869c46c16729f12822420d1ec9e7edb78a9dbc76b04"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 80,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.21/versions/830",
+     "sha256": "a479d31bfa568d6456e33fa77ffe59f5beef72f0fa6750b61872e180c344035a"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 80,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.21/versions/875",
+     "sha256": "e4802d893ce8113644cb1d831eebe904a7332fe3bc91c392720d91905a9715bd"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 80,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.21/versions/967",
+     "sha256": "6e9894cf073a4aba5a5b91196b01995327c1100a60dfbb28602b9b30098e9a23"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 81,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.21/versions/1164",
+     "sha256": "2b541a7bd445ba5805626a705463d46a762d5a9b3a8f706d072f3730b174e17e"
+    },
+    {
+     "from": "2019-06-01",
+     "units": 81,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.21/versions/1260",
+     "sha256": "64933539028f345620974130f1bd51b24f43099b151167dbbeb48d0c4bf6b542"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 84,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.21",
+     "sha256": "5d98198ccf7fef100492fd2fae4cc012020ff7d4725d77bc10ba2e95f3e78f1f"
+    }
+   ]
+  },
+  {
+   "slug": "142-22-pkg",
+   "short": "PKG",
+   "title": "Gesetz über die Pensionskasse AR",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/142.22",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 21,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.22/versions/831",
+     "sha256": "3035427b6e95181f453b24a8c5274d51f02c8e8838edeb111aad3844800d41eb"
+    },
+    {
+     "from": "2018-06-01",
+     "units": 22,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.22/versions/1223",
+     "sha256": "1070b87462c5cfc04912548c39337d396cf35c365401a3a9e8aca25d30c98d91"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 26,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.22",
+     "sha256": "d6a704c2b754fecaec4f59e9e83f9b9bf766afa96a27e3e6118fd4203edf90a2"
+    }
+   ]
+  },
+  {
+   "slug": "143-1-vrpg",
+   "short": "VRPG",
+   "title": "Gesetz über die Verwaltungsrechtspflege",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/143.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 61,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/143.1/versions/1212",
+     "sha256": "137486467eb4b28caddb70ad34b2640023b80a8bf50d2a207efa87e5f3035ac3"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 61,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/143.1/versions/1240",
+     "sha256": "14ec3ef348f0cf103da04b0a9c76c1807ad55d167e16d7c4adddd17790c11ad6"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 63,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/143.1",
+     "sha256": "d33a235c2ee7c12028aedd6e99816458c0553d860fcd193f3ac122d202d83feb"
+    }
+   ]
+  },
+  {
+   "slug": "145-31",
+   "short": "bGS 145.31",
+   "title": "Justizgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/145.31",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 103,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.31/versions/479",
+     "sha256": "4228fc2e1107d8171ed93d09779337f5ea85a6c87d3a00bd0f5fcf2923419e0c"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 103,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.31/versions/779",
+     "sha256": "2bda91909e477d4cf2d4786f407b70a017e8b0574d073b0a49bf7bbb147b3ba3"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 103,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.31/versions/840",
+     "sha256": "46fbc36549962bbdb108723a278b47ccc3e041d4da91cb3c1c0bfea59423c37d"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 100,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.31/versions/872",
+     "sha256": "8a700af102014ead3628181d01af18ade5939128a067d40876ecd0568e855ab0"
+    },
+    {
+     "from": "2019-06-01",
+     "units": 100,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.31",
+     "sha256": "9fe29edf481e4e0abff75923a6cae41e303fe05345b1c00eb1c622678bca3cad"
+    }
+   ]
+  },
+  {
+   "slug": "145-52-anwaltsgesetz",
+   "short": "Anwaltsgesetz",
+   "title": "Gesetz über die Ausübung des Anwaltsberufes",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/145.52",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 37,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.52/versions/972",
+     "sha256": "b49866ebbe600d6733ef455656bcc46b36df7d140873ad94dc5b1f9bb3f8be39"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 37,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.52",
+     "sha256": "b5921357946e6a71a539c86fffcb17e840b4a31c013c66dcdc52554b129b7f6e"
+    }
+   ]
+  },
+  {
+   "slug": "146-1-datenschutzgesetz",
+   "short": "Datenschutzgesetz",
+   "title": "Gesetz über den Datenschutz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/146.1",
+   "versions": [
+    {
+     "from": "2008-06-01",
+     "units": 34,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/146.1/versions/681",
+     "sha256": "8ccb438341889c3e6a13ea7a0f08f9637003a1b8cfb75a0ba3b91100dfe81754"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 34,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/146.1/versions/974",
+     "sha256": "d41e22387c8c059a8eb5c4e430e946931a109706348cefa628c78be0ab8c26e2"
+    },
+    {
+     "from": "2019-06-01",
+     "units": 34,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/146.1/versions/1262",
+     "sha256": "a65fbf0b46ff0920d2301bab80d16d44c6190ac3ba153441ba0dd7fab88545cf"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 38,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/146.1",
+     "sha256": "9485e6031119cc22c6de7a4ba8fe282d3bc2753497df5f7134cd7c60190aff24"
+    }
+   ]
+  },
+  {
+   "slug": "151-11",
+   "short": "bGS 151.11",
+   "title": "Gemeindegesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/151.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 53,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/151.11/versions/682",
+     "sha256": "30e882f07c7547206ac5fd060c1c73365cf92c832b98b729e217bf5746a2ba24"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 53,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/151.11/versions/975",
+     "sha256": "457eaeb74d481f3e12c502fc86cd4d232d236b4822455e6efc99c332f545ec08"
+    },
+    {
+     "from": "2018-03-01",
+     "units": 54,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/151.11/versions/1220",
+     "sha256": "69972e4adf33a07bc63bca2ad761da36c0db75126bad7aa36ea9634e9ad9b40e"
+    },
+    {
+     "from": "2019-11-01",
+     "units": 54,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/151.11",
+     "sha256": "083d3a7eacab710d3a2cfd8b4d65a051a1b1edacaa3d69fbe292c84a385b306d"
+    }
+   ]
+  },
+  {
+   "slug": "211-1-eg-zum-zgb",
+   "short": "EG zum ZGB",
+   "title": "Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/211.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 199,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/211.1/versions/603",
+     "sha256": "99a539f88e45a09bab6e34d6234fe36dee231f5e75dff498f38d3e78ab508da7"
+    },
+    {
+     "from": "2012-06-01",
+     "units": 200,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/211.1/versions/730",
+     "sha256": "ca8698e0dd840baeed4fdcb0be0e9a05a4cfac1b40892152cd9563ed3167507d"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 198,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/211.1/versions/903",
+     "sha256": "b2b01ade6697a44318be048a012cbf4de04b74f2eb11db50434a1d049057477f"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 198,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/211.1/versions/1193",
+     "sha256": "2e7e830880b98fe650af330a2568fe5ff581ff2b74f06cc605719ae7092dd611"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 198,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/211.1/versions/1214",
+     "sha256": "06ba68c69594d36b7d3ba48bc7bf4e1685814d147817358c5c6a4b0b625673bd"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 198,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/211.1/versions/1239",
+     "sha256": "33effe2f54a711aaadbe70355eb80365641201d194487ad4812e8996329ce73a"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 199,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/211.1",
+     "sha256": "db9932288338c34ee573b1286d31764f548c930533ebb8900b39d1595177d0f6"
+    }
+   ]
+  },
+  {
+   "slug": "211-2-beurkg",
+   "short": "BeurkG",
+   "title": "Beurkundungsgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/211.2",
+   "versions": [
+    {
+     "from": "2010-02-01",
+     "units": 32,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/211.2",
+     "sha256": "ab943676f434950be3a599e8b8b9e54704c5e16fe57f56c30501a8e5aa13fd7a"
+    }
+   ]
+  },
+  {
+   "slug": "213-121-eg-zum-bewg",
+   "short": "EG zum BewG",
+   "title": "Gesetz über die Einführung des Bundesgesetzes vom 16. Dezember 1983 über den Erwerb von Grundstücken durch Personen im Ausland",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/213.121",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/213.121/versions/607",
+     "sha256": "b2a2ead8ac63b4a1b933d3fb746050d4f4ff5a9b87a6a9fd781cad375fe4fe03"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/213.121",
+     "sha256": "3e2d27a4bf75bc772d9dbe2f38ba2b3732d3e3bee751a4fa5364f6dc1e79e409"
+    }
+   ]
+  },
+  {
+   "slug": "233-2",
+   "short": "bGS 233.2",
+   "title": "Gesetz über die Gebühren in Verwaltungssachen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/233.2",
+   "versions": [
+    {
+     "from": "2005-06-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/233.2",
+     "sha256": "da1315cbf3c8c17c055a660a06c0bb9d3fb7659299cfeb2207024bacd8640d5b"
+    }
+   ]
+  },
+  {
+   "slug": "241-1",
+   "short": "bGS 241.1",
+   "title": "Gesetz über die Einführung des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/241.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 29,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/241.1",
+     "sha256": "066e730af58e636c9bdeaeb14a312428b367521ad1ebfab7d9f1afa8d6485cde"
+    }
+   ]
+  },
+  {
+   "slug": "311",
+   "short": "bGS 311",
+   "title": "Gesetz über das kantonale Strafrecht",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/311",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 35,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/311",
+     "sha256": "022424a1e84381e16c704628d582ef7cb124dfdeaa3dd5f1d7000bab8484c308"
+    }
+   ]
+  },
+  {
+   "slug": "341-1-jvg",
+   "short": "JVG",
+   "title": "Gesetz über den Justizvollzug",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/341.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 37,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/341.1",
+     "sha256": "b3445c9a2d154f14ff956163a9856be5d34f851a8e315a2754be75602d66671e"
+    }
+   ]
+  },
+  {
+   "slug": "412-00-volksschulgesetz-vsg",
+   "short": "Volksschulgesetz; VSG",
+   "title": "Gesetz über die Volksschule",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/412.00",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 74,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/412.00",
+     "sha256": "f76d1a9ab97741979f0a0970f8a585ae7bf13cbfbc9be5ff376995dca790dc8e"
+    }
+   ]
+  },
+  {
+   "slug": "413-1-mhg",
+   "short": "MHG",
+   "title": "Gesetz über die Mittel- und Hochschulen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/413.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 44,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/413.1/versions/878",
+     "sha256": "f8c05f93cead6767ebed6d524469cee390b67a6eea20cce39ba3c042f412b80a"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 44,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/413.1",
+     "sha256": "b588ca79c0132ee684c0e944517d5218d4f06b9b66249205779ce2b6edd52199"
+    }
+   ]
+  },
+  {
+   "slug": "414-11-eg-zum-bbg",
+   "short": "EG zum BBG",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Berufsbildung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/414.11",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 43,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/414.11/versions/400",
+     "sha256": "6ea8473e6294bfd5bf764d852dd519b46ae85d0cc0c0e65e25878f9fdd6a0906"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 45,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/414.11/versions/879",
+     "sha256": "9c41868d56cb027e4cceb1e74caa8d82f062cc47fd945e8f7c64559610accea5"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 45,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/414.11/versions/994",
+     "sha256": "dc6d146d1e3a0ff03f40eb0d640861369d85a54f0965116412d3067ae15eab32"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 45,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/414.11",
+     "sha256": "6a95f55100011208304c9447f9187981a39c1b49e07dcad373e2060dbc89c040"
+    }
+   ]
+  },
+  {
+   "slug": "415-21-stipendiengesetz",
+   "short": "Stipendiengesetz",
+   "title": "Gesetz über Ausbildungsbeiträge",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/415.21",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/415.21/versions/614",
+     "sha256": "a062ab82a134b683367ffee260ba4de469078020a8ed506cc56fe203dc69ba36"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 29,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/415.21",
+     "sha256": "4fd51713ef10c4ddfc4f2d85506a844bb1a2494ebdf03695cd50d55a1284f816"
+    }
+   ]
+  },
+  {
+   "slug": "415-31-kinderbetreuungsgesetz-kibeg",
+   "short": "Kinderbetreuungsgesetz, KibeG",
+   "title": "Gesetz zur Förderung der familienergänzenden Kinderbetreuung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/415.31",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/415.31",
+     "sha256": "6465b05fbbfe8cc0fc9a0ded4591b144dc9f95f938e8b901b1547e599509e29d"
+    }
+   ]
+  },
+  {
+   "slug": "420-1",
+   "short": "bGS 420.1",
+   "title": "Kulturförderungsgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/420.1",
+   "versions": [
+    {
+     "from": "2006-08-01",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/420.1",
+     "sha256": "d3af353af5815c17fe76b337c359b03d47af8bb08d78a132bb8cd7b7d79ecf0c"
+    }
+   ]
+  },
+  {
+   "slug": "421-10",
+   "short": "bGS 421.10",
+   "title": "Archivgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/421.10",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/421.10",
+     "sha256": "5370605dd130dd7be6e5feccddec3913308c1016c17919c83f3f469397e30369"
+    }
+   ]
+  },
+  {
+   "slug": "422-16",
+   "short": "bGS 422.16",
+   "title": "Gesetz über die Errichtung der Stiftung Pro Appenzell",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/422.16",
+   "versions": [
+    {
+     "from": "1963-04-28",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/422.16",
+     "sha256": "2e542c5c8857ffcda70a33f376fbdcb7f447ee837afb734b0dc0837f31822abf"
+    }
+   ]
+  },
+  {
+   "slug": "511-1",
+   "short": "bGS 511.1",
+   "title": "Bevölkerungsschutzgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/511.1",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 35,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/511.1/versions/259",
+     "sha256": "16798cc17ba50f573a0e9bd13db0219d279c1ee38cf97e72a2ca3d1418e9d982"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 35,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/511.1",
+     "sha256": "ec971c0056a922f9be9b3231ad53b65d5106c9dd11c22e252d9c48a9ffa5dbef"
+    }
+   ]
+  },
+  {
+   "slug": "511-2",
+   "short": "bGS 511.2",
+   "title": "Zivilschutzgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/511.2",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 24,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/511.2/versions/257",
+     "sha256": "463ba24a8086cc1b53d4ef311f51046364b8c67994074c26ec3a77d06aba71fd"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 24,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/511.2/versions/1000",
+     "sha256": "36f5b1daa6e7515315d502ff9bb7c800667a9763578dc0fe9d4f7fe5e574cdcb"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 24,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/511.2",
+     "sha256": "0ad3640760c2ea6c7be37be2a2f29af409b8d0fab274f70c28580c2edb393d97"
+    }
+   ]
+  },
+  {
+   "slug": "521-1",
+   "short": "bGS 521.1",
+   "title": "Polizeigesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/521.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 58,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/521.1/versions/255",
+     "sha256": "5fb43d30ffdf990a909c3c1729f16f6c85e803f76a883608ef7e2716ed5cb775"
+    },
+    {
+     "from": "2011-10-01",
+     "units": 59,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/521.1/versions/621",
+     "sha256": "4946750f4e346760b84251f0c5508884127e3ee7b0b84e3ae432ca7be00d85c9"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 59,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/521.1/versions/786",
+     "sha256": "b452c3ba9dc4bce8fc54ea64001f6ce80941e2bbcf40971a0cd390c09b736a3e"
+    },
+    {
+     "from": "2013-06-01",
+     "units": 59,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/521.1/versions/814",
+     "sha256": "11d4fc1a4fc83b65f2247bc1005289dfed9868e8ef7d716412ec7b0dfc15e594"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 59,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/521.1",
+     "sha256": "b4efea126e37e39ac8b762b67f7d937437eb2e14abdbdb246de87c1a5a46bfbd"
+    }
+   ]
+  },
+  {
+   "slug": "525-1-hug",
+   "short": "HuG",
+   "title": "Hundegesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/525.1",
+   "versions": [
+    {
+     "from": "1982-04-25",
+     "units": 19,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/525.1/versions/624",
+     "sha256": "51a230666f7a0127ca17cc0c9330af2b1bb08771fec9143c6a6de3156eb1fc65"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 26,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/525.1",
+     "sha256": "4d7c159b7e702f92e3cfc52161c2a72c1f7a4cc8fe60a7022c8ea384285b4c85"
+    }
+   ]
+  },
+  {
+   "slug": "526-2-jagdgesetz",
+   "short": "Jagdgesetz",
+   "title": "Gesetz über Jagd, Wild- und Vogelschutz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/526.2",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/526.2/versions/628",
+     "sha256": "7134b2c6c91cc2676cf9e62b733164f53eca799b81c005963a314a11fc63e2a1"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/526.2/versions/926",
+     "sha256": "5c2afc16223f42f4d191e770d0927f284ae14bf58fe3860c3f474ad1984a3f13"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/526.2/versions/1125",
+     "sha256": "361e49272fef7a7599d7d5d4446875987f542d166f4df6afddd3be108e236f76"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/526.2",
+     "sha256": "6a5a98af6c463c58535fb791a0c9e6f3232c2770f3f26cc8a50ffe2542e86263"
+    }
+   ]
+  },
+  {
+   "slug": "612-0-fhg",
+   "short": "FHG",
+   "title": "Finanzhaushaltsgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/612.0",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 54,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/612.0/versions/248",
+     "sha256": "9838540deadd59a76ba0db2d13d0c7a3ad94ca0ca0bdc7572ecfb14c8d08aff8"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 51,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/612.0/versions/842",
+     "sha256": "fcce6c73d4b4cec14424fa369beb2efeb39497a661387ac51fdbe185e9766656"
+    },
+    {
+     "from": "2019-06-01",
+     "units": 51,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/612.0",
+     "sha256": "16487390a91d6eed441e6665778090dc966109630463d9be619745b6d3a03fc9"
+    }
+   ]
+  },
+  {
+   "slug": "612-2",
+   "short": "bGS 612.2",
+   "title": "Gesetz über die Staatsstrassenrechnung und die leistungsabhängige Schwerverkehrsabgabe",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/612.2",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/612.2/versions/633",
+     "sha256": "a69ddd60b9e3e01a68aee70668709c8d2811fc31ec11bb9891a58de46063942b"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/612.2/versions/861",
+     "sha256": "aedd3ab71d7c530cbc25a5aee86c8aff9ea5337e2321dcadc2cfd31a2a7a2a24"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/612.2",
+     "sha256": "f7902f03d2da2a51bc84cae29cce9e92025618298692a395cc43f3bb274f6d3a"
+    }
+   ]
+  },
+  {
+   "slug": "613-1-finanzausgleichsgesetz",
+   "short": "Finanzausgleichsgesetz",
+   "title": "Gesetz über den Finanzausgleich zwischen dem Kanton und den Gemeinden",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/613.1",
+   "versions": [
+    {
+     "from": "2008-06-09",
+     "units": 27,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/613.1",
+     "sha256": "75863ee11729a33142146b43c185572691cbd9fc95d58f02ad289ab82e36b285"
+    }
+   ]
+  },
+  {
+   "slug": "621-11",
+   "short": "bGS 621.11",
+   "title": "Steuergesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/621.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 303,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.11/versions/554",
+     "sha256": "f498884439392dffa0255b324ce715eba5f6fdb71913a55b2f4a1780f8e77155"
+    },
+    {
+     "from": "2012-03-11",
+     "units": 303,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.11/versions/722",
+     "sha256": "1591ee6f0d67adb60b1885c98a0fe596644a037e59bec156eeaa72689d77397e"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 309,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.11/versions/1619",
+     "sha256": "944241c477edc8bbc9604af741bbba187a02bbe61ddb5a24b558278e24b3731f"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 309,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.11/versions/1622",
+     "sha256": "6934b93dfbb933d4ff550f0ad2aa3521cea4f8842f8690cbe3d52ef085302a5a"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 309,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.11/versions/1623",
+     "sha256": "a31a219ea65124ada4e5fda33f91ce751ba2b0a71df1ff96ebdadd0007d812eb"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 320,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.11/versions/1625",
+     "sha256": "d2b435ab1993bf2e4abfcb32719114bf4dd82e037433d40f752e084bb80c8c5c"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 325,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.11/versions/1627",
+     "sha256": "7637fca33ca31671d8875d586b41eff6d884121e6eb4efe5d0a27ca376db9cff"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 327,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.11/versions/1628",
+     "sha256": "bf83e60aecd578cafdada58f2cab474101da48b8336fa1b0a713ae99fecb8e4b"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 330,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.11/versions/1630",
+     "sha256": "dcf9741367d1972823a8d6d9172f3804ec872a636b79dbe2fe787e3c54d69f32"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 330,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.11/versions/1633",
+     "sha256": "3234adb8b7acc95e59af64bd4994ac7cd706957a61ec091602406a87f4ea743f"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 330,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.11",
+     "sha256": "cad131412d956648fab8ce080eac3c2f7fabd9a9ae693e33363951c1808e394e"
+    }
+   ]
+  },
+  {
+   "slug": "621-12-abrg",
+   "short": "ABRG",
+   "title": "Gesetz über die steuerbegünstigten Arbeitsbeschaffungsreserven",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/621.12",
+   "versions": [
+    {
+     "from": "1989-01-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.12/versions/245",
+     "sha256": "341e3034a7695288c9cc8834d161de0983b5abc80b83ffa3a05fd275ce02f9be"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.12",
+     "sha256": "753a71010bcb834fcddb6e508bb030ff12d86eb6ef8ef9322b208793c16a8c44"
+    }
+   ]
+  },
+  {
+   "slug": "711-1-enteignungsgesetz",
+   "short": "Enteignungsgesetz",
+   "title": "Gesetz über die Zwangsabtretung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/711.1",
+   "versions": [
+    {
+     "from": "1995-01-01",
+     "units": 29,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/711.1",
+     "sha256": "2ed0288fc9b568f96b5675dff68076f3b7278de8d9581e5e4050df3c6c42f933"
+    }
+   ]
+  },
+  {
+   "slug": "712-1",
+   "short": "bGS 712.1",
+   "title": "Gesetz über das öffentliche Beschaffungswesen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/712.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/712.1",
+     "sha256": "d544590b9f9aeaa8a39fc0d8b6da0d761411b3e89b8dc9a7ad9f576625329102"
+    }
+   ]
+  },
+  {
+   "slug": "721-1-baugesetz",
+   "short": "Baugesetz",
+   "title": "Gesetz über die Raumplanung und das Baurecht",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/721.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 130,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.1/versions/856",
+     "sha256": "96547da71b60cc09ddf1debcb583c198cd99d3a9abf8da311daf7c099196cf65"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 130,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.1/versions/1014",
+     "sha256": "d6bf30c4b56ac25e782e9548c800d511cbde4e6afbacd2757a14e15012c60a92"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 130,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.1/versions/1128",
+     "sha256": "ead16dfc8a27f6b5672406f98660b587885beda6172a0bcd63821cc62a8c2e2f"
+    },
+    {
+     "from": "2017-01-13",
+     "units": 132,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.1/versions/1179",
+     "sha256": "9a4048cd1b975494da52bbd9a5d6a8a38223f1230caab8878d3290c0d24657b6"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 132,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.1/versions/1201",
+     "sha256": "6038369c07f47767be899b3f39393152c7b4ed1233b2726c3479decb0fbb6914"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 143,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.1/versions/1237",
+     "sha256": "f9ee9d663c350f90451bc042066d65a17316fa3ff36b465008b917b8ccd1c8dc"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 148,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.1",
+     "sha256": "d4b3905ac0e12826f82e3250a126c9e34cc81aa748ab74f9ec33c72a8c926504"
+    }
+   ]
+  },
+  {
+   "slug": "723-1-kgeoig",
+   "short": "kGeoIG",
+   "title": "Kantonales Geoinformationsgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/723.1",
+   "versions": [
+    {
+     "from": "2012-11-01",
+     "units": 37,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/723.1",
+     "sha256": "29ebccd2b56db238c96dfa558dea75666f61a1e6a2d70f6949c84c64f67a3693"
+    }
+   ]
+  },
+  {
+   "slug": "731-11-strg",
+   "short": "StrG",
+   "title": "Strassengesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/731.11",
+   "versions": [
+    {
+     "from": "2010-02-01",
+     "units": 101,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/731.11/versions/241",
+     "sha256": "a21e996b6818165e76bc6d49c65ba9ff42aa0b33ed6be74d2d3fc867cef24858"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 101,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/731.11/versions/1021",
+     "sha256": "22815b939ceafef8334a58f8c904c99eb976dce41f6665a7419803a3b5cb7848"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 101,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/731.11",
+     "sha256": "f7949684ab7a0c91efddd94a85564160267628f87da7c6d3ac565f866fdadcf7"
+    }
+   ]
+  },
+  {
+   "slug": "741-1-wasserbaugesetz-wbaug",
+   "short": "Wasserbaugesetz; WBauG",
+   "title": "Gesetz über den Wasserbau und die Gewässernutzung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/741.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 37,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/741.1/versions/491",
+     "sha256": "26abc841aa264e5535e6b592ecf1833272c743f42eb52d748f66b8001f368b7c"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 37,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/741.1/versions/1026",
+     "sha256": "1911d52539efc065d6d2e3e83149d4d5d8bf40121630dec5d62f32c1c7ff59b3"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 42,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/741.1",
+     "sha256": "68e1560ae7a86f0b38efa573ed46fe4f4cbcb85c32de5bc21601d71886fc11b5"
+    }
+   ]
+  },
+  {
+   "slug": "750-1-keng",
+   "short": "kEnG",
+   "title": "Energiegesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/750.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/750.1/versions/513",
+     "sha256": "19893d055db0a18af0dfa16c5378205c57374cd598769cc6be206c68081545e8"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 37,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/750.1/versions/852",
+     "sha256": "f0f02c198b7304d73e797f93030028b995c2d26d37e1685acff791088662661f"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 37,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/750.1/versions/863",
+     "sha256": "f440d358210716fd4e1474baa70a71f294b069e6b7f7fd6570d193aabbdf3895"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 37,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/750.1/versions/1027",
+     "sha256": "f7759ab20a4ef14a3412790872a92e47dadd4c6ac4ee6263b38ebaa22e6b70e0"
+    },
+    {
+     "from": "2019-11-01",
+     "units": 38,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/750.1/versions/1279",
+     "sha256": "3ad8f285d876421a6ecb779d4d5df59a6572d9499aa8dcb67eb8e3caec6cda14"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 43,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/750.1",
+     "sha256": "98d5f75e8892ca8b2ddbeb6fd16e92fe3202b6c7c76ef373696eb3a4fd2c756e"
+    }
+   ]
+  },
+  {
+   "slug": "751-211",
+   "short": "bGS 751.211",
+   "title": "Gesetz über die Errichtung eines kantonalen Elektrizitätswerkes",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/751.211",
+   "versions": [
+    {
+     "from": "1913-04-27",
+     "units": 14,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/751.211",
+     "sha256": "f515d4fabc987fb87e219cbbe61fe3fcf3095b4ba54bdd3cae1f7bab18ae705e"
+    }
+   ]
+  },
+  {
+   "slug": "760-1",
+   "short": "bGS 760.1",
+   "title": "Gesetz über die Förderung des öffentlichen Verkehrs",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/760.1",
+   "versions": [
+    {
+     "from": "1992-01-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/760.1/versions/236",
+     "sha256": "a630546969ae4c944d84c7d2dd0d9f15320f1744884ba2a43f61ca17309fa55c"
+    },
+    {
+     "from": "2014-05-28",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/760.1/versions/853",
+     "sha256": "a741a77f923732f35f618aee0abe7d58a2accaef0786a37934264ffeeb7f2965"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/760.1/versions/1032",
+     "sha256": "e45264b18f5fbd3595c55e08f5b002849c33ff4c8b9c5a6cf7f9b366bbf90fa4"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/760.1",
+     "sha256": "9fb49e5fa58d356b2a5352e1b477dc18e43928a6f8b343e0f581adb128509c0f"
+    }
+   ]
+  },
+  {
+   "slug": "761-11-eg-svg",
+   "short": "EG SVG",
+   "title": "Einführungsgesetz zum Bundesgesetz vom 19. Dezember 1958 über den Strassenverkehr",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/761.11",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/761.11/versions/646",
+     "sha256": "6ceb950b56fc092a5ef827ffac05bec056d301df54eb32295500e6ba1915b54b"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/761.11/versions/864",
+     "sha256": "6dd2f0420f19c70b1862a8d8ffabe873560904bc8c4a41f9dfc1aebff6c3de6f"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/761.11",
+     "sha256": "dede819cb82f6a9d75393eda3357d77bb9e1552da2e8e077b56a2313305f4101"
+    }
+   ]
+  },
+  {
+   "slug": "811-1",
+   "short": "bGS 811.1",
+   "title": "Gesundheitsgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/811.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 72,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.1/versions/493",
+     "sha256": "5eb7cb061cab0f35795d00d45b302a8387a9053949c2f868816627f4be139058"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 86,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.1/versions/586",
+     "sha256": "d4592e15100ebeab70a72967ea72638daa37c2c41b6eb5a47e5adf3c39db14ff"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 85,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.1/versions/788",
+     "sha256": "db852c169669fc1a7bf82851ca6855368145763f49c3df7127b1cc4e12d6f928"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 85,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.1/versions/865",
+     "sha256": "313f4f2f3a04e4f0a98999f6f99c8810720f9955f3e43abdcd426b84b965f4f9"
+    },
+    {
+     "from": "2016-09-23",
+     "units": 86,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.1/versions/1608",
+     "sha256": "489f5661b43daa05018a0111a8c23f278fb8ac853ed796d431833f6e985f0ec4"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 86,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.1/versions/1609",
+     "sha256": "3c94fde74b86694e68bd0968c198b604e1e041e8daf991f058b82b115a44658e"
+    },
+    {
+     "from": "2018-07-01",
+     "units": 86,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.1/versions/1610",
+     "sha256": "5cd470760f20bf80a2060b031a4c9b60def486446282ccfb9ad8b920d836083e"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 87,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.1/versions/1611",
+     "sha256": "61fcdef93af7bc56adb992f90c09c7843c91b10ba276f2c603bbb6766d84e2c1"
+    },
+    {
+     "from": "2019-11-01",
+     "units": 88,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.1/versions/1612",
+     "sha256": "9e71499c927bc6f4a4337f30fc670a5b2100a46de56b41fb7dc3a0cae379c869"
+    },
+    {
+     "from": "2022-01-14",
+     "units": 88,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.1",
+     "sha256": "afe00f98abda49ff1fac3b377b2717eb9845d699f4540a3c2d6e88ccb60f93d7"
+    }
+   ]
+  },
+  {
+   "slug": "812-11-spitalverbundgesetz-svarg",
+   "short": "Spitalverbundgesetz; SVARG",
+   "title": "Gesetz über den Spitalverbund Appenzell Ausserrhoden",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/812.11",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 36,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/812.11/versions/587",
+     "sha256": "18398f690c567d1259b1497690790fd260d4692c59139ee6bc799c611a31ea34"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 36,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/812.11/versions/1044",
+     "sha256": "d134f252f28db7b47f0b6a2f6354eb03bdff6cc04836670910ef6398a56c1249"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 36,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/812.11/versions/1162",
+     "sha256": "2bc3e00ba856d27f926c6f4896d600c615e84c30a9647b88836e9cecbbde9536"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 36,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/812.11",
+     "sha256": "842107b46eee2a12a2397428e77057f589dcf15fc898efcf38e00d02bfe7a7c8"
+    }
+   ]
+  },
+  {
+   "slug": "812-12",
+   "short": "bGS 812.12",
+   "title": "Gesetz über die Beteiligung des Kantons Appenzell A.Rh. am Ostschweizerischen Säuglings- und Kinderspital in St. Gallen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/812.12",
+   "versions": [
+    {
+     "from": "1962-04-29",
+     "units": 6,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/812.12",
+     "sha256": "b408ee9221ef70034de4e700f0dd75c8ddc43c500c331acdfefb53712ba620a2"
+    }
+   ]
+  },
+  {
+   "slug": "813-21",
+   "short": "bGS 813.21",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Betäubungsmittel",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/813.21",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/813.21/versions/648",
+     "sha256": "5a47b9c7eb853fd0a2bb54edbdec721a0e15a8eaa68e8440452ecfd95ef6bfe4"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/813.21",
+     "sha256": "cedd72ef1391f43dd85d9776c0d50196e0dc823572906d2f01899f0f97c094af"
+    }
+   ]
+  },
+  {
+   "slug": "814-0-umwelt-und-gewasserschutzgesetz-ugsg",
+   "short": "Umwelt- und Gewässerschutzgesetz; UGsG",
+   "title": "Gesetz über die Einführung der Bundesgesetze über den Umweltschutz und über den Schutz der Gewässer",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/814.0",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 92,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/814.0/versions/649",
+     "sha256": "15d682ddb2b6d63c796eb6b6ac54c501f968c8ec0872fd6dff738827b7ca7136"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 92,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/814.0/versions/1050",
+     "sha256": "8b7f30db5f08cf952f1bde7a9c8d5a395fb805f9bd36e7ed63a08fdd6b1af182"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 92,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/814.0/versions/1247",
+     "sha256": "46cb5cdb2bfcf8e276ab7dddf25f2d6b9a3bb8b3b1001b610d4b9c73c458a34d"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 92,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/814.0/versions/1589",
+     "sha256": "91cb851cedd5cbb55604b68f5f8b1b68e2488eac7684240ee2a28aae72473c61"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 92,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/814.0",
+     "sha256": "63b71ac27ef724635db178ef324924b0c34d95187ce0422d54aa12699b8a3f7f"
+    }
+   ]
+  },
+  {
+   "slug": "822-31",
+   "short": "bGS 822.31",
+   "title": "Gesetz über den Sonntagsverkauf",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/822.31",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.31/versions/577",
+     "sha256": "132df907219f8d65b40183185cc4d51b59a20bdad8e3a552b172b37ad4b59bd5"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.31",
+     "sha256": "0e811289190eb18a1baa7798d83cb821291d130cc22926c614e095f007f11d92"
+    }
+   ]
+  },
+  {
+   "slug": "822-32",
+   "short": "bGS 822.32",
+   "title": "Gesetz über den Werktags-Ladenschluss",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/822.32",
+   "versions": [
+    {
+     "from": "1948-04-25",
+     "units": 4,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.32/versions/230",
+     "sha256": "337590e580bc5e452013b5dba5eb2d6a43aab19e7e48a53a3cf67b28452d37ff"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 4,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.32",
+     "sha256": "5cba294e33c6a45d2772687f417211cfe2fab8842260b0908842e257f727b1d6"
+    }
+   ]
+  },
+  {
+   "slug": "822-41-eg-zum-famzg",
+   "short": "EG zum FamZG",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Familienzulagen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/822.41",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 30,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.41/versions/229",
+     "sha256": "38ec6cf8ade32c54105262ef955327f992412bb5ae7f995b59c61b9e21350cfd"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 30,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.41/versions/818",
+     "sha256": "ca24be1a739199abc9443a0437c39fdf5a36834c075772aa670258f96c7189c7"
+    },
+    {
+     "from": "2016-06-01",
+     "units": 30,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.41/versions/951",
+     "sha256": "32a119ac4e51ccbb328ed1d8a294ef67183523e21fcb14830ef9524392f8f26c"
+    },
+    {
+     "from": "2020-04-01",
+     "units": 30,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.41",
+     "sha256": "271e68c5924217a9793a6a6c6676111962174b62f54a7e8afbb33e1b7c1711e7"
+    }
+   ]
+  },
+  {
+   "slug": "831-1-eg-ahvg-ivg",
+   "short": "EG AHVG/IVG",
+   "title": "Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und über die Invalidenversicherung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/831.1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/831.1/versions/654",
+     "sha256": "7bff7f346b04e9bdb9d60c24a7ae6efacaef5e2c45d50c38eca4e44216f1d9f3"
+    },
+    {
+     "from": "2016-06-01",
+     "units": 20,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/831.1",
+     "sha256": "76bb7a2ea936c8d32fb7d5d07f3268cc5c59204915a38cf0b4c793eb5e67921c"
+    }
+   ]
+  },
+  {
+   "slug": "832-31",
+   "short": "bGS 832.31",
+   "title": "Gesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/832.31",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/832.31",
+     "sha256": "4a98fb07627b476a1742ac3669632bcae9cf2cbeb0399bf957d4a2c7c6404f27"
+    }
+   ]
+  },
+  {
+   "slug": "833-11-eg-zum-kuvg",
+   "short": "EG zum KUVG",
+   "title": "Gesetz über die Einführung des Bundesgesetzes vom 13. Juni 1911 über die Kranken- und Unfallversicherung (KUVG)",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/833.11",
+   "versions": [
+    {
+     "from": "1996-04-28",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.11",
+     "sha256": "4fb4344f026953e219375ded30a545792ec1d995f1fb07ef882d619aa498852b"
+    }
+   ]
+  },
+  {
+   "slug": "833-14-eg-zum-kvg",
+   "short": "EG zum KVG",
+   "title": "Gesetz über die Einführung des Bundesgesetzes über die Krankenversicherung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/833.14",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 33,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.14/versions/225",
+     "sha256": "92aac80ded791a354e354945b67aae00d1f3bc2c9f318eb7d5d271f5305cdc9d"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 33,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.14/versions/866",
+     "sha256": "0820c2cf23c92cee0eeb30cb166a9f7ea04033647fa554a7fb3488633d8556f8"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 33,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.14/versions/1065",
+     "sha256": "0b9fa3c86efbfa47463fbc57df7a2156caf911937f5ccd164ca84b2f9c2f66b4"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 33,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.14",
+     "sha256": "c939517be0a6c1ac3eca60ce51ac0a6238782a19e5e65f31a2deb448aa8fc3f8"
+    }
+   ]
+  },
+  {
+   "slug": "833-15-pfg",
+   "short": "PFG",
+   "title": "Gesetz über die Pflegefinanzierung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/833.15",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.15",
+     "sha256": "b37617822b58b5df0a8884fc672d13b3cfc67189b435b3cd98a3101f6059e703"
+    }
+   ]
+  },
+  {
+   "slug": "841-1",
+   "short": "bGS 841.1",
+   "title": "Gesetz über Massnahmen zur Förderung des Wohnungsbaues",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/841.1",
+   "versions": [
+    {
+     "from": "1973-12-06",
+     "units": 10,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/841.1",
+     "sha256": "7c5b42b03dc671a9efc3529b74c2bbf895fa337aea107c2af742646dc6a0294a"
+    }
+   ]
+  },
+  {
+   "slug": "851-1-sozialhilfegesetz-shg",
+   "short": "Sozialhilfegesetz, SHG",
+   "title": "Gesetz über die öffentliche Sozialhilfe",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/851.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 47,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/851.1/versions/426",
+     "sha256": "286f46bf8a577a714fd6f0f7252d297da1d6197f0d69ec7e8d7746080f5a5777"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 47,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/851.1",
+     "sha256": "f079ef6d583065662f88b351eb8b9674a1ac332799d566bc23249a0201111589"
+    }
+   ]
+  },
+  {
+   "slug": "852-6-behindertenfinanzierungsgesetz-befig",
+   "short": "Behindertenfinanzierungsgesetz; BeFiG",
+   "title": "Gesetz zur Finanzierung von Leistungsangeboten für Menschen mit Behinderung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/852.6",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/852.6/versions/221",
+     "sha256": "4dfc4227d39e92cd3a5a1e2d0897602849a7606fb7737a54e36657a831f1e9e2"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/852.6/versions/1070",
+     "sha256": "73256e40c5ecb9d3edfbf4483504f8cf4073281906368c021fd477c074cc0fcd"
+    },
+    {
+     "from": "2022-01-14",
+     "units": 31,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/852.6",
+     "sha256": "e9cc5af35861c4a5f186ac57ca0b7bcb7dcafcd8e403adfdb7724b93c0490b5e"
+    }
+   ]
+  },
+  {
+   "slug": "861-0-feuerschutzgesetz",
+   "short": "Feuerschutzgesetz",
+   "title": "Gesetz über den Feuerschutz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/861.0",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 21,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/861.0",
+     "sha256": "9493c93df5eb5358e8391759c2c35537d8a9b300631b1f579b9f68362d6edffa"
+    }
+   ]
+  },
+  {
+   "slug": "862-1-assekuranzgesetz",
+   "short": "Assekuranzgesetz",
+   "title": "Gesetz über die Gebäude- und Grundstückversicherung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/862.1",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 45,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/862.1/versions/1110",
+     "sha256": "3f27f71e438c67e69b295ee17447877316ea5b8c055babda55f146d1adfb2683"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 46,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/862.1",
+     "sha256": "8da59d296a71fb748a7784d157fcd6aaa0d04f9d6cadd2ae80d7cff4d67ecb42"
+    }
+   ]
+  },
+  {
+   "slug": "911-1",
+   "short": "bGS 911.1",
+   "title": "Gesetz über die Wirtschaftsförderung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/911.1",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/911.1/versions/217",
+     "sha256": "eb32435eb5acc6be55d258720e3c831dee41c9833d2013e8a0bedfc53c879151"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 18,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/911.1",
+     "sha256": "2ae7b0cbd45cb34d650111e102d274e9bc4579ff8800784aa2d1f79f713fd6d7"
+    }
+   ]
+  },
+  {
+   "slug": "920-1",
+   "short": "bGS 920.1",
+   "title": "Gesetz über die Landwirtschaft",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/920.1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 33,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.1/versions/665",
+     "sha256": "775fc91c27ce7fcfcfd5a8e06f5bbf957958f587d647c74e48dc6b47aaf9ee7a"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 33,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.1",
+     "sha256": "662a991f0a84bef8e54ac5bb460c7efd9bb0f4edbcf53b916e358f35c9bf2561"
+    }
+   ]
+  },
+  {
+   "slug": "931-1-kantonales-waldgesetz",
+   "short": "Kantonales Waldgesetz",
+   "title": "Gesetz über den Wald",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/931.1",
+   "versions": [
+    {
+     "from": "1997-01-01",
+     "units": 38,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/931.1/versions/454",
+     "sha256": "ef31c707896ae6b4a142389dbbf98e8add6bb08d3ba65b9b351edf9d907c2069"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 38,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/931.1/versions/1081",
+     "sha256": "b44d5a6b8ecbe9f4b4f48c5e7e78897bde29ebf494f5ab402f869ae51d4cfeab"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 37,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/931.1/versions/1461",
+     "sha256": "e435111ce6e6ab981007ed125aac98f79cd525d914deccb851893ee1431ed045"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 39,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/931.1",
+     "sha256": "316e1f6f2e6540be6f2ba58f9a9f6de643276013415537766d90f1f274956226"
+    }
+   ]
+  },
+  {
+   "slug": "955-11",
+   "short": "bGS 955.11",
+   "title": "Gesetz über das Gastgewerbe",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/955.11",
+   "versions": [
+    {
+     "from": "1999-05-01",
+     "units": 21,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.11",
+     "sha256": "a15a5963a21933dbe54fad7ccb5e34e2833405a0cb034944b018d20c86892348"
+    }
+   ]
+  },
+  {
+   "slug": "955-21-tg",
+   "short": "TG",
+   "title": "Tourismusgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/955.21",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 31,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.21/versions/709",
+     "sha256": "2a75b316802093e3d7c1da9236f6baae728f9793d2079ee98f1a657a05561c5d"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 31,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.21/versions/761",
+     "sha256": "04f9af0134c687846656a7a3764c06f70b44c30e1cb4de4157f0f900ee62bd79"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.21",
+     "sha256": "a959996ea22717f2fdc042f71869ea53eb227900b5c81648743c9b3bbe1c9c5e"
+    }
+   ]
+  },
+  {
+   "slug": "955-22",
+   "short": "bGS 955.22",
+   "title": "Gesetz über die Entlastung von den Tourismusabgaben 2020 und 2021",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/955.22",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 4,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.22",
+     "sha256": "d03fa87ef6a6b1b136a65653e0fc2dc76e93a1ec8b49ed6f26582b9b1d15461a"
+    }
+   ]
+  },
+  {
+   "slug": "955-31-kgs",
+   "short": "KGS",
+   "title": "Kantonales Geldspielgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/955.31",
+   "versions": [
+    {
+     "from": "1982-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.31/versions/669",
+     "sha256": "f5a61f638b7c8e3fc098bd15725e9cfdae978ea7477d6829f9030fd5674d14c2"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.31/versions/1082",
+     "sha256": "6df280d9230d9e368e2fbc1e93439d35567734e64d41a6817815bea53f24de90"
+    },
+    {
+     "from": "2022-01-14",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.31",
+     "sha256": "6bbd70b7ba6f5492e2c147d449aba007257be52753bc1e7c0ad8da34b5b712d5"
+    }
+   ]
+  },
+  {
+   "slug": "122-11",
+   "short": "bGS 122.11",
+   "title": "Verordnung zum Registergesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/122.11",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.11",
+     "sha256": "b6a345a2057797c9592206b825dfda0323d17d112915739358575cb38b7d29b2"
+    }
+   ]
+  },
+  {
+   "slug": "122-21",
+   "short": "bGS 122.21",
+   "title": "Verordnung zur Bundesgesetzgebung über die Ausländerinnen und Ausländer",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/122.21",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.21/versions/253",
+     "sha256": "3474fed96f4ab4dad2bb244ed762ee877e1388efd84aa301b7d850718b92e4b8"
+    },
+    {
+     "from": "2011-07-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.21/versions/551",
+     "sha256": "21c30d26fe44f7de3cb9c50f61c5f7b9182d7e7b56d29dd42b35e871c738450f"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.21/versions/963",
+     "sha256": "55135625b784bb3ffeff64d45c1ba13b29beb7022df20ffab5926672cb142a08"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.21",
+     "sha256": "88bee4cb06795a6fd92d64a6682a27f5e6fc057662ed42d4277e93f9556eaee6"
+    }
+   ]
+  },
+  {
+   "slug": "122-22",
+   "short": "bGS 122.22",
+   "title": "Verordnung über die Gebühren im Ausländerrecht",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/122.22",
+   "versions": [
+    {
+     "from": "2008-01-15",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.22/versions/254",
+     "sha256": "b6df9daea9c4a1c1644b6afcc86c6d8e50c7aed315e8a484835eb4cf9e849cb6"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.22/versions/1114",
+     "sha256": "48aa6bf27a741c9d534857b6b21e87419eb58ea20f48de9ad2ec5d9c887c9931"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 6,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.22",
+     "sha256": "d42b9bbfbe762b0708042ae2a1287ecad4bf2398c541bcb93642d944771c11e2"
+    }
+   ]
+  },
+  {
+   "slug": "122-23",
+   "short": "bGS 122.23",
+   "title": "Verordnung über die Gebühren bei der Zuteilung ausländischer Arbeitskräfte",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/122.23",
+   "versions": [
+    {
+     "from": "1995-02-01",
+     "units": 5,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.23/versions/256",
+     "sha256": "d10807bf6b29648f7b5b2231dc0263f2a1f93d71179f23221d91e1728ff4163b"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 5,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.23",
+     "sha256": "4153da941d193ecd55405b38241854aabfa17a0e820f99104224837accaaaa48"
+    }
+   ]
+  },
+  {
+   "slug": "122-24-kr-asylvo",
+   "short": "KR AsylVo",
+   "title": "Verordnung des Kantonsrates zum Asylwesen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/122.24",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.24/versions/457",
+     "sha256": "5539e30eb85c2a7cbbcdf3c58c5876357689ed9c6446262bb9e6b38c4a4ca9ca"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.24/versions/790",
+     "sha256": "9a19052b028593ead9649db4778157831a38cdcb4b09c324bb343f3cdac8fdbe"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.24/versions/964",
+     "sha256": "9f23e9864286d33747a02b0c7e8b39c747105ef9461ec0c493cbcd01e3bb635d"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 24,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.24",
+     "sha256": "2b53922f6daf2d96d8350edbc9d38071a1d7f2f0a509ac95bbb1156176b4ea5a"
+    }
+   ]
+  },
+  {
+   "slug": "122-241-rr-asylvo",
+   "short": "RR AsylVo",
+   "title": "Verordnung des Regierungsrates zum Asylwesen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/122.241",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.241/versions/498",
+     "sha256": "23b9ebf62b47fa59702d6828f90b6e2ca9c06792f1584218e0db149f8ca7f67c"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.241/versions/795",
+     "sha256": "2270307b8f0c64fafdda86c601a5009bb85b89262b49144b3c7d1d4a40e18e9e"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.241/versions/965",
+     "sha256": "f77ab29a61a953e06b19a4989b136720dc67d8c76a413f1be1601893dabe0649"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/122.241",
+     "sha256": "b439bd5b2edf933153baba20c25e85bf1897af0a89568d8798c5026e4bbf5411"
+    }
+   ]
+  },
+  {
+   "slug": "123-1-ausweisverordnung",
+   "short": "Ausweisverordnung",
+   "title": "Verordnung über die Ausstellung von Ausweisen für Schweizer Staatsangehörige und von Reisedokumenten für Ausländer",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/123.1",
+   "versions": [
+    {
+     "from": "2010-03-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/123.1/versions/260",
+     "sha256": "8f3cbeb1a2f6d3ea594ea98244104394f45bf2184c7d644ad8421fe5e349f601"
+    },
+    {
+     "from": "2012-03-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/123.1/versions/719",
+     "sha256": "2ef56a2c700cbc0450e3d1d6f7378ba9d2d301a5a4186180ea230a13964cd7ce"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/123.1/versions/1118",
+     "sha256": "0c86d3cb40b5a41fdd3776017f86509a94a40fbe78f697f49e5d07dd5025d99c"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/123.1",
+     "sha256": "4f0c82da1f49e038e8e8d4a07f6dff1656facf9e924018c127a10a8aa2257164"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/123.1/versions/1648",
+     "sha256": "6766b9899faa5bc10683fa56cc9335f8054d431723737299f723273e2ef78b57"
+    }
+   ]
+  },
+  {
+   "slug": "131-13",
+   "short": "bGS 131.13",
+   "title": "Verordnung über die eidpflichtigen Behördenmitglieder der Gemeinden",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/131.13",
+   "versions": [
+    {
+     "from": "2019-06-01",
+     "units": 3,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/131.13",
+     "sha256": "ee3944c513c6167065c7f6895745730d9bfb410dc2308d9950d2552ab347a425"
+    }
+   ]
+  },
+  {
+   "slug": "142-13",
+   "short": "bGS 142.13",
+   "title": "Verordnung über die Besoldung und die berufliche Vorsorge der Mitglieder des Regierungsrates",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/142.13",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.13/versions/765",
+     "sha256": "25320df380d82a0ec1707ba0fd42a74374b4569b772b0f74cbac1253a252a12a"
+    },
+    {
+     "from": "2015-06-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.13/versions/905",
+     "sha256": "d55475d89dedf1980e94dcb5e75ab135465fba2a63f81587adaca7ed5105232a"
+    },
+    {
+     "from": "2019-06-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.13",
+     "sha256": "99076291b8a4da2418c481ea09037be95f3296024cb31043ec5a51c3a094d74f"
+    }
+   ]
+  },
+  {
+   "slug": "142-121-organisationsverordnung-orv",
+   "short": "Organisationsverordnung, OrV",
+   "title": "Verordnung zum Regierungs- und Verwaltungsorganisationsgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/142.121",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 55,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.121/versions/464",
+     "sha256": "7a55f66bd594a9f063e5e8db5fc394ad3e103a21986d54b06760ba534abf6876"
+    },
+    {
+     "from": "2011-03-01",
+     "units": 55,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.121/versions/544",
+     "sha256": "7e6ac0f57660288494aa4a50b237fbdd70b5435d63a78643a0ff558519cb2085"
+    },
+    {
+     "from": "2011-09-01",
+     "units": 55,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.121/versions/563",
+     "sha256": "e2a79df5cf5477578870b1010a2acc4cfc133d2d554edd35e0208c4d3cd3b9ab"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 55,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.121/versions/676",
+     "sha256": "2549b628f7af856172cd75d8db65850619df98e8bf8fbfca94e90540af6f4c28"
+    },
+    {
+     "from": "2012-06-01",
+     "units": 55,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.121/versions/707",
+     "sha256": "ee1a5281367113c2c6ed82fb36bf3b1fe3d17af74e2c5970583d89157e14c31b"
+    },
+    {
+     "from": "2012-08-01",
+     "units": 55,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.121/versions/734",
+     "sha256": "b88ab1739c0d0b20a9e2bc9e29b52b2bb32bca6f033fd18a75bacec7fbd9af12"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 55,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.121/versions/805",
+     "sha256": "88bf21e4777dd370e512f9aa4b7fb576b2fa34a15fdd88e23db9b5c4729d7134"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 56,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.121/versions/835",
+     "sha256": "7dced9ce8e4db08279b17db7b2b63ce671ec089d8c7f01e25b7957ab62709068"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 68,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.121/versions/938",
+     "sha256": "9551a7aeb902ce0244e171eb9618f13589ea6b65eb14ffeb83ed324c4b85a539"
+    },
+    {
+     "from": "2018-04-01",
+     "units": 71,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.121/versions/1222",
+     "sha256": "8db41c6dd9c8274ae8ba138ba3aaaa7b7980294c3e6567f62564e741eb153f2f"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 71,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.121/versions/1635",
+     "sha256": "ecc5f31c93fdf357b8b1c19a13f6a6262f9e092677903add7fa1c08110108dc1"
+    }
+   ]
+  },
+  {
+   "slug": "142-211-bvo",
+   "short": "BVO",
+   "title": "Besoldungsverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/142.211",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.211/versions/881",
+     "sha256": "93bbb2896744d68d17253e997f280573733c0f370fa66992a968688a38c22408"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.211/versions/900",
+     "sha256": "e6a521ed1c674bdcda5c42cac83b061eb8b158b3d78c85026a1d09a79c417ccb"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 27,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.211/versions/1346",
+     "sha256": "8375d1cd9485c869159d0ed905293e8819fb5bfa2da3df76bb132c71901195d2"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 27,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.211/versions/1377",
+     "sha256": "1aace71250714d2975bc2ae9278979aa5113aa2bed9f73cba6e43d1960827465"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 27,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.211/versions/1445",
+     "sha256": "cd32c9a11caa5d9422d2f5e7aeb876fc17ce0551a757a5d0eaf672920c99a86d"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 27,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.211/versions/1503",
+     "sha256": "4747a6ada952838831921a6303ed0eb1b75d0bd13e3eb37ec1af16997da2cf68"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 27,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.211/versions/1514",
+     "sha256": "f9667229ec968f6500fa2c59cee35b3c162c0f3f0117f36db96d4a7116ff8e1c"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.211",
+     "sha256": "d3decdf4280228e60d81afb645a992f7cdea685ab9507719111dfa805b803c33"
+    }
+   ]
+  },
+  {
+   "slug": "142-211-1-reis",
+   "short": "REIS",
+   "title": "Reglement über die Entschädigung von Inkonvenienzen, Spesen, Pikettdienst und ausserordentliche Arbeitszeit",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/142.211.1",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 14,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.211.1/versions/468",
+     "sha256": "5f16f0bcc102220d6dd1cd436c1425bd7ad493dcba846253b7f22e4ef604b689"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.211.1/versions/968",
+     "sha256": "ee9705f444551f571ec3a90e7cd799021fe86abedaeeda297f576fac7d5fb76d"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.211.1/versions/1120",
+     "sha256": "83f9a5091872a90343462cb113d1893e2b3c4d498d0ebedcf9571f6d34c20f62"
+    },
+    {
+     "from": "2017-04-01",
+     "units": 20,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.211.1/versions/1233",
+     "sha256": "07885b759ea8a955cc48785649e777d3cc551a7921a301cc7f69c968d61122cb"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 21,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.211.1/versions/1234",
+     "sha256": "1a52d715df7350aa725906d821a89907d0eb27b9a920ccb5d1343bfab045c0de"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 21,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.211.1",
+     "sha256": "3dcb92b465ff9c9f103a28d0780223f63b7b6aaf48f01846e26fcb8b5111cfbc"
+    }
+   ]
+  },
+  {
+   "slug": "142-211-5-ov-abo-verordnung-ovav",
+   "short": "öV-Abo-Verordnung; öVAV",
+   "title": "Verordnung über vergünstigte Abonnemente im öffentlichen Verkehr für kantonale Angestellte",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/142.211.5",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 5,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.211.5",
+     "sha256": "42dc19e08af235724cb631e228daf403659318da215f13f5750059a1bb36b192"
+    }
+   ]
+  },
+  {
+   "slug": "142-212-pgv",
+   "short": "PGV",
+   "title": "Personalverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/142.212",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 51,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.212/versions/517",
+     "sha256": "5bcdfe7f7cc438f612c93e92b71bb405c092bcf2004c3bf155ecc57d57d69ac6"
+    },
+    {
+     "from": "2014-12-12",
+     "units": 51,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.212/versions/871",
+     "sha256": "ebb87de35ee955891341d94475d79e09f1b8a2370492419103a95aead5b8cba0"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 51,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.212/versions/885",
+     "sha256": "4f85acd44cbbd10599644c9c5ba51b5f793ab589fbc8fd4b88bd60ee9d0d1eb5"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 51,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.212/versions/1147",
+     "sha256": "ff178b5df8b4ce26432c70b39f0fa5b335564f4880dd7b67d70e211474702141"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 58,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.212/versions/1170",
+     "sha256": "3096a35803037ad21745e4f041ac07b9cffb78707781a20e09940b76bc796920"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 59,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.212/versions/1369",
+     "sha256": "92bdf888884f5ef3c8f83f604d47510f249920cb80505c3d7db1ee26b6aa7c52"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 59,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.212/versions/1469",
+     "sha256": "2ee0663bbbb3bef843d601b0bd65e6c31d3d132477f56012c36d6ff14c742e9f"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 59,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.212/versions/1562",
+     "sha256": "a42149e0e6e57c25995c68a698938ff7a7866415582eb5427364ffc45d551d92"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 59,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/142.212",
+     "sha256": "c3fe980e85dda949ccb52eb775e3cb386e8598c4a619dc33da26fb39f3e53acf"
+    }
+   ]
+  },
+  {
+   "slug": "143-11",
+   "short": "bGS 143.11",
+   "title": "Vorläufige Verordnung zur Gewährleistung des Rechtswegs in Staatshaftungsverfahren",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/143.11",
+   "versions": [
+    {
+     "from": "2019-02-15",
+     "units": 4,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/143.11",
+     "sha256": "9fa011ab66dbf1f95b31e9af8353794850d5b6a2fb0255b856ca9b0ae9369677"
+    }
+   ]
+  },
+  {
+   "slug": "145-12",
+   "short": "bGS 145.12",
+   "title": "Besoldungsverordnung für die gerichtlichen Organe",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/145.12",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.12/versions/471",
+     "sha256": "0dfa58e8970abcf807ec30290961f6b029d0cbc3746574ae2e877fbf8463f981"
+    },
+    {
+     "from": "2012-07-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.12/versions/731",
+     "sha256": "0052ae92469f975694434c5f83baa6b8b83e8673a3464144e3b9ce54d569dee7"
+    },
+    {
+     "from": "2019-06-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.12/versions/1266",
+     "sha256": "b29525f30c3f9abf16af4a88079bf49a13b861293e3fc87176fa1ce7af1e79a4"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 16,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.12/versions/1334",
+     "sha256": "07c0b052cd2a48032df301c232bd694d2c56681a471f6808e2120f700e3a1037"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 16,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.12",
+     "sha256": "dcd0543925ed391d64832465385103b86c425690812442b967673d4ffee95247"
+    }
+   ]
+  },
+  {
+   "slug": "145-53",
+   "short": "bGS 145.53",
+   "title": "Verordnung über den Anwaltstarif",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/145.53",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 30,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.53/versions/280",
+     "sha256": "13e8f7f8a43e886d3f1a8f3ae27f9dd4c8aac5c69cbd35bd2690ad6e7d3ff3e4"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 30,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.53/versions/1181",
+     "sha256": "87fa9cdd3396fa20166d23a17ffbe615099c9eb510fa90d52481e01d662f2381"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 30,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.53",
+     "sha256": "9cd864cb58c2fb54bbd088454ee3bc57411d9d2ce371c8272bb9ce03e2a6b1fc"
+    }
+   ]
+  },
+  {
+   "slug": "145-521",
+   "short": "bGS 145.521",
+   "title": "Verordnung über die Anwaltsprüfung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/145.521",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/145.521",
+     "sha256": "a8cfc5c6290293c4d15e81aeadca50b602c5746b63c4c121fb04eca4ff48ff55"
+    }
+   ]
+  },
+  {
+   "slug": "211-211-beurkv",
+   "short": "BeurkV",
+   "title": "Beurkundungsverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/211.211",
+   "versions": [
+    {
+     "from": "2010-02-01",
+     "units": 16,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/211.211/versions/200",
+     "sha256": "058834c04cfbc1aad1cf6351785aa6ed49be545ecbee66e24797a345fdd90244"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 16,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/211.211",
+     "sha256": "c6873ddcf4db1610d8a29ae97d839d325553752e237f0224c94b462af9e4ef8a"
+    }
+   ]
+  },
+  {
+   "slug": "212-01-vsta",
+   "short": "VStA",
+   "title": "Verordnung über die Stiftungsaufsicht",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/212.01",
+   "versions": [
+    {
+     "from": "2003-10-01",
+     "units": 6,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/212.01/versions/281",
+     "sha256": "1a4415ab9468f49632186d506979326e0564e927a39d6f819bc1868aec5989f0"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/212.01",
+     "sha256": "f83426e1a7c7e3a7c9eff5688e9547f4e5765830879c42f4756575e4ade782f1"
+    }
+   ]
+  },
+  {
+   "slug": "212-11",
+   "short": "bGS 212.11",
+   "title": "Verordnung über das Zivilstandswesen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/212.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/212.11/versions/593",
+     "sha256": "aba62c18c2b5471b19b07aa2af0805f1b31fe7ae41ac3d9e210e22d55c1b4ff1"
+    },
+    {
+     "from": "2012-06-01",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/212.11/versions/728",
+     "sha256": "e491413ee94773798d97553b5249a8ead69ce2863043de279824b1e0eca7841a"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 24,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/212.11/versions/798",
+     "sha256": "b1dfb43432f210f64d886eff8a3f2f98fafe5ae9cfa000c9535d7e2b09f86231"
+    },
+    {
+     "from": "2016-02-01",
+     "units": 24,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/212.11/versions/978",
+     "sha256": "750c6bd3523c9a18f7cb32d225ad99533574c35eb0bea38d7954ad5971e4dfa7"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/212.11/versions/1191",
+     "sha256": "959e717d488830337da608d7ed50b035be53d414cd98fea76ec77a5fc9a1ff40"
+    },
+    {
+     "from": "2017-09-01",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/212.11",
+     "sha256": "132e192f8612b9d5a8b26c42d6e5e33c3ebac56111a49ff364c6aa0c949a496d"
+    }
+   ]
+  },
+  {
+   "slug": "212-43-tarif-kesr",
+   "short": "Tarif KESR",
+   "title": "Verordnung über die Verfahrenskosten, Entschädigungen und Spesen im Kindes- und Erwachsenenschutzrecht",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/212.43",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/212.43/versions/754",
+     "sha256": "39b470df838f69e9fb0a21a65547ca825a01775d66c1ad63b46057f5121fa2f8"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/212.43",
+     "sha256": "9011aa997348b32a4846fd90564e0d64b9b91f84426c12b117eab62ef1057a3f"
+    }
+   ]
+  },
+  {
+   "slug": "212-331-kavi",
+   "short": "KAVI",
+   "title": "Kantonale Ausführungsverordnung zur Inkassohilfe",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/212.331",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 5,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/212.331",
+     "sha256": "ace2235fee0bc61b86a90572042576d293b2052fc0f3aa09ca7e533c2bcf67bc"
+    }
+   ]
+  },
+  {
+   "slug": "213-113",
+   "short": "bGS 213.113",
+   "title": "Verordnung zum Bundesgesetz über das bäuerliche Bodenrecht",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/213.113",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 14,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/213.113/versions/606",
+     "sha256": "07d9473f55b6988b80832b40b15aedb7f37f673193933bcf93da6045fb13ef20"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/213.113",
+     "sha256": "12a84c5f16fe079d4c4bf730bea37ef66ce8c08e563b73ebb3c7a92782011438"
+    }
+   ]
+  },
+  {
+   "slug": "213-310-kgbv",
+   "short": "kGBV",
+   "title": "Kantonale Grundbuchverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/213.310",
+   "versions": [
+    {
+     "from": "1996-12-23",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/213.310/versions/291",
+     "sha256": "ef7b98bcead68e82543a1d44fcbb2d7e164e2cf642229c454d1f8f1afce7a0b1"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/213.310/versions/1209",
+     "sha256": "92ca311a330a3b21f716e53e00f3ff14b26110b1827948fa5c02573d459281fc"
+    },
+    {
+     "from": "2021-03-01",
+     "units": 29,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/213.310/versions/1356",
+     "sha256": "10ab8d621183cf1891b95b2fffa1131341a34d97f21a3aedc6f009a0898b6c49"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 29,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/213.310",
+     "sha256": "b3678636866e4df038a791000ff127ea3b0d3cc08cab5b3450aa7d4e6971c10e"
+    }
+   ]
+  },
+  {
+   "slug": "213-311",
+   "short": "bGS 213.311",
+   "title": "Verordnung über die Einführung des Grundbuches in den Gemeinden",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/213.311",
+   "versions": [
+    {
+     "from": "1963-02-15",
+     "units": 22,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/213.311",
+     "sha256": "4c058b2866e727374e81fdf0b5f8c3aeb5a7fe64591700ebb05560eaf6c5243d"
+    }
+   ]
+  },
+  {
+   "slug": "222-11",
+   "short": "bGS 222.11",
+   "title": "Vorläufige Verordnung zum Mietrecht",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/222.11",
+   "versions": [
+    {
+     "from": "2016-01-15",
+     "units": 3,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/222.11",
+     "sha256": "163b6e1f0664b954acd788ba950a27804f75d761ee236f2628c8920ba87584e8"
+    }
+   ]
+  },
+  {
+   "slug": "222-31",
+   "short": "bGS 222.31",
+   "title": "Verordnung zum Bundesgesetz vom 10. Dezember 1941 über die Revision des XX. Titels des Obligationenrechts (Die Bürgschaft)",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/222.31",
+   "versions": [
+    {
+     "from": "1957-01-01",
+     "units": 4,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/222.31",
+     "sha256": "59a5c9d5a6ec5171a9107b235359a2ad24949d1a6d63521a4da966883a1c882f"
+    }
+   ]
+  },
+  {
+   "slug": "222-215",
+   "short": "bGS 222.215",
+   "title": "Verordnung zum Bundesgesetz vom 28. September 1956 über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/222.215",
+   "versions": [
+    {
+     "from": "1995-01-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/222.215/versions/609",
+     "sha256": "3204bab0e53250d309841e5a09b2637a087a261169b20e561896ef10f8203695"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/222.215/versions/980",
+     "sha256": "3eecb8f0ab767accbfc09886b4b888e14f0daab5866692c53c6738925c6f60c8"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/222.215",
+     "sha256": "2a5ebca7b9ee9b061ada6c5b765851663fc5f24b35ce67d277c68adfd2aa75f0"
+    }
+   ]
+  },
+  {
+   "slug": "222-216",
+   "short": "bGS 222.216",
+   "title": "Verordnung über den Normalarbeitsvertrag für Betriebs- und Hausangestellte in der Landwirtschaft",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/222.216",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 31,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/222.216",
+     "sha256": "3a24351e1867dc25756c234df949c81534e5a5b92eda61d816c07c5959fc690f"
+    }
+   ]
+  },
+  {
+   "slug": "222-218",
+   "short": "bGS 222.218",
+   "title": "Verordnung über den Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmer und Arbeitnehmerinnen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/222.218",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 39,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/222.218",
+     "sha256": "36087311d428d2b27cab78ed6a210a300750bdcca125782031d4c1eee04bcaa0"
+    }
+   ]
+  },
+  {
+   "slug": "223-1",
+   "short": "bGS 223.1",
+   "title": "Verordnung über das Handelsregister",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/223.1",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 10,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/223.1/versions/610",
+     "sha256": "3b534593e268c65a8d56439e00d16948bdd200ac0374db13403f9437c141510b"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 10,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/223.1",
+     "sha256": "e22ef5eb3beb33f68f9b13007753152b92d3b8e2f514d641aecf22ae4705ca04"
+    }
+   ]
+  },
+  {
+   "slug": "233-3-gebuhrenordnung",
+   "short": "Gebührenordnung",
+   "title": "Verordnung über die Rechtskosten und Entschädigungen in der Zivil- und Strafrechtspflege",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/233.3",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 40,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/233.3/versions/444",
+     "sha256": "94e66e5555e543599abeba735c050cd755226232212820925ac9e9285c211979"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 40,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/233.3/versions/983",
+     "sha256": "af08bbd7f64392cf99e6020ff753c47ceb6a6ad0c2eb420717b368eebe921479"
+    },
+    {
+     "from": "2017-12-01",
+     "units": 40,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/233.3",
+     "sha256": "92fd6eda457572e3de5ece621767cefb01cd21fe35aebf92e9b8133fcbcf2639"
+    }
+   ]
+  },
+  {
+   "slug": "233-21-kgv",
+   "short": "KGV",
+   "title": "Kanzleigebührenverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/233.21",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 5,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/233.21",
+     "sha256": "088b8e0e5d22243b97f31bab3a2390be38c283b7241f5488e02d5fa245c72863"
+    }
+   ]
+  },
+  {
+   "slug": "244-1",
+   "short": "bGS 244.1",
+   "title": "Verordnung über die Aufhebung der Sicherungsbeschlagnahme von Luftfahrzeugen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/244.1",
+   "versions": [
+    {
+     "from": "1951-02-13",
+     "units": 5,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/244.1",
+     "sha256": "b01032bb8c9a22c8ad4c5c350cbd18ab20b9b7088bed76b59479958f14f7def7"
+    }
+   ]
+  },
+  {
+   "slug": "323-1-kobv",
+   "short": "kOBV",
+   "title": "Kantonale Ordnungsbussenverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/323.1",
+   "versions": [
+    {
+     "from": "2005-05-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/323.1/versions/502",
+     "sha256": "81f54ada85c82d885705704741ec1fdc7936d6afc31a4df084f22ca1458ccbd3"
+    },
+    {
+     "from": "2016-01-15",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/323.1/versions/941",
+     "sha256": "71ad5f1b1889698cbe6ad321495e30df5220b8aa656ed011e8a7f7fd1e7c68f4"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 4,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/323.1",
+     "sha256": "7afd0a404ce5440b225691fb24370de08fa7c2b6a52ea2fb65a38b0be25e2a44"
+    }
+   ]
+  },
+  {
+   "slug": "331-1",
+   "short": "bGS 331.1",
+   "title": "Verordnung über das Strafregister",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/331.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/331.1/versions/313",
+     "sha256": "083a4770a96b906b408f193341a92f1eecb598ad722fbddd5506d76e348465a8"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/331.1/versions/985",
+     "sha256": "9bdbfca20e5c462c188f66d37a23b84fe297368e8b17a0678b4d57aafafa623d"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 4,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/331.1",
+     "sha256": "34aa91d4c7edd6af0a94690b2916cc37ec187c98dff060142c7dd763720a589c"
+    }
+   ]
+  },
+  {
+   "slug": "341-11",
+   "short": "bGS 341.11",
+   "title": "Verordnung über den Straf- und Massnahmenvollzug und die Bewährungshilfe",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/341.11",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 30,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/341.11/versions/897",
+     "sha256": "1f7dc590deda9089cc116d7538f39c3bb40b8ad90bffee5e0690d094d8f8150d"
+    },
+    {
+     "from": "2016-10-01",
+     "units": 31,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/341.11/versions/959",
+     "sha256": "019a96f245035ad738de1cd00b9c07ea6167dc4472e05ec20e8e75f92f3f9c09"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 32,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/341.11/versions/1217",
+     "sha256": "03e4f188c5cfc895031a0728e01fe7c3e0b02ca8ac381c79756f5b45ba3665c5"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 32,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/341.11",
+     "sha256": "8b103b20a3e8a011144fab685b19a3a0ba2b2cb814b80ab06bebd471788406bd"
+    }
+   ]
+  },
+  {
+   "slug": "341-12",
+   "short": "bGS 341.12",
+   "title": "Verordnung über die Vollzugseinrichtungen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/341.12",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 51,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/341.12/versions/899",
+     "sha256": "4da5031d84a48d793f6add16f66e90d98bcae3606a541736d6c00bceba0e0bc7"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 51,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/341.12",
+     "sha256": "53076fe1f3ca38c2475a3defa743dad97df0acd6ff44fcafe76afd209ea4f475"
+    }
+   ]
+  },
+  {
+   "slug": "412-01-volksschulverordnung-vsv",
+   "short": "Volksschulverordnung; VSV",
+   "title": "Verordnung über die Volksschule",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/412.01",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 58,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/412.01",
+     "sha256": "5aef354de66ff33d3523035fc25a3584fb5ba5f6ae054e1b11c96baa38f0583e"
+    }
+   ]
+  },
+  {
+   "slug": "412-02-blv",
+   "short": "BLV",
+   "title": "Besoldungsverordnung für die Lehrpersonen der Volksschule",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/412.02",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/412.02/versions/1506",
+     "sha256": "a4146aeb6d17119537013902ece5471bb6f6b4486bbf371bf78d044861f3a2c7"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/412.02",
+     "sha256": "228c2d230403f6bde5f95ac16de856c2f623cc713c9e2c5f5c9fe355f1c668ff"
+    }
+   ]
+  },
+  {
+   "slug": "412-03-schulleitungsverordnung-slv",
+   "short": "Schulleitungsverordnung; SLV",
+   "title": "Verordnung über die Schulleitung in der Volksschule",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/412.03",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/412.03",
+     "sha256": "b2e386d526048a80a4d580c15e809bb5b4a9034d6503285111ae4db327085edc"
+    }
+   ]
+  },
+  {
+   "slug": "413-11-mhv",
+   "short": "MHV",
+   "title": "Verordnung über die Mittel- und Hochschulen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/413.11",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 54,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/413.11/versions/993",
+     "sha256": "b6658608f89a6c2acfa2a405462d06e0a807b0670684ff8334f20a25243bf3e8"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 53,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/413.11",
+     "sha256": "23e78a1490f03562e0997957432e79a358e9fa5edfac2c5fe319a0211dde6a6d"
+    }
+   ]
+  },
+  {
+   "slug": "414-111-kant-bbv",
+   "short": "kant. BBV",
+   "title": "Verordnung zum Einführungsgesetz zum Bundesgesetz über die Berufsbildung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/414.111",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 42,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/414.111/versions/399",
+     "sha256": "731a5c5c72a7f9f68b3f64fb0f26c43eee06949207013278d7414fbb68be9a01"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 45,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/414.111/versions/888",
+     "sha256": "5c48e14db26039f895686e0e6c82fd97c4ce4ae7b4d7a4a69f0ff7f5b9aa2c5c"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 45,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/414.111",
+     "sha256": "0148b277f7c9979348fb9e29cab315f3947ef23be963154d1c495998cc7ac749"
+    }
+   ]
+  },
+  {
+   "slug": "414-112",
+   "short": "bGS 414.112",
+   "title": "Verordnung über die Entschädigung von Mitwirkenden bei betrieblichen Qualifikationsverfahren und bei Betriebsexpertisen in der Berufsbildung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/414.112",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/414.112",
+     "sha256": "84c104bcd69913e6d4d6c6c8bce8e677b73c12042ec5dbfc1c7d91cd9d3a7137"
+    }
+   ]
+  },
+  {
+   "slug": "415-211-stipendienverordnung",
+   "short": "Stipendienverordnung",
+   "title": "Verordnung über Ausbildungsbeiträge",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/415.211",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "units": 14,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/415.211/versions/627",
+     "sha256": "7138a0cd41ac4f5020e0f57182dc123f54cf17722156c7fcc2e2d2280f852541"
+    },
+    {
+     "from": "2018-02-13",
+     "units": 44,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/415.211",
+     "sha256": "1dba20e3fe01616dedea16e5192ba0cea23879b1227edf9a302453c6c1b83315"
+    }
+   ]
+  },
+  {
+   "slug": "415-311-kinderbetreuungsverordnung-kibev",
+   "short": "Kinderbetreuungsverordnung; KibeV",
+   "title": "Verordnung zur Förderung der familienergänzenden Kinderbetreuung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/415.311",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 16,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/415.311",
+     "sha256": "daf9aec22245c5f2f8c36c030c097a1f6a58bb68f704409c3fb2e81fd4981a85"
+    }
+   ]
+  },
+  {
+   "slug": "420-11",
+   "short": "bGS 420.11",
+   "title": "Kulturförderungsverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/420.11",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 20,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/420.11/versions/702",
+     "sha256": "931fbbff7ae6a5bf1ca66803704324b7189949dc1b7a575a30080549c5113824"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 20,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/420.11/versions/996",
+     "sha256": "a84856aa6197fbbfafdfdfc64dd967eb0a53b470423c98e72f064ce73fe8d8a4"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 20,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/420.11/versions/1257",
+     "sha256": "0557b33a0c16808126007890a1a577ecdc14a7d4930272fdef17e33f583e2fb7"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 22,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/420.11",
+     "sha256": "43cd7e56078512917cf6b7f69d88de8fe69867a3280b9f853d4fd2efe5186a68"
+    }
+   ]
+  },
+  {
+   "slug": "420-21",
+   "short": "bGS 420.21",
+   "title": "Verordnung über den Oskar und Dora Meier-Strub-Fonds",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/420.21",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/420.21",
+     "sha256": "a1ec98ff249da71ae7f4d5c2166222e5e4a7fd72fd8ad10853b533ec562d475a"
+    }
+   ]
+  },
+  {
+   "slug": "421-15",
+   "short": "bGS 421.15",
+   "title": "Verordnung über die Kantonsbibliothek",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/421.15",
+   "versions": [
+    {
+     "from": "2009-06-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/421.15/versions/394",
+     "sha256": "32cda6d4a4d3bcfbafa3842f5c79262c4abcb39696dc7d38027c089f8af03f2d"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/421.15",
+     "sha256": "8b3f12f7791bc891bc5609d7d0b5a315041aca5ff0f8cc2f46291dffc86f7ad6"
+    }
+   ]
+  },
+  {
+   "slug": "421-111",
+   "short": "bGS 421.111",
+   "title": "Benützungsreglement für das Staatsarchiv",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/421.111",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 24,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/421.111",
+     "sha256": "bb5ed6aad849b52b7ff4585476c025172e9d9b92b67787409f598375a635f2f7"
+    }
+   ]
+  },
+  {
+   "slug": "422-2",
+   "short": "bGS 422.2",
+   "title": "Tierschutzverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/422.2",
+   "versions": [
+    {
+     "from": "1996-11-18",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/422.2/versions/620",
+     "sha256": "ccd69031987609030a8755a783804f75a226a11d79fd2dd6d76c70efcbc04e84"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/422.2",
+     "sha256": "0d1d4415829f9021b7d64383a7a093c4c6acd873bc6bbaae1d6091c0b9c772e0"
+    }
+   ]
+  },
+  {
+   "slug": "422-111",
+   "short": "bGS 422.111",
+   "title": "Verordnung über den Naturschutz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/422.111",
+   "versions": [
+    {
+     "from": "1991-05-06",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/422.111",
+     "sha256": "2d632c7907a0f30e6657a566409316241c8c6eac8fe437998d4266bd8230bfb0"
+    }
+   ]
+  },
+  {
+   "slug": "422-161",
+   "short": "bGS 422.161",
+   "title": "Verordnung über die Verwaltung der Stiftung Pro Appenzell",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/422.161",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/422.161/versions/590",
+     "sha256": "967593a31c73f37c070f8d6e5edad918121500bb1013fc068e1b99c3d54d9b39"
+    },
+    {
+     "from": "2015-06-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/422.161/versions/908",
+     "sha256": "6cab8067420607970905576b088b4e3a2f56b1808a06ed2fa2e4738b0199807c"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/422.161",
+     "sha256": "04a0d82ea4ab38bde6c630d1c9e273d8ee8f88d9362c08fc9e2307a65c39baae"
+    }
+   ]
+  },
+  {
+   "slug": "511-11",
+   "short": "bGS 511.11",
+   "title": "Verordnung zum Bevölkerungsschutzgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/511.11",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/511.11",
+     "sha256": "a7b73a69b5b7c1ebcaa0f31ce0ff5355a21d385d9a7d3551f4fe97c615fd478e"
+    }
+   ]
+  },
+  {
+   "slug": "511-21",
+   "short": "bGS 511.21",
+   "title": "Verordnung zum Zivilschutzgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/511.21",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/511.21/versions/387",
+     "sha256": "20a4a5ea34b9bac22a9471e3eb663cab64116e506e625fb8389e99e8a850ccdf"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/511.21/versions/1004",
+     "sha256": "70191143481c5f83aebe8040762ce41e39536d7e7abb893d95a1aa8f7643705f"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/511.21",
+     "sha256": "dd3355f167d74f895dcbd36a147ea74cdb09b8df53190032b33ee2eb0bee2b68"
+    }
+   ]
+  },
+  {
+   "slug": "512-111",
+   "short": "bGS 512.111",
+   "title": "Verordnung über die kantonale Militärverwaltung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/512.111",
+   "versions": [
+    {
+     "from": "2009-12-02",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/512.111/versions/388",
+     "sha256": "7587695b6f3adce2d792e2de5fb5bf3bec614c06db6bfd1f52880fc412f45e9d"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/512.111",
+     "sha256": "64d093a64438e3b283039a3d09057136f0f414e1ea5c0ba53cf1f69da6bff62e"
+    }
+   ]
+  },
+  {
+   "slug": "521-11-polizeiverordnung-polv",
+   "short": "Polizeiverordnung, PolV",
+   "title": "Verordnung zum Polizeigesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/521.11",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 57,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/521.11/versions/622",
+     "sha256": "6cdb141f0107ac8b2fdcc64075ff89a9835911583b4443aab38220ef350bb9c9"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 57,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/521.11/versions/1005",
+     "sha256": "14042fed93c2dc8687681daf4ef2054f34438d7589d46c184821d866f68b6bd4"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 57,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/521.11",
+     "sha256": "a53fbc4f7d0bf5456bfe8e110fee180b0c3456a99674359e10798861a0d7cd5d"
+    }
+   ]
+  },
+  {
+   "slug": "521-12",
+   "short": "bGS 521.12",
+   "title": "Verordnung über die elektronische Bearbeitung von polizeilichen Datensammlungen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/521.12",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/521.12",
+     "sha256": "26339c192e7290566625f8969061a6e4a9df2ca85964f892d1723b5d9c5be0a2"
+    }
+   ]
+  },
+  {
+   "slug": "521-13-gebuhrentarif-der-kantonspolizei",
+   "short": "Gebührentarif der Kantonspolizei",
+   "title": "Verordnung über die Gebühren der Kantonspolizei",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/521.13",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 21,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/521.13/versions/623",
+     "sha256": "6f1eae06b56946deaf63bfbeb114c8f1abe5718c9ded55600b8ddf7bd951323d"
+    },
+    {
+     "from": "2013-10-01",
+     "units": 24,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/521.13/versions/824",
+     "sha256": "1a11492145870b1ec7428c61119c0a9c9de382d6b234dbf44b0d28ed19d32f0b"
+    },
+    {
+     "from": "2016-10-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/521.13/versions/962",
+     "sha256": "a264ee8287107710ca2288308dc8cf629cedd3cb6083ea6fb2307e7119b28e64"
+    },
+    {
+     "from": "2017-09-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/521.13",
+     "sha256": "42ed40b77160065c7c1d0ef582ffab3f6d1384e4cecf2ed8fdd265e002f4c137"
+    }
+   ]
+  },
+  {
+   "slug": "521-14",
+   "short": "bGS 521.14",
+   "title": "Verordnung über die privaten polizeiähnlichen Tätigkeiten",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/521.14",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 19,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/521.14",
+     "sha256": "731a68b90bde46202d5e297359abaa45e0aa9a195ed905e0f69d32b64111f6eb"
+    }
+   ]
+  },
+  {
+   "slug": "524-2",
+   "short": "bGS 524.2",
+   "title": "Verordnung über den Vollzug der Bundesgesetzgebung über Waffen, Waffenzubehör und Munition",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/524.2",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 6,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/524.2/versions/382",
+     "sha256": "b932e8b1d6d79ac23f4deef707fc901dd7b4397cbd234637afb10074a3e0f7cb"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 6,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/524.2/versions/1006",
+     "sha256": "0ef2d1653c134d5dee2c5e05eefca74183fe8d42dd53294263453373dae6a72f"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/524.2",
+     "sha256": "85333ab446c7e496a103a6b4579e47e230a9486af13823e9f243785ea2c327c0"
+    }
+   ]
+  },
+  {
+   "slug": "525-11-huv",
+   "short": "HuV",
+   "title": "Hundeverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/525.11",
+   "versions": [
+    {
+     "from": "2001-05-29",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/525.11/versions/625",
+     "sha256": "82db2daef014251185929548ae5cc175429a247b62c9e3f21edb69c3316a4520"
+    },
+    {
+     "from": "2016-01-15",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/525.11/versions/940",
+     "sha256": "0a751b5e1ad3fcd6c1247f89fa6af7b8813a08e07137726e756e1251e9b768ff"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/525.11/versions/1208",
+     "sha256": "596dc7c7a30e0f75161f09afe8e12962fa0134b27429fa73c1791b1c2a6cd9f0"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/525.11",
+     "sha256": "f0d6ae45ca751d66c05cc8779121f279aa058273abae57e4da3a2bc2760a494b"
+    }
+   ]
+  },
+  {
+   "slug": "526-21-jagdverordnung",
+   "short": "Jagdverordnung",
+   "title": "Verordnung zum Gesetz über Jagd, Wild- und Vogelschutz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/526.21",
+   "versions": [
+    {
+     "from": "2005-10-18",
+     "units": 60,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/526.21/versions/629",
+     "sha256": "e7106fc763399f6b60130494b1e99792badf9d762341d3bd942fa514a0fd9fa0"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 60,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/526.21/versions/822",
+     "sha256": "e96641b808d15e6f5149abe9dd79bd53e1638d4bb3e198fbc19220e66bb4d6bb"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 60,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/526.21/versions/1007",
+     "sha256": "133ef0c16ab0afb972da799f344f326b0030ddf6d45e0fa361e4477b0461defa"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 60,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/526.21/versions/1126",
+     "sha256": "99ecaa6208fc68757990cce80eba6efd30e9311a41947ff3abef652114067860"
+    },
+    {
+     "from": "2022-02-01",
+     "units": 63,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/526.21/versions/1409",
+     "sha256": "b784435ea9f192f1f6954b0928f31609686c06f7b99f0f0a45ee57ff78620726"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 63,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/526.21",
+     "sha256": "958756bebd9c3eaec222a0eb02df3f6f2febdf37c45c5df91cac29b027e20f1b"
+    }
+   ]
+  },
+  {
+   "slug": "527-2-fischereiverordnung",
+   "short": "Fischereiverordnung",
+   "title": "Verordnung über die Fischerei",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/527.2",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 46,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/527.2/versions/632",
+     "sha256": "48198d0e357bea3a89dab508991e58f35dcd5b838bf9ece619f6041aee8a1af6"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 46,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/527.2",
+     "sha256": "fc28ce1ed2453121a6599ea2ef5fb70c8e694efcd94d6efb3953834c4bb9bf4d"
+    }
+   ]
+  },
+  {
+   "slug": "612-3-sportfondsverordnung",
+   "short": "Sportfondsverordnung",
+   "title": "Verordnung über die Verwendung der kantonalen Sportfondsgelder",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/612.3",
+   "versions": [
+    {
+     "from": "2004-11-16",
+     "units": 10,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/612.3/versions/634",
+     "sha256": "0e92ce9a95e5281c7b278ad80e9c208ae7d77f8132dfe7026ffeb54b90b84762"
+    },
+    {
+     "from": "2012-08-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/612.3/versions/804",
+     "sha256": "198dfe8da0b9fb546cdd0e57d8754d99e4dd2c58ed47e8660d29506d08b620be"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/612.3",
+     "sha256": "c5535f9eeff1add8cce2ab36fa34c96fd36d9a1599d39e40adcba68c27c686af"
+    }
+   ]
+  },
+  {
+   "slug": "621-21-gsv",
+   "short": "GSV",
+   "title": "Verordnung über die amtlichen Grundstückschätzungen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/621.21",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 32,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.21/versions/1105",
+     "sha256": "9b291d54d472cddb4df0ba4f43f9a4abacb9b476ef9bb4b6cf0fed32d70655be"
+    },
+    {
+     "from": "2020-02-14",
+     "units": 32,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.21/versions/1297",
+     "sha256": "1b4275989a619188b4dc8e22b592c2529455189cdc4b57e0c944989e8b0f4cca"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 32,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.21",
+     "sha256": "1b006460ce747cfe7f9c9ccc2c7504205e027fd19c91cdbeca663853fa41b7f1"
+    }
+   ]
+  },
+  {
+   "slug": "621-111-steuerverordnung",
+   "short": "Steuerverordnung",
+   "title": "Verordnung zum Steuergesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/621.111",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 91,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.111/versions/375",
+     "sha256": "d83d2ec1ddbd46a8366294eb010bb9fcbcc34433573d01072d75da8a379458f1"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 95,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.111/versions/775",
+     "sha256": "70554d74009eefb350ec9b0119c672d1f576530fc30b10cf01a1dc44eb635527"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 95,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.111/versions/836",
+     "sha256": "eff79625775e12f153237252a2b00c59cd0077f380271db19754d01b934f31ab"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 95,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.111/versions/880",
+     "sha256": "acd8c35dc249fd922591e298257b06fca0182c1f244ea6df6730e1e7bffe21f5"
+    },
+    {
+     "from": "2015-03-13",
+     "units": 95,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.111/versions/904",
+     "sha256": "effd82f912b2d02b54ad0d8cede3eb8985d972fdb651ce8c351609adac22b0f8"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 95,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.111/versions/939",
+     "sha256": "34a8fa83479d81f31f5dec3ca5c3fd84d06672c1c9060e4670ad5957c63b79b7"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 95,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.111/versions/1153",
+     "sha256": "91562582b19024b4cfc5d1aadc508bcb78b4ffbea7529d8e6b0fd6dffd401652"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 96,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.111/versions/1176",
+     "sha256": "33c0819da1734b991e44911474979a2def92dfef5905e0346b9285088e0a7e52"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 94,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.111/versions/1253",
+     "sha256": "ac4014ee5f4786ed32f1091a82e2127677a975cd4551393ca81d4905b0376dc0"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 94,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.111/versions/1296",
+     "sha256": "0d2f73d4862082cd0406d5405f92195588e4a06b379559b9afd015e27455567b"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 99,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.111/versions/1339",
+     "sha256": "3557a211387177834621cab9bea781986d435bb0566fd59e86a4a8b29df84a89"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 99,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/621.111",
+     "sha256": "e26b2cdd580947a20c4705818ae6bf5530ac81d314d6058111a9f4da502b5fc6"
+    }
+   ]
+  },
+  {
+   "slug": "625-11",
+   "short": "bGS 625.11",
+   "title": "Verordnung über die Durchführung des Bundesgesetzes über die direkte Bundessteuer (DBG)",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/625.11",
+   "versions": [
+    {
+     "from": "2007-06-19",
+     "units": 21,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/625.11/versions/636",
+     "sha256": "6b7552bac584e83bc8637dc567199c36c28a8863c9b42ff2f854d33516521d6d"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 21,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/625.11",
+     "sha256": "bc23d89b1309dccaaab3e84ef7b796a5182c912335fbaffc34404edee02ce500"
+    }
+   ]
+  },
+  {
+   "slug": "625-21",
+   "short": "bGS 625.21",
+   "title": "Verordnung zum Bundesgesetz vom 13. Oktober 1965 über die Verrechnungssteuer",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/625.21",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 17,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/625.21/versions/637",
+     "sha256": "be08c34ea7a00d622c286bd36be00589e81c282aa4323dccb82b4ddd055bf312"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 17,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/625.21/versions/1011",
+     "sha256": "169827d7c1042082fa60128f4cdefa64e46e0d651283a2e5bfb66a3d456616af"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 17,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/625.21",
+     "sha256": "98ddf2a9224fce14a330748d83376d14b9590378adad3fc1ddc97b823d051172"
+    }
+   ]
+  },
+  {
+   "slug": "625-31",
+   "short": "bGS 625.31",
+   "title": "Verordnung zum Bundesgesetz über die Wehrpflichtersatzabgabe",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/625.31",
+   "versions": [
+    {
+     "from": "2004-04-06",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/625.31/versions/372",
+     "sha256": "159ada2f84bc829525d242eb859c38b40a6a7e58aaf3209c73013ee091cad6ed"
+    },
+    {
+     "from": "2013-06-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/625.31/versions/819",
+     "sha256": "30edb6e54a4358e94c8e51afa5010b04c9c87313e3e37503b09af6f06067dccb"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/625.31/versions/847",
+     "sha256": "cc486bb3c3229de9773b47af7ea6c5f1c4ea260603b3f5c639da0a60830748ec"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/625.31/versions/918",
+     "sha256": "bc26831e12dd5f37880f7f226b85e612406e521256bffd8700e8d410de87b6d6"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/625.31/versions/1338",
+     "sha256": "ae96ec16767ba70b3935282ef303dfa78bf847e9877993ad5c2e01cdf15232a1"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/625.31",
+     "sha256": "90419cee0190265b78f2cb3427ef8ed0af7cd46760dbfd9fa82c01ea776908f1"
+    }
+   ]
+  },
+  {
+   "slug": "626-33",
+   "short": "bGS 626.33",
+   "title": "Verordnung über die Anrechnung ausländischer Quellensteuern",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/626.33",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 5,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/626.33",
+     "sha256": "85bd714f19289fe10a8f5b77645e5cacffa9159b475fa20431986baf841894ad"
+    }
+   ]
+  },
+  {
+   "slug": "711-2",
+   "short": "bGS 711.2",
+   "title": "Verordnung zum Bundesgesetz über die Enteignung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/711.2",
+   "versions": [
+    {
+     "from": "2006-01-24",
+     "units": 3,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/711.2",
+     "sha256": "d153897ad2c321908906157fc4d474b5c08d51d7fb5e0e33a7a3f2e6f58b2ebb"
+    }
+   ]
+  },
+  {
+   "slug": "712-11",
+   "short": "bGS 712.11",
+   "title": "Verordnung über das öffentliche Beschaffungswesen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/712.11",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 46,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/712.11/versions/503",
+     "sha256": "a34605de62f02e2c432eef53c14f2ff1606e0b60ea992e3f0ffcbc1ac5418fb3"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 46,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/712.11",
+     "sha256": "b2bbec465770125271ad8e839de5affd8703d4a28c1b5b57a10548311ca71d68"
+    }
+   ]
+  },
+  {
+   "slug": "721-11-bauv",
+   "short": "BauV",
+   "title": "Bauverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/721.11",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 68,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.11/versions/463",
+     "sha256": "47ceb3d1e17173e47d54cc7e2027120999c5636496d2404bf1b2ca012c131495"
+    },
+    {
+     "from": "2011-08-01",
+     "units": 68,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.11/versions/556",
+     "sha256": "25ca9b9beb5da1064725aa611e3397267a3e469c5533b778cc68ec2a116207d8"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 68,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.11/versions/1016",
+     "sha256": "155760a1863446242e021ea6dc76933aa027d6cacc7ea0a8dae90969e9af7339"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 68,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.11/versions/1129",
+     "sha256": "f181cc2a831c4e2b70a52809ad2f6630b5ec6ef67a56488cebd1cc9a481e1ce2"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 68,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.11/versions/1207",
+     "sha256": "97f66f8b419c28d72206a47fe20383d8ed35997fd04425a7e7a24d9784393da7"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 70,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.11/versions/1244",
+     "sha256": "841564289e19114a1a9ce910a7647ab6d19add01c7aeacfba04686994f2ef421"
+    },
+    {
+     "from": "2020-04-01",
+     "units": 70,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.11/versions/1305",
+     "sha256": "c4d893e4ac2128317b2eb6c6146ec564999cd411bf5441a43bf6dc12ca1e5294"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 70,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.11/versions/1415",
+     "sha256": "b3115e374c81d05e16dabc161097ebbc6d5df3c4860b4d1c60f7a700be842987"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 73,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.11",
+     "sha256": "e4cfb0ab91370827ab0f2f6acc58deba94ce36165d055e6a234122034eff6ed4"
+    }
+   ]
+  },
+  {
+   "slug": "721-12-beitragsverordnung",
+   "short": "Beitragsverordnung",
+   "title": "Verordnung über Beiträge an Denkmalpflege-, Natur- und Heimatschutzmassnahmen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/721.12",
+   "versions": [
+    {
+     "from": "1996-09-09",
+     "units": 45,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.12/versions/640",
+     "sha256": "47458db08da30ac135b2bce5e56e1b3f19a326bf28723eeeeeb032c500ed813d"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 45,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.12/versions/1017",
+     "sha256": "0dea2a8c50fc149053abf937bdc30d208d85c73fca44eb2316c6b70d4d1a3ebc"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 45,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.12",
+     "sha256": "a2ac55bd476d57c559bc93daa9e46ce0d7a806b964f82bef1d388916d90b2b49"
+    }
+   ]
+  },
+  {
+   "slug": "721-121",
+   "short": "bGS 721.121",
+   "title": "Verordnung über die anrechenbaren Kosten bei Denkmalpflege- und Heimatschutzbeiträgen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/721.121",
+   "versions": [
+    {
+     "from": "2004-08-24",
+     "units": 6,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/721.121",
+     "sha256": "0157ecce1cbcca3a372047afaa8985a3b01a1dd4910fcdb1a7ea7882da5de91b"
+    }
+   ]
+  },
+  {
+   "slug": "723-101-kgeoiv",
+   "short": "kGeoIV",
+   "title": "Kantonale Geoinformationsverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/723.101",
+   "versions": [
+    {
+     "from": "2012-11-01",
+     "units": 40,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/723.101/versions/745",
+     "sha256": "eb0de6b208f2978cedebfc1466ce9dc1f94480a86826442a221f143415c74b10"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 40,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/723.101/versions/1019",
+     "sha256": "0a90770bd05af5790f1c06a753f03686c2dc103d5422758cb0b165160e194c99"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 40,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/723.101/versions/1086",
+     "sha256": "e39e6d5dc2614756d31dc2910aba17df657f4abe474df2f14e3fdaca94cfcb21"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 40,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/723.101/versions/1189",
+     "sha256": "b069161a615273817b1c5384dc9bb992b3b7f45def9dc04df6974637819b0cf4"
+    },
+    {
+     "from": "2025-02-01",
+     "units": 44,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/723.101/versions/1559",
+     "sha256": "c6f6742e91cbd920f9f0dce0e3846bd588f3a5862ac0c8c008cf4a6de8ff9464"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 44,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/723.101",
+     "sha256": "e57f215fcbf161d1ccb9db57d95bfc58c4b4a4ef0452afecee3766b8bba0f6c4"
+    }
+   ]
+  },
+  {
+   "slug": "723-104-korebkv",
+   "short": "kÖREBKV",
+   "title": "Kantonale Verordnung über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/723.104",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/723.104",
+     "sha256": "3de954de90d2878677969cfa5db38d04e5ad92207d6553744c45912da5295bc8"
+    }
+   ]
+  },
+  {
+   "slug": "723-105-kvav",
+   "short": "kVAV",
+   "title": "Kantonale Verordnung über die amtliche Vermessung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/723.105",
+   "versions": [
+    {
+     "from": "2012-11-01",
+     "units": 41,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/723.105/versions/769",
+     "sha256": "08eb2b5e1b3ecc72cd77cf56e36f47927b7f9a6a6e80e61afb0bdc3043997268"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 41,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/723.105/versions/1020",
+     "sha256": "033cf23db39aea5e2ee83d756dfaeb0211ed1462be56a9b779b01a5514eb7238"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 41,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/723.105",
+     "sha256": "0b50e8b6559bcc4ea40c09dbab1d6d91cc13abe38527c49b850154a33ce97dd1"
+    }
+   ]
+  },
+  {
+   "slug": "731-31",
+   "short": "bGS 731.31",
+   "title": "Verordnung über die Einführung des Bundesgesetzes vom 4. Oktober 1985 über Fuss- und Wanderwege",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/731.31",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 30,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/731.31/versions/360",
+     "sha256": "d69255e6a01cdaf4f5e685633e09a6109348a6f5a279bf4a1692d8eb95ec9cb4"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 30,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/731.31/versions/1025",
+     "sha256": "e0f08591be705d654f0e2d3e3b1ab861b683262e6c92270c05789a21dcb20d21"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 30,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/731.31",
+     "sha256": "8c53a8b9acba86c6009b188ef6dd6aaf590d11980b4782626bca77b6e39316b0"
+    }
+   ]
+  },
+  {
+   "slug": "731-111-strv",
+   "short": "StrV",
+   "title": "Strassenverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/731.111",
+   "versions": [
+    {
+     "from": "2010-02-01",
+     "units": 47,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/731.111/versions/364",
+     "sha256": "c5cccaac547a6c4dc63ccae194ee3d586ad9490a7a7ceb94bdc51a3b7af69e8b"
+    },
+    {
+     "from": "2012-11-01",
+     "units": 47,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/731.111/versions/770",
+     "sha256": "fedc3c6310ed4499b32eb4e6dac24023a199153819f1709d53c108d0bdda1935"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 47,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/731.111/versions/1023",
+     "sha256": "7cce1bf1643ba7c12b3d2a93d0a3ec42d4c5340367ab205a37cf35e1366e8cf1"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 47,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/731.111",
+     "sha256": "569fd12a34fd3a59a4ab3393acffe36b1d2c928f237e07a519ed5716905f8a26"
+    }
+   ]
+  },
+  {
+   "slug": "731-113",
+   "short": "bGS 731.113",
+   "title": "Verordnung über das Parkieren auf Staatsarealen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/731.113",
+   "versions": [
+    {
+     "from": "1997-01-01",
+     "units": 16,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/731.113/versions/362",
+     "sha256": "a3bd13b8d6902a0c60b2d7dc0f313037a763fef6be35a922fd401646dffe568d"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 16,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/731.113/versions/1091",
+     "sha256": "a5544134ebe5569263c346840ac983d033d3ab7f8308c3b1d0b62ca58224fccb"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/731.113",
+     "sha256": "c758dd9151c6e50ff060abc5418f53a4b049557008386f1259dbddd679fc912e"
+    }
+   ]
+  },
+  {
+   "slug": "731-114",
+   "short": "bGS 731.114",
+   "title": "Verordnung über die Beitragsleistung an die Anpassung oder Aufhebung von Bahnübergängen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/731.114",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/731.114/versions/361",
+     "sha256": "e0caa0a3345eb2b3e308242c2a0906538cdc2f77bfa55d981b2110f2096fd23b"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/731.114",
+     "sha256": "dc7bbfae10556ad4bf51d2402951a660ef19152431c65607598d19c046023f52"
+    }
+   ]
+  },
+  {
+   "slug": "741-11-wbauv",
+   "short": "WBauV",
+   "title": "Wasserbauverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/741.11",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/741.11/versions/359",
+     "sha256": "f304f41f96b9197ab5a30f39f096fca6a9bfa5c3a514988c2985c0bb116f291a"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/741.11/versions/1028",
+     "sha256": "3aef3258c8de519cbf7c663b795649350da2d094365a01b133be8b1a98e713e8"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 21,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/741.11",
+     "sha256": "fc6f3f41d82832ffd6c5a0d5ac8b24764160ee292ff752005b2107cec60f3fcf"
+    }
+   ]
+  },
+  {
+   "slug": "742-1-perimeterverordnung",
+   "short": "Perimeterverordnung",
+   "title": "Verordnung über die Grundeigentümerbeiträge bei der Korrektion oder Verbauung öffentlicher Gewässer",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/742.1",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 33,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/742.1/versions/641",
+     "sha256": "8658d4cb0713e1a19d25fb3bf6f61dc42727db84ec338b6ed49b876e0de22d8e"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 33,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/742.1",
+     "sha256": "ef8c49a57bc1258b82217d31ebc01d623a0e046c60badba48456bf7dee137d66"
+    }
+   ]
+  },
+  {
+   "slug": "750-11-energieverordnung-kenv",
+   "short": "Energieverordnung; kEnV",
+   "title": "Verordnung zum Energiegesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/750.11",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 32,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/750.11/versions/514",
+     "sha256": "1643fc659bc110694aed525acd737b5e19f079b5637446883f9050fb94e775c6"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 47,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/750.11/versions/685",
+     "sha256": "948c28dfbe4f6e8952bae3a11bd1418b22b9a42a60fcd5d4ee16fba59fd71526"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 47,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/750.11/versions/1030",
+     "sha256": "1abd23c4321a3e680d01d9e37ddd83a248e72032067accb76478f9fa9ca3df0c"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 47,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/750.11/versions/1254",
+     "sha256": "7d3a074e44ed4bf9ce1000b2619fcbbe05684f3cb1ba6807f52132cc26e01b5c"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 55,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/750.11",
+     "sha256": "f06d18f507bc8e263d39f7b6e4e66d8c374e2f5440aa114e9f92bc49e63b5fcc"
+    }
+   ]
+  },
+  {
+   "slug": "751-3",
+   "short": "bGS 751.3",
+   "title": "Vorläufige Verordnung über die Einführung des Bundesgesetzes über die Stromversorgung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/751.3",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/751.3/versions/354",
+     "sha256": "4797957bc1397c37bff10286aeff1f1f9b67bb2c20f231fadc69c2ed65eae10a"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/751.3",
+     "sha256": "8219d16dfb92cd584eb9c85cf4e9dcda6343841ed22adae8cc195907d193d15e"
+    }
+   ]
+  },
+  {
+   "slug": "760-11-v-gov",
+   "short": "V GöV",
+   "title": "Verordnung zum Gesetz über die Förderung des öffentlichen Verkehrs",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/760.11",
+   "versions": [
+    {
+     "from": "1992-01-01",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/760.11/versions/353",
+     "sha256": "e6edb439bdc565a010cb82b489b07cde6543e52ff8fb73f54a2a52fc330027af"
+    },
+    {
+     "from": "2014-07-01",
+     "units": 14,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/760.11",
+     "sha256": "cfca4cffc8aa9d18db06695db9a0c28fa432aedfcf5cf2d592179b43d6510447"
+    }
+   ]
+  },
+  {
+   "slug": "760-12",
+   "short": "bGS 760.12",
+   "title": "Einführungsverordnung zur schweizerischen Automobilkonzessionsverordnung (AKV)",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/760.12",
+   "versions": [
+    {
+     "from": "1998-05-19",
+     "units": 5,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/760.12/versions/352",
+     "sha256": "b9957c602a563a67d95b6c34839714b0bea977f59d86a8043525a7494fc50feb"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 5,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/760.12",
+     "sha256": "e4157a06a5afe99def90891b4b1664454f339af90899de556c058bc1e25a1c2a"
+    }
+   ]
+  },
+  {
+   "slug": "761-111",
+   "short": "bGS 761.111",
+   "title": "Verordnung zum Einführungsgesetz vom 24. April 1983 zum Bundesgesetz vom 19. Dezember 1958 über den Strassenverkehr (EG SVG)",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/761.111",
+   "versions": [
+    {
+     "from": "1998-08-01",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/761.111/versions/351",
+     "sha256": "04c142671b707421db5a676465cbb23eb06917966a550f174a1ad39acdca2e51"
+    },
+    {
+     "from": "2012-12-01",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/761.111/versions/809",
+     "sha256": "110955859a7a8d9f6f175b1e3d3e7afbc65ba5b89d13bda10467cc3948ed08a3"
+    },
+    {
+     "from": "2015-07-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/761.111/versions/909",
+     "sha256": "c0234a081aca58a85fd734c31068a38566d5a1e1a6a23845d9e073b1df15ae7e"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/761.111/versions/1035",
+     "sha256": "5121f754f36f5b894d40abfe1b89e8a1c2d8cac958c32e4a3065d8f2464f4b28"
+    },
+    {
+     "from": "2017-06-12",
+     "units": 14,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/761.111",
+     "sha256": "ad14bdafe47c635699c44055edb22e7686dbb708c9db1a39f602349734a82181"
+    }
+   ]
+  },
+  {
+   "slug": "761-113",
+   "short": "bGS 761.113",
+   "title": "Verordnung über die Versteigerung von Kontrollschildern",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/761.113",
+   "versions": [
+    {
+     "from": "2016-03-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/761.113/versions/945",
+     "sha256": "3e3a49da0e41c6c7675aa9b5cc50e4c64215f9efa57c4d763883d72672c0f89e"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/761.113",
+     "sha256": "723f30214bdff2beca18f2dfb13dff55b41b7c5d05975d20ce94c9fba4ed1aa1"
+    }
+   ]
+  },
+  {
+   "slug": "761-114",
+   "short": "bGS 761.114",
+   "title": "Verordnung über die Organisation des Strassenverkehrsamtes",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/761.114",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 3,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/761.114",
+     "sha256": "f93406f5b5fa932e4708c6653d5736d7718bb0deec27ec2fb4a5ede9fa0950c6"
+    }
+   ]
+  },
+  {
+   "slug": "763-11",
+   "short": "bGS 763.11",
+   "title": "Verordnung über die Luftseilbahnen mit Personenbeförderung ohne Bundeskonzession und die Skilifte",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/763.11",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 10,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/763.11/versions/647",
+     "sha256": "bd9315370bce48782f918a22348355f95b5a187bb7d18f487e07d9c627d9236c"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 10,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/763.11",
+     "sha256": "418933bd20fbf6e4dbab6a6711c7baa34f064c061299b99da63d66048be5e3be"
+    }
+   ]
+  },
+  {
+   "slug": "765-1-krlv",
+   "short": "kRLV",
+   "title": "Kantonale Rohrleitungsverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/765.1",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/765.1",
+     "sha256": "69bf532e97d71a2901d7506e0b4c59cf415ca015c3b810c20b8f3ccb0f3e8691"
+    }
+   ]
+  },
+  {
+   "slug": "766-1-schiffsfuhrerausweisverordnung-sfav",
+   "short": "Schiffsführerausweisverordnung; SFAV",
+   "title": "Verordnung über Schiffsführerausweise",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/766.1",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 5,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/766.1/versions/1566",
+     "sha256": "e8dba00306c980339d139890b8ed091ce6eeafc5076705f9522f97af4f313065"
+    },
+    {
+     "from": "2026-02-13",
+     "units": 5,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/766.1",
+     "sha256": "9f5127645f38a59a7032d46608f37b483f9fdc4da2cc9fb6a0665aca3587f85e"
+    }
+   ]
+  },
+  {
+   "slug": "811-11",
+   "short": "bGS 811.11",
+   "title": "Verordnung zum Gesundheitsgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/811.11",
+   "versions": [
+    {
+     "from": "2010-05-01",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.11/versions/494",
+     "sha256": "04f3142cba3b9493dfdfae13c2f66e28fb92e6623da3b36de6a8e93510083d93"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.11/versions/582",
+     "sha256": "ed85399c056ba806c0ce85fc43aaee26bd4b4b450ddb20f73000990a8d169adf"
+    },
+    {
+     "from": "2014-10-21",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.11/versions/867",
+     "sha256": "a432e3ac754fc1d5d7d27c06f9a3b71df2fc8ad698502252966e70f44a060899"
+    },
+    {
+     "from": "2015-04-24",
+     "units": 24,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.11/versions/906",
+     "sha256": "30ea05b9bc58ae087157656dae1036cff000ec663b7cae8d4f632b620596c4ee"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 24,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.11/versions/1038",
+     "sha256": "564bf3e0f34aecb5cdb8d712b241aa68f432a318e23fce7f3a93c59de155a496"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 24,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.11/versions/1132",
+     "sha256": "c7ad9db37734693c57e4459e8b4a7f65b7949680cf05689260618c4ca6e3762a"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 24,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.11",
+     "sha256": "09a8bbbc8f20c87108559638bd886bae86278d11d051a14d78f52bb484131169"
+    },
+    {
+     "from": "2026-11-01",
+     "units": 26,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.11/versions/1647",
+     "sha256": "9f4d01a2f129020d25f00232575692e9d4dabc24d007cb84a625028df0134f66"
+    }
+   ]
+  },
+  {
+   "slug": "811-11-1",
+   "short": "bGS 811.11.1",
+   "title": "Prüfungsreglement für Heilpraktikerinnen und Heilpraktiker",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/811.11.1",
+   "versions": [
+    {
+     "from": "2009-05-01",
+     "units": 16,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.11.1/versions/250",
+     "sha256": "c0e4b1a571e99f17ba88b62d5529cdbe1175c897137cd0fa4db040acb78145ed"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 16,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.11.1",
+     "sha256": "f7a66be718c4cc36fb8f330d183567b1172a969d5d1d4ec1fac7dbbdb9f5d7e4"
+    }
+   ]
+  },
+  {
+   "slug": "811-12-baderverordnung",
+   "short": "Bäderverordnung",
+   "title": "Verordnung über die öffentlichen Bäder",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/811.12",
+   "versions": [
+    {
+     "from": "2003-03-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.12/versions/345",
+     "sha256": "428b0a16ef3e9a9d750c765fa682e070fd56bd786dbd0db0ea1bec625b56e7f1"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.12",
+     "sha256": "b8dfa2c154d28df2f41865bc6bc6e46a11c2c662c182a71a344b276f645b1f2a"
+    }
+   ]
+  },
+  {
+   "slug": "811-13",
+   "short": "bGS 811.13",
+   "title": "Verordnung über die Gesundheitsfachpersonen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/811.13",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.13/versions/344",
+     "sha256": "0c2da57132153f0ea536fb45d360ce4b3762267918dd90751131b50c2b1b0b77"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.13/versions/1042",
+     "sha256": "e806898123d9ce4b40926b60812caf7f5d662dffda3fdf40889928a1cfb42d29"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.13/versions/1231",
+     "sha256": "d1d1f3caa1d20be160b1ac5896f8e45bf2f47875248688267433d62b52c508b6"
+    },
+    {
+     "from": "2019-06-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.13",
+     "sha256": "34f1697209a391c3655be9860a7836dfd93681c89959943fb1bb341459dede95"
+    }
+   ]
+  },
+  {
+   "slug": "811-14-heimverordnung",
+   "short": "Heimverordnung",
+   "title": "Verordnung über die Heimaufsicht",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/811.14",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.14/versions/343",
+     "sha256": "be957986e297c17161236008ca87e15b704a4cfaceb6ac0e00b39ced0e7058d8"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.14/versions/581",
+     "sha256": "9cfac6173b5e303fce07a06e1ccbc3ff5fd4242ad81426fd7f31160fdd55ad95"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.14/versions/1043",
+     "sha256": "a523d3c02e0dc96981a8c8befe29009f0a07d1a3e3b4b5914bc1dea3224bb99c"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.14",
+     "sha256": "fab99756e8c293f5c218880f0cb4b2cafb7f796bc340c7e1d3792035e07c40f0"
+    }
+   ]
+  },
+  {
+   "slug": "811-16-forderverordnung-pflegeausbildung-fopa",
+   "short": "Förderverordnung Pflegeausbildung, FöPA",
+   "title": "Verordnung über die Förderung der Pflegeausbildung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/811.16",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 19,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.16",
+     "sha256": "f769d2a8f3a51c0dfd15e67d9fb768accdb6f736480ee06be60dc7a5f5ef3f42"
+    }
+   ]
+  },
+  {
+   "slug": "811-112",
+   "short": "bGS 811.112",
+   "title": "Verordnung über die Gesundheitsvorsorge in Schulen und Heimen für Kinder und Jugendliche",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/811.112",
+   "versions": [
+    {
+     "from": "1994-03-08",
+     "units": 14,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.112/versions/816",
+     "sha256": "b551126a33673673a307c6a0bd7b653af4ccea36aac6f034f8a4873951149915"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 14,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.112/versions/1040",
+     "sha256": "9bb19575c59434c01b8f38a670cdadffbc568c7591d5132e6a090c99e5f74e03"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.112",
+     "sha256": "812b00e99b5e7ee77a61e8de7555553e1600e0bc31c31dc4f167cdc49113e270"
+    }
+   ]
+  },
+  {
+   "slug": "811-116-hebammen-verordnung",
+   "short": "Hebammen-Verordnung",
+   "title": "Verordnung über den Beruf der Hebamme",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/811.116",
+   "versions": [
+    {
+     "from": "1994-03-08",
+     "units": 10,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/811.116",
+     "sha256": "208172cc9badd3c5f68d5ca536d175fef1b77f35051165e70c3316275a778898"
+    }
+   ]
+  },
+  {
+   "slug": "812-111-3",
+   "short": "bGS 812.111.3",
+   "title": "Verordnung über die Entschädigung der Mitglieder des Verwaltungsrates des Spitalverbundes Appenzell Ausserrhoden",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/812.111.3",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/812.111.3/versions/837",
+     "sha256": "5cee9137767020bf3d3e85dff843a1f67ba79cf37db72c789de698fae1385ad4"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/812.111.3",
+     "sha256": "f382b67a2d92c66702538b1106b02970d2d5183b029f1201989db27e2326a38a"
+    }
+   ]
+  },
+  {
+   "slug": "813-22",
+   "short": "bGS 813.22",
+   "title": "Vorläufige Verordnung über die Einführung des Bundesgesetzes über den Schutz vor gefährlichen Stoffen und Zubereitungen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/813.22",
+   "versions": [
+    {
+     "from": "2005-10-01",
+     "units": 5,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/813.22/versions/420",
+     "sha256": "e93d0b7734a14bed90691a6657914da9f8edb043a3e837548e0a3b1c06d0b3ff"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 5,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/813.22",
+     "sha256": "4637b45d61e563398b295b0d0df97270b3cb0dd5ac0daf01d251f305a8b6e2d6"
+    }
+   ]
+  },
+  {
+   "slug": "814-01-umwelt-und-gewasserschutzverordnung-ugsv",
+   "short": "Umwelt- und Gewässerschutzverordnung; UGsV",
+   "title": "Verordnung zum Gesetz über die Einführung der Bundesgesetze über den Umweltschutz und über den Schutz der Gewässer",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/814.01",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "units": 44,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/814.01/versions/690",
+     "sha256": "a57c110009531dffc33529cf53d602a0498553cd652f656e821f4ef67891f178"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 44,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/814.01/versions/1051",
+     "sha256": "144cfb8818d82ddce1b6cf06d031c01f5d1c7406e1a002d47b2df2b449ea31a8"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 44,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/814.01",
+     "sha256": "b5af02369e465665080632321643daf7446c4c8070df1c6d01001c73eb782273"
+    }
+   ]
+  },
+  {
+   "slug": "814-01-2-schadenwehrverordnung",
+   "short": "Schadenwehrverordnung",
+   "title": "Verordnung über die Schadenwehr",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/814.01.2",
+   "versions": [
+    {
+     "from": "2005-10-01",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/814.01.2",
+     "sha256": "f73da216dfd86eea198cd1157e3841a8535b4e368552d680045a0a971f00263c"
+    }
+   ]
+  },
+  {
+   "slug": "814-01-3-gov",
+   "short": "GOV",
+   "title": "Verordnung über den Umgang mit invasiven gebietsfremden Organismen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/814.01.3",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/814.01.3",
+     "sha256": "369236b047e88ddd9fdee1f1401f48ba3c013b692dc260197e0df6e9a908c0bd"
+    }
+   ]
+  },
+  {
+   "slug": "815-11-lkv",
+   "short": "LKV",
+   "title": "Verordnung über die Lebensmittelkontrolle",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/815.11",
+   "versions": [
+    {
+     "from": "1996-09-09",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/815.11/versions/337",
+     "sha256": "742207a02f06e32e9eb84d51f48c5faf81d5eef2e60b99124f46ede94a5d93be"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/815.11",
+     "sha256": "4ecbb25612e52c27b1f7d5c0bb67c47eb69c05f555253d3f4eb4daf5ae00e846"
+    }
+   ]
+  },
+  {
+   "slug": "815-13-fkv",
+   "short": "FKV",
+   "title": "Verordnung über die Fleischkontrolle",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/815.13",
+   "versions": [
+    {
+     "from": "1996-11-18",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/815.13/versions/336",
+     "sha256": "79d5eb76047723a842e7020f54f63968ce682a65c85e24639d2cb1cadb47a8b9"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/815.13",
+     "sha256": "a9fc3327da9ca3c59168f5c527fd5401c8d366493cd0dd827397f302c00f703e"
+    }
+   ]
+  },
+  {
+   "slug": "816-11",
+   "short": "bGS 816.11",
+   "title": "Verordnung zum Bundesgesetz vom 13. Juni 1928 betreffend Massnahmen gegen die Tuberkulose",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/816.11",
+   "versions": [
+    {
+     "from": "1973-10-25",
+     "units": 30,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/816.11/versions/596",
+     "sha256": "ea934c0022b6234c98e70fd1add5c1b54a3c88486aed59c8ba127f60a6a2b16c"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 30,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/816.11/versions/793",
+     "sha256": "6b230582fe0fc1d8e22b2bd025e0df65e7291274446c2acdc8f43abd6ff8a865"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 30,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/816.11/versions/1056",
+     "sha256": "7ab61430e97c744d5d0f4c6016076192720bea93612a21c9610f5362dec924ef"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 30,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/816.11",
+     "sha256": "fd6bfda568175bd39254b7f71cab6e45e3471f0f4c62d8d237848674bc272fd5"
+    }
+   ]
+  },
+  {
+   "slug": "816-31",
+   "short": "bGS 816.31",
+   "title": "Verordnung über das Bestattungswesen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/816.31",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/816.31/versions/650",
+     "sha256": "6cda18dffb35155ff4aeacc70d3f4b68d41c16f36990aa5a463eacee7e03b24a"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/816.31",
+     "sha256": "2412a12b36c6f42948236ff5ca35a6959e3d03262469d3c6e199a958500c928b"
+    }
+   ]
+  },
+  {
+   "slug": "822-11",
+   "short": "bGS 822.11",
+   "title": "Verordnung zum Bundesgesetz vom 13. März 1964 über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz)",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/822.11",
+   "versions": [
+    {
+     "from": "1995-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.11/versions/652",
+     "sha256": "bf77b06b1c817746543a7e8e03c626a9ac1badedc70775c032b64f44c01a3952"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 13,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.11",
+     "sha256": "8671e25bfd366bf3a2e576040d19942302e2d58bb403d2719d466d51097ec1af"
+    }
+   ]
+  },
+  {
+   "slug": "822-21",
+   "short": "bGS 822.21",
+   "title": "Einführungsverordnung zum Bundesgesetz vom 20. März 1981 über die Heimarbeit",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/822.21",
+   "versions": [
+    {
+     "from": "1995-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.21/versions/631",
+     "sha256": "64c7ca73183a1f95426e86648de8680fa8a8d0ff1e6e8c04a0fe57ce1a445cfc"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.21",
+     "sha256": "3faf4804c66944294b70b2a6237973cceeb5bd782d36843ae7d1d2bb09468c18"
+    }
+   ]
+  },
+  {
+   "slug": "822-61",
+   "short": "bGS 822.61",
+   "title": "Verordnung über Massnahmen gegen die Schwarzarbeit",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/822.61",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.61/versions/324",
+     "sha256": "656edfd7af0c25a036fc494649058daab67581d7a90636e99d88eec8eff6e4ec"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.61",
+     "sha256": "ab46af0fc3eafa90907b890a2f3897ffffdb23a4d403748e6c2ec42c5256ed15"
+    }
+   ]
+  },
+  {
+   "slug": "822-411-v-zum-famzg",
+   "short": "V zum FamZG",
+   "title": "Verordnung zum Einführungsgesetz zum Bundesgesetz über die Familienzulagen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/822.411",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.411/versions/328",
+     "sha256": "7191b14522586893b066622512c40fbcdd3c10c07d2ae671faad44d85f212230"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.411/versions/820",
+     "sha256": "172a852690047dfb1999681805e76865e177479b2cd8d4847854d81a7294e452"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.411/versions/821",
+     "sha256": "13886f6ac51969ca2710df350cafbf8099c3a54de8cf4c7d966f1f55cd8b4b9f"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 23,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/822.411",
+     "sha256": "e7608889a41063c7685ddc2ac149ec46a5967786472d23e7b14bec9d0bb97547"
+    }
+   ]
+  },
+  {
+   "slug": "823-1",
+   "short": "bGS 823.1",
+   "title": "Verordnung über das kantonale Einigungsamt",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/823.1",
+   "versions": [
+    {
+     "from": "1949-09-02",
+     "units": 39,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/823.1",
+     "sha256": "640a1969895a9a64250e429f3842c4d4c6ab376421ada521458aa91977ae7f77"
+    }
+   ]
+  },
+  {
+   "slug": "824-01",
+   "short": "bGS 824.01",
+   "title": "Verordnung zur Bundesgesetzgebung über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer und flankierende Massnahmen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/824.01",
+   "versions": [
+    {
+     "from": "2006-02-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/824.01/versions/914",
+     "sha256": "47acf2bce347549026df26dabff15901152c606a6fbc7c4301178ecdca17e4c0"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/824.01/versions/1063",
+     "sha256": "d9393ea71e44a5e8db28c5919188895c730d19d03d233678047e25071fdaa749"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/824.01",
+     "sha256": "9f924160aee4cfb7d398d0a0e01b6fa4868d0d7be78406cc6a4e705bc3129d4c"
+    }
+   ]
+  },
+  {
+   "slug": "824-11",
+   "short": "bGS 824.11",
+   "title": "Verordnung über die Arbeitsvermittlung und die Arbeitslosenversicherung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/824.11",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 21,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/824.11/versions/653",
+     "sha256": "90c97e0ccd6121d6de23efa5f925fae5486321b75797f46c41471dad74697259"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 21,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/824.11/versions/1064",
+     "sha256": "1d49927eb66d6d7ab9ab54df9bc886226bd8d1e854441c4598ac463b057a3d51"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 21,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/824.11",
+     "sha256": "3f54533d7ab03206ad6199ac27ea030d8a72cd0db8acbd37a0cd00a34f3a4ab3"
+    }
+   ]
+  },
+  {
+   "slug": "831-11",
+   "short": "bGS 831.11",
+   "title": "Verordnung über die Entschädigung der Mitglieder der Verwaltungskommission der Ausgleichskasse und der IV-Stelle Appenzell Ausserrhoden",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/831.11",
+   "versions": [
+    {
+     "from": "2016-06-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/831.11",
+     "sha256": "7498703adc3570f45df9d89fbcedbfd1ea33e602ad617ed8b6b823f6aadc8125"
+    }
+   ]
+  },
+  {
+   "slug": "832-311",
+   "short": "bGS 832.311",
+   "title": "Verordnung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/832.311",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/832.311/versions/915",
+     "sha256": "49402ff3e0ac4205353d67d301d2a2becec4d6ad75d0668d8d652af2b19b4018"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 28,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/832.311",
+     "sha256": "03e75acee27e32d082f38902d1ed341f5668cb8a3c89fb16b3d2e32fa32bc36d"
+    }
+   ]
+  },
+  {
+   "slug": "833-141-v-zum-kvg",
+   "short": "V zum KVG",
+   "title": "Verordnung zum Gesetz über die Einführung des Bundesgesetzes über die Krankenversicherung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/833.141",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 17,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.141/versions/309",
+     "sha256": "3cccb9e2470e5255c99583f508d29b533055182730001ffcf456643afba7030b"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 19,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.141/versions/705",
+     "sha256": "d9ee266acd1ee8c15267699e40da0bc2ff122e71a2c95020b5c8088934403b09"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 19,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.141/versions/1066",
+     "sha256": "c23ddcd06a0ed05d35d15a09999f203dfc7f9ed8a849dce85dfae3a7f60e0c0d"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 19,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.141",
+     "sha256": "8e0a0b8217c341951e9a14bf8f953175aca4721e7e4ec6318eab8051a3f29b7e"
+    }
+   ]
+  },
+  {
+   "slug": "833-151-pfv",
+   "short": "PFV",
+   "title": "Verordnung über die Pflegefinanzierung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/833.151",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 24,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.151/versions/1175",
+     "sha256": "bac1c781e591b447bcd79f8305b8ded3d801d2015e2156105aff94541648bfce"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 24,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.151/versions/1211",
+     "sha256": "fd5dd8cf426d4b9fd8be8e71d73bbaf9c45029b5abcb473cf62f010c0b8da50f"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.151/versions/1242",
+     "sha256": "58d75ae9fbdb67b99dbfbe6b3f9336f50fffc769bd1b707ff04f6860ca933615"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.151/versions/1347",
+     "sha256": "ad8884c7bfb31450b4265a537f7a5a12fb1e35c7aac2afc7676c9df3334fb3a6"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.151/versions/1370",
+     "sha256": "65496b49e00c959d6caf99e0744abff4ca02b7b439a551e6b09339d81db54845"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.151/versions/1510",
+     "sha256": "c7d7f372c7d0c6f240153b856031cc224f46d501e2a81e2b5283e8afe36d4942"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 25,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/833.151",
+     "sha256": "b664b7bc6d5e8903f0fe82f056092d2b9482c936c2cc9505d933aabbb1ddbbd3"
+    }
+   ]
+  },
+  {
+   "slug": "834-11",
+   "short": "bGS 834.11",
+   "title": "Geschäftsreglement für die tripartite Kommission des Kantons Appenzell A.Rh.",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/834.11",
+   "versions": [
+    {
+     "from": "2006-02-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/834.11/versions/657",
+     "sha256": "22c4bb803cb8fdca80cef12a95311f4baa764115276a45e34b17bb16f3f22921"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/834.11/versions/1067",
+     "sha256": "1043cec51d8274883319735256f568869534fcf77828e219977b9e41f45f6e78"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/834.11",
+     "sha256": "65296e978098fb4bc9cc41ba4542129f4bace8ab9d1399f51b080c69ef8819cb"
+    }
+   ]
+  },
+  {
+   "slug": "841-2",
+   "short": "bGS 841.2",
+   "title": "Verordnung über Massnahmen zur Sanierung der Wohnverhältnisse in den Berggebieten",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/841.2",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 4,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/841.2/versions/658",
+     "sha256": "365ac4cc57f52c6112282b1a7f9df6b82d006c54778b6db52452dd25c3d9b251"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 4,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/841.2",
+     "sha256": "8a33c984f74dcb8fc7e0fce7848046dad086afae7e7f5de3c16ce0fdb51d88dc"
+    }
+   ]
+  },
+  {
+   "slug": "841-11",
+   "short": "bGS 841.11",
+   "title": "Verordnung zum Gesetz vom 24. April 1966 über Massnahmen zur Förderung des Wohnungsbaues",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/841.11",
+   "versions": [
+    {
+     "from": "1966-10-24",
+     "units": 16,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/841.11",
+     "sha256": "49c65be030f3cde485c39354726e8dfcee597fc4ef46c04810657280d2d70036"
+    }
+   ]
+  },
+  {
+   "slug": "851-11-sozialhilfeverordnung-shv",
+   "short": "Sozialhilfeverordnung; SHV",
+   "title": "Verordnung zum Gesetz über die öffentliche Sozialhilfe",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/851.11",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/851.11/versions/305",
+     "sha256": "9a25c647a88a2d6c14f9b68e87167e10dc7edf4d3f5eb68543082d421ab4e575"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/851.11",
+     "sha256": "282d0fa3f67a0669e3721304faa76019ddce655d278994ab91fd28bb76158b9b"
+    }
+   ]
+  },
+  {
+   "slug": "852-51",
+   "short": "bGS 852.51",
+   "title": "Verordnung zur Interkantonalen Vereinbarung für Soziale Einrichtungen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/852.51",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 19,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/852.51/versions/303",
+     "sha256": "4cf1eb4e2469f2dcbe2f7716623cc26113fb83d641f842ffa21cfac0f44c504a"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 19,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/852.51/versions/803",
+     "sha256": "53956c8541599ddd81ab4dba29b519ec12399afe8733b199531382d73ee8a8ff"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 19,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/852.51/versions/1069",
+     "sha256": "7e4317b5b292cb2ec60bbd486a863a2a2a095a50689958dd401cb7a5458b127d"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 19,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/852.51/versions/1137",
+     "sha256": "95311ab32c1badb748d849e4371e639ffa6428f6ea492054217f8a03208694af"
+    },
+    {
+     "from": "2022-01-14",
+     "units": 19,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/852.51",
+     "sha256": "cef37060848fc29954972a15a147ff4a0f04861289074fab7c8de87972420ce4"
+    }
+   ]
+  },
+  {
+   "slug": "852-61-behindertenfinanzierungsverordnung-befiv",
+   "short": "Behindertenfinanzierungsverordnung; BeFiV",
+   "title": "Verordnung zur Finanzierung von Leistungsangeboten für Menschen mit Behinderung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/852.61",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/852.61/versions/659",
+     "sha256": "4d9ff18fb370e6c1870806e19b2e11a40906222ee4b8961cbeff9b41e5060ce5"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/852.61/versions/1071",
+     "sha256": "a39c969dfecfc109fc360c8a0278b61287ad39a35a1c5a267e633c01e3f4d22a"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/852.61/versions/1145",
+     "sha256": "11a8d1200a3983ec7c5cd0f22ea6d5027aa35372a77666da8b570dc263034813"
+    },
+    {
+     "from": "2022-01-14",
+     "units": 29,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/852.61",
+     "sha256": "0bcecb836f899ff3695ab16fe54897166a30086d71180b82690b0eb64bff0c42"
+    }
+   ]
+  },
+  {
+   "slug": "861-1-feuerschutzverordnung",
+   "short": "Feuerschutzverordnung",
+   "title": "Verordnung über den Feuerschutz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/861.1",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 64,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/861.1",
+     "sha256": "5aad9484f1961d961bdaaaa7221c45fb03bbc54e18824c9ea5523ce014a2d3c1"
+    }
+   ]
+  },
+  {
+   "slug": "862-11-assekuranzverordnung",
+   "short": "Assekuranzverordnung",
+   "title": "Verordnung über die Gebäude- und Grundstückversicherung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/862.11",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 47,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/862.11/versions/663",
+     "sha256": "4a25766d4d26f8eec9bc6e35498f2e3390282f36ba0604532d59cff862426a56"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 45,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/862.11",
+     "sha256": "eeafa2a9fabb68f534628f7f2d2c61467c0502209e7a3045a0dbe080a9168ed4"
+    }
+   ]
+  },
+  {
+   "slug": "862-111",
+   "short": "bGS 862.111",
+   "title": "Verordnung über die Entschädigung der Mitglieder des Verwaltungsrates der Assekuranz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/862.111",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/862.111/versions/1291",
+     "sha256": "f1d1927e095277f631f325ee3dd51f4d4e78ba08948627b663793f309cec501e"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 7,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/862.111",
+     "sha256": "7d9d75bbf9110b2107dcda64dfb16dcdfd4ec27573d1114c91833dc6efec6ca0"
+    }
+   ]
+  },
+  {
+   "slug": "911-11",
+   "short": "bGS 911.11",
+   "title": "Verordnung über die Wirtschaftsförderung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/911.11",
+   "versions": [
+    {
+     "from": "2008-12-02",
+     "units": 10,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/911.11/versions/664",
+     "sha256": "b53f9d0ae050f38caeb57789aa1ee8746acfd12dd3dbcc86390079ce5fe87d64"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/911.11/versions/750",
+     "sha256": "9d8b0b20fdeb6cb4907d17de9a610019c7c8daeb42d0f427d5a05018baa79e6f"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/911.11",
+     "sha256": "bd017f86cabaf52b5b7c5d9fa17fe6dc2782420ef6ae5fef57aea0d744f4073e"
+    }
+   ]
+  },
+  {
+   "slug": "920-11",
+   "short": "bGS 920.11",
+   "title": "Pflanzenschutzverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/920.11",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.11/versions/292",
+     "sha256": "5f24735997ed220a8dcc9435fa43545ae09c140566b55cddb2071c93816ba625"
+    },
+    {
+     "from": "2013-05-01",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.11/versions/823",
+     "sha256": "b6ac1ad51b6449dc70997b8e6cb67ed5f67af3e3390933a720dc97a8348a14b1"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.11/versions/1075",
+     "sha256": "097695c8fc808ebab04e96e9fcf58a5cfe35d25ca556bf44d99b956f1096a4da"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.11",
+     "sha256": "9096acf2dfb75c0ed9eb77561f165d885eafe3a9f5df6f4b1c2633f67241a2d8"
+    }
+   ]
+  },
+  {
+   "slug": "920-12-strukturverbesserungsverordnung",
+   "short": "Strukturverbesserungsverordnung",
+   "title": "Verordnung über die Strukturverbesserungen in der Landwirtschaft",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/920.12",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.12/versions/290",
+     "sha256": "1aa976e588991c6ef2535fa886a94940734659c4cdd6ff069baf1a36d1160c97"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 15,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.12",
+     "sha256": "4da3a73679cf8e3fd6b909de74d1568734a5bd88d6a94eb12791beff66aa91bd"
+    }
+   ]
+  },
+  {
+   "slug": "920-13-awv",
+   "short": "AWV",
+   "title": "Verordnung über die Alpwirtschaft",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/920.13",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 16,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.13/versions/405",
+     "sha256": "08d07accbbe9e0fb4d1890b593a1c23a4f4b02b1d0057e43e843bc47cd07521e"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 16,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.13",
+     "sha256": "e5e0708d3051977ef257ca04f670036fddecd55f87b499bc70736c7828cf13b3"
+    }
+   ]
+  },
+  {
+   "slug": "920-14-tzv",
+   "short": "TZV",
+   "title": "Verordnung über die Tierzucht",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/920.14",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.14/versions/404",
+     "sha256": "fc89081f6bec3436a0f0483540865852477f4d1cb30e9edecc6218a4d93f920e"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.14",
+     "sha256": "d7b7c1bf698bec43816945cc93930c96fe7703cb1f0022926c389ecbfc3a160f"
+    }
+   ]
+  },
+  {
+   "slug": "920-16-kweinv",
+   "short": "kWeinV",
+   "title": "Kantonale Weinverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/920.16",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 16,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.16/versions/806",
+     "sha256": "bf043d4b74628ddb4a286af784ac31dd09507c22b4bb4bfeed28b980b7b77e2f"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 16,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.16",
+     "sha256": "3e88b3db0f5c1bf6ee187939c49c96ef95704c17393096644b0b1d96411ea447"
+    }
+   ]
+  },
+  {
+   "slug": "920-17-lqbv",
+   "short": "LQBV",
+   "title": "Verordnung über die Landschaftsqualitätsbeiträge",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/920.17",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 3,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.17",
+     "sha256": "f1dd5096994b765d183fb8e31c232e35b2ff2c94769f6bcfb79102796728976c"
+    }
+   ]
+  },
+  {
+   "slug": "920-18-vnbv",
+   "short": "VNBV",
+   "title": "Verordnung über die Vernetzungsbeiträge",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/920.18",
+   "versions": [
+    {
+     "from": "2016-12-09",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.18",
+     "sha256": "e03fe7f0a38dd61e14364c69615ea522ac9b14afb6c31ca8d9da11fdc04ac593"
+    }
+   ]
+  },
+  {
+   "slug": "920-161-rebv",
+   "short": "RebV",
+   "title": "Verordnung über zugelassene Rebsorten",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/920.161",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 4,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/920.161",
+     "sha256": "540eb93d77c9982b17b5403e995b45d9aebcda053a43bc2d25e608e3cd582baf"
+    }
+   ]
+  },
+  {
+   "slug": "921-3",
+   "short": "bGS 921.3",
+   "title": "Verordnung zum Bundesgesetz über die landwirtschaftliche Pacht",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/921.3",
+   "versions": [
+    {
+     "from": "1995-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/921.3/versions/667",
+     "sha256": "708490a9991e91696e1629903007341867f0126c5edd4f5529910ce43e2d7d92"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/921.3",
+     "sha256": "5fe4c49bb23c326c9f70226dedd26254d606dfd93d1a42764000686e2e5af55b"
+    }
+   ]
+  },
+  {
+   "slug": "925-32-tgv",
+   "short": "TGV",
+   "title": "Verordnung über die Tiergesundheit",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/925.32",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 26,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/925.32/versions/282",
+     "sha256": "c80066926a9f010f12422a5573574d54d42b2ddcabe2c7585bc59dda02c2082f"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 26,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/925.32",
+     "sha256": "784902194f31b856319803fe442d2eea8bf93ebb0c8e82989e54db45209bc667"
+    }
+   ]
+  },
+  {
+   "slug": "925-321-veav",
+   "short": "VEAV",
+   "title": "Verordnung über die Entschädigungen und Abgaben im Veterinärwesen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/925.321",
+   "versions": [
+    {
+     "from": "2016-06-01",
+     "units": 16,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/925.321",
+     "sha256": "f933cbfeca1f9e66d37cc16b50c5ba5deda3047a55a08101be8c7aee141bf27d"
+    }
+   ]
+  },
+  {
+   "slug": "931-11-kantonale-waldverordnung",
+   "short": "kantonale Waldverordnung",
+   "title": "Verordnung zum kantonalen Waldgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/931.11",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 53,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/931.11/versions/279",
+     "sha256": "d4a38d3a011db23fa5a2822039d0aa53891458b0f4c604b0f8176b95fa7f1c70"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 53,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/931.11",
+     "sha256": "efeeb60907ee6884812c6d88b1100fe9e9b056d485e2d2dfda5f35bc748b91a2"
+    }
+   ]
+  },
+  {
+   "slug": "955-14",
+   "short": "bGS 955.14",
+   "title": "Verordnung zum Bundesgesetz vom 21. Juni 1932 über die gebrannten Wasser (Alkoholgesetz)",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/955.14",
+   "versions": [
+    {
+     "from": "1995-01-01",
+     "units": 6,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.14/versions/668",
+     "sha256": "ff5a353efe5c4342a64d10d9ac173f27ef598beb2ba2c05c0a9e5e824f1c3a5e"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 6,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.14",
+     "sha256": "5dc59efe9a8b56c8e9831fd2493bcff7fe02acc81e712f6bf7cc5bce3a179e67"
+    }
+   ]
+  },
+  {
+   "slug": "955-51",
+   "short": "bGS 955.51",
+   "title": "Verordnung zum Bundesgesetz über den Konsumkredit vom 23. März 2001 (KKG) und zur bundesrätlichen Verordnung zum Konsumkreditgesetz vom 6. November 2002 (VKKG)",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/955.51",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 14,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.51/versions/270",
+     "sha256": "4fda2b72fd16a7c8a5113f92922d27212dc0eeda96570196515f11fcdeb1def9"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 14,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.51",
+     "sha256": "7d0d24a397bcd2dd1ff4bd2cc5019f6571095cf4a126837e6b24c7e443eb4ff9"
+    }
+   ]
+  },
+  {
+   "slug": "955-111-gastgewerbeverordnung",
+   "short": "Gastgewerbeverordnung",
+   "title": "Verordnung zum Gesetz vom 7. Februar 1999 über das Gastgewerbe",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/955.111",
+   "versions": [
+    {
+     "from": "1999-05-01",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.111/versions/277",
+     "sha256": "aa33de798032918bb997444dcdfcc8baa0d8c2f0f7bb20d62549d2f215c259cf"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 12,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.111",
+     "sha256": "8611fdf634322d8c656cd20d3e0120b7fb7b5ae16cefa7d7e70358fc6871048f"
+    }
+   ]
+  },
+  {
+   "slug": "955-213-tv",
+   "short": "TV",
+   "title": "Tourismusverordnung",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/955.213",
+   "versions": [
+    {
+     "from": "2017-06-01",
+     "units": 20,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.213",
+     "sha256": "4081c04e5f284477b540658b08a946fbae4703d5b1925575e8269c1ce54794dd"
+    }
+   ]
+  },
+  {
+   "slug": "955-311-vkgs",
+   "short": "VKGS",
+   "title": "Verordnung zum kantonalen Geldspielgesetz",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/955.311",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.311",
+     "sha256": "d9cb3ed3423540c633e22f1c2a7e81b3397a6866c0a612b530faf208aaff2163"
+    }
+   ]
+  },
+  {
+   "slug": "955-321-lotteriefondsverordnung-lofv",
+   "short": "Lotteriefondsverordnung; LoFV",
+   "title": "Verordnung über die Zuweisung und Verwendung der Reingewinne aus Grossspielen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/955.321",
+   "versions": [
+    {
+     "from": "1995-01-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.321/versions/1111",
+     "sha256": "ff56666c8b43043d5ced644f9fea47f71324d01ddf9b43fe3c63eec6610d375b"
+    },
+    {
+     "from": "2022-02-01",
+     "units": 9,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/955.321",
+     "sha256": "efdb567856dc1393ce7e16117db3ed4c35d46d1d657d952ca71dbe406ad79ded"
+    }
+   ]
+  },
+  {
+   "slug": "956-11",
+   "short": "bGS 956.11",
+   "title": "Verordnung zum Bundesgesetz über das Messwesen",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/956.11",
+   "versions": [
+    {
+     "from": "2008-12-01",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/956.11/versions/269",
+     "sha256": "28828591b6857ba7cb20f99158a55f99ab7a9aab7d98b8e434adf004d4c4abe7"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 11,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/956.11",
+     "sha256": "73eae86a0a409809be8313d59225981569dc3dcf46fca3df9d39c6bf0346678f"
+    }
+   ]
+  },
+  {
+   "slug": "956-33",
+   "short": "bGS 956.33",
+   "title": "Verordnung zum Bundesgesetz vom 25. März 1977 über explosionsgefährliche Stoffe (Sprengstoffgesetz)",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/956.33",
+   "versions": [
+    {
+     "from": "1995-01-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/956.33/versions/673",
+     "sha256": "9c6dfb71f7f411c9d1272d4af6ad81dc118daf44a37a7ab4b9ae95cc55c0e271"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/956.33",
+     "sha256": "81ca44e15d2784b2f33b8927d935202b96f5e525835cfab4021a57b52c28e3b5"
+    }
+   ]
+  },
+  {
+   "slug": "956-311",
+   "short": "bGS 956.311",
+   "title": "Verordnung zum Bundesgesetz vom 4. Oktober 1930 über die Handelsreisenden sowie über die dazugehörende Vollziehungsverordnung vom 5. Juni 1931",
+   "url": "https://ar.clex.ch/app/de/texts_of_law/956.311",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 10,
+     "source_url": "https://ar.clex.ch/api/de/texts_of_law/956.311",
+     "sha256": "c3c8b0b612c5894a40df2a9b15225f9a1cf8160eb3cc97b43885778048582e7d"
+    }
+   ]
+  }
+ ]
+}
