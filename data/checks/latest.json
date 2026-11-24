@@ -1,27 +1,27 @@
 {
- "generated": "2026-11-24T12:53:06Z",
+ "generated": "2026-11-24T15:04:14Z",
  "latest": {
   "lexwork-appenzell-ausserrhoden|switzerland/appenzell-ausserrhoden/acts": {
-   "attempt": 2,
+   "attempt": 3,
    "audit": null,
    "census": {
     "checked": 33,
-    "current": 230,
+    "current": 231,
     "gone": 0,
     "held": 231,
     "not_at_source": 65,
     "out_of_scope": 9,
-    "pending": 28,
+    "pending": 27,
     "repo": 231,
     "source_in_scope": 258
    },
-   "check_id": "ch-lexwork-appenzell-ausserrhoden-20261124T125147Z",
+   "check_id": "ch-lexwork-appenzell-ausserrhoden-20261124T142915Z",
    "commits": null,
    "corpus": "switzerland/appenzell-ausserrhoden/acts",
-   "error": "RuntimeError: the kit's append gate: error: published head f20846af128a48b3600c3072253ce706ece262b5 timestamp 1795521208 exceeds capped documentation time 1795518000; wait or use a later docs-date; never rewrite it",
-   "finished": "2026-11-24T12:53:05Z",
+   "error": "RuntimeError: the kit's append gate: error: published head 3e58a6e175a026bc3aa5a5572f00d7ebe021209d timestamp 1795524787 exceeds capped documentation time 1795518000; wait or use a later docs-date; never rewrite it",
+   "finished": "2026-11-24T14:30:26Z",
    "flags": [],
-   "gap": 93,
+   "gap": 92,
    "note": "ar.clex.ch: index of 332 acts (332 in force); held 231; 27 in force and in scope not held yet, 9 out of scope (land-use plans, concessions, directives, forms: as the builder), 65 published only as PDF; 33 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "failed",
    "published": {
@@ -29,8 +29,8 @@
     "changed": [],
     "removed": []
    },
-   "requests": 70,
-   "runner": "lawwatch switzerland (d83546088b)",
+   "requests": 63,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
@@ -62,14 +62,12 @@
      "955.35",
      "956.111"
     ],
-    "changed": [
-     "211.1"
-    ],
+    "changed": [],
     "removed": []
    },
    "snapshot": "332 entries, 332 in force (ar.clex.ch)",
    "source": "lexwork-appenzell-ausserrhoden",
-   "started": "2026-11-24T12:51:47Z",
+   "started": "2026-11-24T14:29:15Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -77,11 +75,10 @@
     "new": 27,
     "nothing_new": 0,
     "parts": [
-     "95-watch-20261124-000-new.json",
-     "95-watch-20261124-001.json"
+     "95-watch-20261124-000-new.json"
     ],
     "pdf_only": 0,
-    "re_read": 1,
+    "re_read": 0,
     "unreadable": 0
    },
    "verify": null

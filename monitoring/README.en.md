@@ -6,7 +6,7 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Appenzell Ausserrhoden only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-24 12:53 UTC, Appenzell Ausserrhoden: systematic collection (ar.clex.ch): 70 addresses read; 27 added, 1 changed, 0 removed; the check failed; 93 not published, 0 of them with no reason.
+**Last check:** 2026-11-24 14:30 UTC, Appenzell Ausserrhoden: systematic collection (ar.clex.ch): 63 addresses read; 27 added, 0 changed, 0 removed; the check failed; 92 not published, 0 of them with no reason.
 
 ## Sources
 
@@ -18,6 +18,7 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 14:29](checks/2026-11.md#ch-lexwork-appenzell-ausserrhoden-20261124t142915z) | lexwork-appenzell-ausserrhoden | 63 | 27 | 0 | 0 | 92 (0) | the check failed | — |
 | [2026-11-24 12:51](checks/2026-11.md#ch-lexwork-appenzell-ausserrhoden-20261124t125147z) | lexwork-appenzell-ausserrhoden | 70 | 27 | 1 | 0 | 93 (0) | the check failed | — |
 | [2026-11-24 11:50](checks/2026-11.md#ch-lexwork-appenzell-ausserrhoden-20261124t115003z) | lexwork-appenzell-ausserrhoden | 189 | 92 | 1 | 0 | 95 (0) | the check failed | — |
 
