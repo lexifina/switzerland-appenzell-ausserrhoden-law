@@ -1,0 +1,21 @@
+{
+ "corpus": "ch/appenzell-ausserrhoden/acts",
+ "path": "switzerland/appenzell-ausserrhoden/acts",
+ "scope": "selected-acts",
+ "acts": 258,
+ "future_branch": "zukunft",
+ "publisher": "Kanton Appenzell Ausserrhoden, bGS (ar.clex.ch)",
+ "name": "Appenzell Ausserrhoden",
+ "language": "de",
+ "coverage": "258 acts of Appenzell Ausserrhoden with every dated version the source gives (662 versions), in force from 1913-04-27 to 2026-10-30",
+ "history": "in-force",
+ "history_from": "1913-04-27",
+ "record_to": "2026-10-30",
+ "checked_on": "2026-11-25",
+ "record_note": "Texts from Kanton Appenzell Ausserrhoden, bGS (ar.clex.ch).",
+ "in_force_trailer": "In-force",
+ "citation": {
+  "file": "([^/]+)/art-0*([0-9]+[a-z]?)\\.md",
+  "cites": "Art(ikel|\\.) ?{n}([^0-9a-z]|$)"
+ }
+}

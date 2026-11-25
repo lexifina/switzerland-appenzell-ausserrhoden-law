@@ -1,6 +1,6 @@
 # How this repository was made (Appenzell Ausserrhoden)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-25, the day the source data was retrieved.
 
 ## Sources
 
@@ -245,20 +245,49 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `956-11` | Verordnung zum Bundesgesetz über das Messwesen | 2 | 2008-12-01 to 2016-09-30 |
 | `956-33` | Verordnung zum Bundesgesetz vom 25. März 1977 über explosionsgefährliche Stoffe (Sprengstoffgesetz) | 2 | 1995-01-01 to 2016-01-01 |
 | `956-311` | Verordnung zum Bundesgesetz vom 4. Oktober 1930 über die Handelsreisenden sowie über die dazugehörende Vollziehungsverordnung vom 5. Juni 1931 | 1 | 2007-01-01 to 2007-01-01 |
+| `141-2-go-kr` | Geschäftsordnung des Kantonsrates | 5 | 2009-10-01 to 2022-04-01 |
+| `145-311` | Beschluss über die Zahl der Vizepräsidenten oder Vizepräsidentinnen des Kantonsgerichts | 2 | 2024-06-01 to 2025-11-01 |
+| `145-312` | Beschluss über die Zahl der nebenamtlichen Richter am Obergericht | 1 | 2025-06-01 to 2025-06-01 |
+| `212-33` | Gesetz über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen für Kinder | 2 | 1996-01-01 to 2013-01-01 |
+| `411-5-interkantonale-universitatsvereinbarung-iuv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen | 2 | 1999-01-01 to 2022-01-01 |
+| `413-3` | Vereinbarung über die Ost – Ostschweizer Fachhochschule | 1 | 2020-01-01 to 2020-01-01 |
+| `413-16` | Vereinbarung über die Interstaatliche Maturitätsschule für Erwachsene St.Gallen/Sargans | 1 | 1994-01-01 to 1994-01-01 |
+| `422-111-1` | Regierungsratsbeschluss über die Pflanzenreservate im Kanton Appenzell A.Rh. | 1 | 1969-03-31 to 1969-03-31 |
+| `422-111-2` | Regierungsratsbeschluss über die geschützten Pflanzen im Kanton Appenzell A.Rh. | 1 | 1995-01-01 to 1995-01-01 |
+| `422-111-3` | Regierungsratsbeschluss über den Schutz der Pilze | 1 | 2002-07-01 to 2002-07-01 |
+| `522-3-vpti` | Vereinbarung zwischen dem Bund und den Kantonen über die Harmonisierung und die gemeinsame Bereitstellung der Polizeitechnik und -informatik in der Schweiz | 1 | 2021-01-01 to 2021-01-01 |
+| `615-2-ikzav` | Vereinbarung über die interkantonale Zusammenarbeit und den Lastenausgleich im Bereich der Kultureinrichtungen von überregionaler Bedeutung | 1 | 2011-01-01 to 2011-01-01 |
+| `731-111-2` | Verzeichnis der Kantonsstrassen | 2 | 2011-07-01 to 2015-06-01 |
+| `731-112` | Gebührentarif zum Strassengesetz | 2 | 2010-02-01 to 2016-01-01 |
+| `761-32` | Gebührentarif zum EG SVG | 3 | 2016-06-01 to 2025-04-01 |
+| `811-15-ekos` | Vereinbarung über die Einsetzung der Ethikkommission Ostschweiz | 1 | 2016-06-01 to 2016-06-01 |
+| `814-01-1` | Gebührentarif für die Feuerungskontrolle | 2 | 2005-10-01 to 2021-09-01 |
+| `814-116` | Gebührentarif zum Gesetz über die Einführung der Bundesgesetze über den Umweltschutz und über den Schutz der Gewässer | 1 | 2005-10-01 to 2005-10-01 |
+| `815-111-1` | Gebührentarif für die Lebensmittelkontrolle | 2 | 1996-12-10 to 2016-01-01 |
+| `822-111` | Gebührentarif zum Bundesgesetz vom 13. März 1964 über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz) | 2 | 1985-01-01 to 2018-07-06 |
+| `852-5-ivse` | Interkantonale Vereinbarung für soziale Einrichtungen | 2 | 2008-01-01 to 2020-06-01 |
+| `861-4` | Kaminfegertarif | 2 | 2007-05-01 to 2013-04-01 |
+| `861-11` | Feuerwehrkonzept | 2 | 2009-11-10 to 2016-01-01 |
+| `925-51` | Interkantonale Vereinbarung zur Aufhebung der Interkantonalen Übereinkunft über den Viehhandel (Vielhandelskonkordat) vom 13. September 1943 | 1 | 2016-03-01 to 2016-03-01 |
+| `955-32-ikv-2020` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen | 1 | 2021-01-01 to 2021-01-01 |
+| `955-35-gsk` | Gesamtschweizerisches Geldspielkonkordat | 1 | 2021-01-01 to 2021-01-01 |
+| `956-111` | Auslagentarif für Eicharbeiten | 1 | 2008-12-02 to 2008-12-02 |
 
-The build made 443 commits:
+The build made 486 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 231 | first version of an act |
-| 212 | one law on its in-force day |
+| 104 | baseline texts where the record starts |
+| 382 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 3 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
-- 9 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 631 laws in the record.
-- 942 tags.
+- 3 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
+- 10 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 684 laws in the record.
+- 1019 tags.
 
 ## Dates
 
@@ -270,13 +299,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `67c7d502c0307d2dd14cd82806ee59834d88c1c12cdf0c0ff0acd1b8842dc7d1` (5486796 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `f538b8a39700419192d9357aff9753bed418367d796d3d73e3f86516ca4579df` (5941578 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-620 versions of 231 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -290,7 +319,7 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 

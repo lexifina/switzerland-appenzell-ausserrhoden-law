@@ -1,6 +1,6 @@
 # Verordnung zum Gesundheitsgesetz
 
-bGS 811.11 · 8 versions, from 2010-05-01 (latest in force: 2017-01-01) · <https://ar.clex.ch/app/de/texts_of_law/811.11>
+bGS 811.11 · 8 versions, from 2010-05-01 (latest in force: 2026-11-01) · <https://ar.clex.ch/app/de/texts_of_law/811.11>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,10 +21,12 @@ bGS 811.11 · 8 versions, from 2010-05-01 (latest in force: 2017-01-01) · <http
 | Art. 15 | [art-015.md](art-015.md) | 2 | 2026-11-01 |
 | Art. 16 | [art-016.md](art-016.md) | 0 |  |
 | Art. 17 | [art-017.md](art-017.md) | 0 |  |
+| Art. 17a | [art-017a.md](art-017a.md) | 1 | 2026-11-01 |
+| Art. 17b | [art-017b.md](art-017b.md) | 1 | 2026-11-01 |
+| Art. 17c | [art-017c.md](art-017c.md) | 1 | 2026-11-01 |
 | Art. 18 | [art-018.md](art-018.md) | 1 | 2026-11-01 |
 | Art. 18a | [art-018a.md](art-018a.md) | 3 | 2026-11-01 |
 | Art. 19 | [art-019.md](art-019.md) | 1 | 2016-01-01 |
 | Art. 20 | [art-020.md](art-020.md) | 0 |  |
-| Gliederung | [gliederung.md](gliederung.md) | 3 | 2026-11-01 |
 | Titel und Ingress | [ingress.md](ingress.md) | 1 | 2026-11-01 |
 | Schlussformel | [schluss.md](schluss.md) | 0 |  |
