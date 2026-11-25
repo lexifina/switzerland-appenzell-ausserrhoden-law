@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Appenzell Ausserrhoden: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-24 14:30 UTC, Appenzell Ausserrhoden: Systematische Sammlung (ar.clex.ch): 63 Adressen gelesen; 27 hinzugefügt, 0 geändert, 0 entfernt; die Prüfung ist fehlgeschlagen; 92 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-25 05:45 UTC, Appenzell Ausserrhoden: Systematische Sammlung (ar.clex.ch): 151 Adressen gelesen; 27 hinzugefügt, 0 geändert, 0 entfernt; Änderungen gefunden; 65 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Appenzell Ausserrhoden: Systematische Sammlung (ar.clex.ch)](https://ar.clex.ch/) | `<act>/` | täglich | — | die Prüfung ist fehlgeschlagen | beobachtet |
+| [Appenzell Ausserrhoden: Systematische Sammlung (ar.clex.ch)](https://ar.clex.ch/) | `<act>/` | täglich | 2026-11-25 05:45 UTC | Änderungen gefunden | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 05:41](checks/2026-11.md#ch-lexwork-appenzell-ausserrhoden-20261125t054131z) | lexwork-appenzell-ausserrhoden | 151 | 27 | 0 | 0 | 65 (0) | Änderungen gefunden | [44](https://github.com/lexifina/switzerland-appenzell-ausserrhoden-law/compare/631e8a4d7645...e608e6a0597d) |
 | [2026-11-24 14:29](checks/2026-11.md#ch-lexwork-appenzell-ausserrhoden-20261124t142915z) | lexwork-appenzell-ausserrhoden | 63 | 27 | 0 | 0 | 92 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-24 12:51](checks/2026-11.md#ch-lexwork-appenzell-ausserrhoden-20261124t125147z) | lexwork-appenzell-ausserrhoden | 70 | 27 | 1 | 0 | 93 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-24 11:50](checks/2026-11.md#ch-lexwork-appenzell-ausserrhoden-20261124t115003z) | lexwork-appenzell-ausserrhoden | 189 | 92 | 1 | 0 | 95 (0) | die Prüfung ist fehlgeschlagen | — |
