@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:16:54Z",
+ "generated": "2026-11-27T07:11:26Z",
  "latest": {
   "lexwork-appenzell-ausserrhoden|switzerland/appenzell-ausserrhoden/acts": {
    "attempt": 1,
@@ -23,11 +23,11 @@
     "repo": 258,
     "source_in_scope": 258
    },
-   "check_id": "ch-lexwork-appenzell-ausserrhoden-20261126T053801Z",
+   "check_id": "ch-lexwork-appenzell-ausserrhoden-20261127T053949Z",
    "commits": null,
    "corpus": "switzerland/appenzell-ausserrhoden/acts",
    "error": null,
-   "finished": "2026-11-26T05:39:47Z",
+   "finished": "2026-11-27T05:41:21Z",
    "flags": [],
    "gap": 65,
    "note": "ar.clex.ch: index of 332 acts (332 in force); held 258; 0 in force and in scope not held yet, 9 out of scope (land-use plans, concessions, directives, forms: as the builder), 65 published only as PDF; 37 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
@@ -37,7 +37,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 94,
+   "requests": 86,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +47,7 @@
    },
    "snapshot": "332 entries, 332 in force (ar.clex.ch)",
    "source": "lexwork-appenzell-ausserrhoden",
-   "started": "2026-11-26T05:38:01Z",
+   "started": "2026-11-27T05:39:49Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -68,7 +68,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 37,
-    "versions_checked": 111,
+    "versions_checked": 80,
     "versions_differ": 0
    }
   }

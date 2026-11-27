@@ -8,7 +8,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Appenzell Ausserrhoden: systematic collection (ar.clex.ch) · `switzerland/appenzell-ausserrhoden/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 05:39 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-27 05:41 UTC**.
 - Acts held here: 258; current at the source: 258; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 37 of the 258 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 65 (held here, no longer at the source: 65); with no reason: 0.
