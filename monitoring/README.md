@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Appenzell Ausserrhoden: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-27 05:41 UTC, Appenzell Ausserrhoden: Systematische Sammlung (ar.clex.ch): 86 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 65 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-28 05:40 UTC, Appenzell Ausserrhoden: Systematische Sammlung (ar.clex.ch): 89 Adressen gelesen; 0 hinzugefügt, 1 geändert, 0 entfernt; Änderungen gefunden; 66 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Appenzell Ausserrhoden: Systematische Sammlung (ar.clex.ch)](https://ar.clex.ch/) | `<act>/` | täglich | 2026-11-27 05:41 UTC | keine Änderung | beobachtet |
+| [Appenzell Ausserrhoden: Systematische Sammlung (ar.clex.ch)](https://ar.clex.ch/) | `<act>/` | täglich | 2026-11-28 05:40 UTC | Änderungen gefunden | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 05:38](checks/2026-11.md#ch-lexwork-appenzell-ausserrhoden-20261128t053847z) | lexwork-appenzell-ausserrhoden | 89 | 0 | 1 | 0 | 66 (0) | Änderungen gefunden | — |
 | [2026-11-27 05:39](checks/2026-11.md#ch-lexwork-appenzell-ausserrhoden-20261127t053949z) | lexwork-appenzell-ausserrhoden | 86 | 0 | 0 | 0 | 65 (0) | keine Änderung | — |
 | [2026-11-26 05:38](checks/2026-11.md#ch-lexwork-appenzell-ausserrhoden-20261126t053801z) | lexwork-appenzell-ausserrhoden | 94 | 0 | 0 | 0 | 65 (0) | keine Änderung | — |
 | [2026-11-25 05:41](checks/2026-11.md#ch-lexwork-appenzell-ausserrhoden-20261125t054131z) | lexwork-appenzell-ausserrhoden | 151 | 27 | 0 | 0 | 65 (0) | Änderungen gefunden | [44](https://github.com/lexifina/switzerland-appenzell-ausserrhoden-law/compare/631e8a4d7645...e608e6a0597d) |

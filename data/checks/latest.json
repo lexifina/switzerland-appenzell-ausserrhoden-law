@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:11:26Z",
+ "generated": "2026-11-28T08:33:50Z",
  "latest": {
   "lexwork-appenzell-ausserrhoden|switzerland/appenzell-ausserrhoden/acts": {
    "attempt": 1,
@@ -14,46 +14,48 @@
    },
    "census": {
     "checked": 37,
-    "current": 258,
+    "current": 257,
     "gone": 0,
     "held": 258,
     "not_at_source": 65,
     "out_of_scope": 9,
-    "pending": 0,
+    "pending": 1,
     "repo": 258,
     "source_in_scope": 258
    },
-   "check_id": "ch-lexwork-appenzell-ausserrhoden-20261127T053949Z",
+   "check_id": "ch-lexwork-appenzell-ausserrhoden-20261128T053847Z",
    "commits": null,
    "corpus": "switzerland/appenzell-ausserrhoden/acts",
    "error": null,
-   "finished": "2026-11-27T05:41:21Z",
+   "finished": "2026-11-28T05:40:21Z",
    "flags": [],
-   "gap": 65,
+   "gap": 66,
    "note": "ar.clex.ch: index of 332 acts (332 in force); held 258; 0 in force and in scope not held yet, 9 out of scope (land-use plans, concessions, directives, forms: as the builder), 65 published only as PDF; 37 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
-   "outcome": "no-change",
+   "outcome": "changed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 86,
+   "requests": 89,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [],
+    "changed": [
+     "861.4"
+    ],
     "removed": []
    },
    "snapshot": "332 entries, 332 in force (ar.clex.ch)",
    "source": "lexwork-appenzell-ausserrhoden",
-   "started": "2026-11-27T05:39:49Z",
+   "started": "2026-11-28T05:38:47Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 0,
-    "nothing_new": 0,
+    "nothing_new": 1,
     "parts": [],
     "pdf_only": 0,
     "re_read": 0,
@@ -68,7 +70,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 37,
-    "versions_checked": 80,
+    "versions_checked": 83,
     "versions_differ": 0
    }
   }
